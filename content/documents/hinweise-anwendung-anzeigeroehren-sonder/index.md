@@ -7,11 +7,11 @@ tags:
     - RFT
 ---
 
-**English title**: Notes on the use of indicator tubes
+**English title**: Notes on the use of indicator tubes - Special issue 3/1968
 
 This document contains an excerpt from the magazine “radio und fernsehen” (“radio and television”), published in the GDR, which discusses the use of various East German display tubes, with a particular focus on the Z570M and Z870M. It was released by RFT in March 1968.
 
-The content of the booklet differs from that of the similarly titled "Hinweise zur Anwendung von Anzeigeröhren."
+The content of the booklet differs from that of the similarly titled "Hinweise zur Anwendung von Anzeigeröhren".
 
 ### Chapters
 
