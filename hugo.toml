@@ -2,6 +2,7 @@ baseURL = 'https://display-tubes.org/'
 languageCode = 'en-us'
 title = 'Display Tubes'
 theme = 'slick'
+publishDir = 'docs'
 
 [markup]
     [markup.goldmark]
