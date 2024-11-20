@@ -36,15 +36,15 @@ Unfortunately, this particular unit shows significant wear and requires increase
 
 - [radiomuseum.org](https://www.radiomuseum.org/tubes/tube_gr10h.html)
 
-![ETL GR10H](assets/1.jpg)
+[![ETL GR10H](assets/1.jpg)](assets/1.jpg)
 
-![ETL GR10H](assets/2.jpg)
+[![ETL GR10H](assets/2.jpg)](assets/2.jpg)
 
-![ETL GR10H](assets/3.jpg)
+[![ETL GR10H](assets/3.jpg)](assets/3.jpg)
 
-![ETL GR10H](assets/4.jpg)
+[![ETL GR10H](assets/4.jpg)](assets/4.jpg)
 
-![ETL GR10H](assets/5.jpg)
+[![ETL GR10H](assets/5.jpg)](assets/5.jpg)
 
 <table>
     <tr>
