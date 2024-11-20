@@ -3,6 +3,8 @@ date: 2024-11-20
 title: Hinweise zur Anwendung von Anzeigeröhren - Sonderausgabe 3/1968
 categories:
     - documents
+tags:
+    - RFT
 ---
 
 **English title**: Notes on the use of indicator tubes
