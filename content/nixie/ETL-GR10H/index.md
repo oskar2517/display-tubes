@@ -1,5 +1,6 @@
 ---
 date: 2024-11-19
+lastmod: 2024-11-20
 title: ETL GR10H
 categories:
     - nixie
@@ -8,7 +9,7 @@ tags:
     - top-view
 ---
 
-An early Nixie tube produced by ETL, featuring digits visible through a small viewing window, with the majority of its envelope coated in black paint—likely intended to enhance contrast and minimize light bleed from adjacent tubes. Pictures posted on [jb-electronics.de](http://www.jb-electronics.de/html/elektronik/nixies/n_gr10h.htm) show a clear GR10H revealing that, like the [STC GN-1](/nixie/stc-gn-1/), the digits are connected to the tube's pins via thick wires.
+The GR10H is an early Nixie tube produced by ETL, featuring digits visible through a small viewing window, with the majority of its envelope coated in black paint—likely intended to enhance contrast and minimize light bleed from adjacent tubes. Pictures posted on [jb-electronics.de](http://www.jb-electronics.de/html/elektronik/nixies/n_gr10h.htm) show a clear GR10H revealing that, like the [STC GN-1](/nixie/stc-gn-1/), the digits are connected to the tube's pins via thick wires.
 
 Unfortunately, this particular unit shows significant wear and requires increased current to maintain a stable discharge.
 
