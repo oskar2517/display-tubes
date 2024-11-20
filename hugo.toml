@@ -1,0 +1,30 @@
+baseURL = 'https://display-tubes.org/'
+languageCode = 'en-us'
+title = 'Display Tubes'
+theme = 'slick'
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true
+    [markup.highlight]
+        codeFences = true
+        guessSyntax = true
+        noClasses = false
+
+[params]
+    description = "Discover the charm of vintage display technology—Nixie tubes, VFDs, Numitrons, and more. This site showcases their timeless glow and ingenious design through carefully curated images as well as additional information on their operation."
+    showNavHeader = true
+    
+    dateFmt = "02 Jan 2006"
+    showMetaDates = true
+    showRssLink = true
+    showmetalinks = true
+
+    mainSections = ["nixie", "other", "nomotron", "documents"]
+
+
+[sitemap]
+    changefreq = "daily"
+    filename = "sitemap.xml"
+    priority =  -1

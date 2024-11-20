@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Nixie on Display Tubes</title>
+		<link>http://localhost:1313/categories/nixie/</link>
+		<description>Recent content in Nixie on Display Tubes</description>
+		<generator>Hugo 0.138.0</generator>
+		<language>en-us</language>
+		<lastBuildDate>Tue, 19 Nov 2024 00:00:00 +0000</lastBuildDate>
+		<atom:link href="http://localhost:1313/categories/nixie/index.xml" rel="self" type="application/rss+xml"/>
+		<item>
+			<title>ETL GR10H</title>
+			<link>http://localhost:1313/nixie/etl-gr10h/</link>
+			<pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
+			<guid isPermaLink="true">http://localhost:1313/nixie/etl-gr10h/</guid>
+			<description>&lt;p&gt;An early Nixie tube produced by ETL, featuring digits visible through a small viewing window, with the majority of its envelope coated in black paint—likely intended to enhance contrast and minimize light bleed from adjacent tubes. Pictures posted on &lt;a href=&#34;http://www.jb-electronics.de/html/elektronik/nixies/n_gr10h.htm&#34;&gt;jb-electronics.de&lt;/a&gt; show a clear GR10H revealing that, like the &lt;a href=&#34;http://localhost:1313/nixie/stc-gn-1/&#34;&gt;STC GN-1&lt;/a&gt;, the digits are connected to the tube&amp;rsquo;s pins via thick wires.&lt;/p&gt;
+&lt;p&gt;Unfortunately, this particular unit shows significant wear and requires increased current to maintain a stable discharge.&lt;/p&gt;
+&lt;h3 id=&#34;key-specifications&#34;&gt;Key Specifications&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Property&lt;/th&gt;
+          &lt;th&gt;Description&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Manufacturer&lt;/td&gt;
+          &lt;td&gt;ETL&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Time period&lt;/td&gt;
+          &lt;td&gt;Early 1960s&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Digit height&lt;/td&gt;
+          &lt;td&gt;19mm&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Envelope diameter&lt;/td&gt;
+          &lt;td&gt;33mm&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Socket&lt;/td&gt;
+          &lt;td&gt;B17A&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.jb-electronics.de/downloads/elektronik/nixies/GR10H.pdf&#34;&gt;ETL GR10H datasheet&lt;/a&gt; (&lt;a href=&#34;https://web.archive.org/web/20240421195500/http://www.jb-electronics.de/downloads/elektronik/nixies/GR10H.pdf&#34;&gt;Archive&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.jb-electronics.de/html/elektronik/nixies/n_gr10h.htm&#34;&gt;jb-electronics.de&lt;/a&gt; (&lt;a href=&#34;https://web.archive.org/web/20240421194554/http://www.jb-electronics.de/html/elektronik/nixies/n_gr10h.htm&#34;&gt;Archive&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nixies.us/bwg_gallery/gr10h/&#34;&gt;nixies.us&lt;/a&gt; (&lt;a href=&#34;https://web.archive.org/web/20240422040424/https://www.nixies.us/bwg_gallery/gr10h/&#34;&gt;Archive&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.tube-tester.com/sites/nixie/data/GR10H/GR10H.htm&#34;&gt;tube-tester.com&lt;/a&gt; (&lt;a href=&#34;https://web.archive.org/web/20240424052213/https://www.tube-tester.com/sites/nixie/data/GR10H/GR10H.htm&#34;&gt;Archive&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.swissnixie.com/tubes/GR10H/&#34;&gt;swissnixie.com&lt;/a&gt; (&lt;a href=&#34;https://web.archive.org/web/20240424051922/https://www.swissnixie.com/tubes/GR10H/&#34;&gt;Archive&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.radiomuseum.org/tubes/tube_gr10h.html&#34;&gt;radiomuseum.org&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;assets/1.jpg&#34; alt=&#34;ETL GR10H&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;assets/2.jpg&#34; alt=&#34;ETL GR10H&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;assets/3.jpg&#34; alt=&#34;ETL GR10H&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;assets/4.jpg&#34; alt=&#34;ETL GR10H&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;assets/5.jpg&#34; alt=&#34;ETL GR10H&#34;&gt;&lt;/p&gt;
+&lt;table&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;a href=&#34;assets/6.jpg&#34;&gt;
+                &lt;img src=&#34;assets/6.jpg&#34;&gt;
+            &lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+            &lt;a href=&#34;assets/7.jpg&#34;&gt;
+                &lt;img src=&#34;assets/7.jpg&#34;&gt;
+            &lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+            &lt;a href=&#34;assets/8.jpg&#34;&gt;
+                &lt;img src=&#34;assets/8.jpg&#34;&gt;
+            &lt;/a&gt;
+        &lt;/td&gt;
+         &lt;td&gt;
+            &lt;a href=&#34;assets/9.jpg&#34;&gt;
+                &lt;img src=&#34;assets/9.jpg&#34;&gt;
+            &lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+            &lt;a href=&#34;assets/10.jpg&#34;&gt;
+                &lt;img src=&#34;assets/10.jpg&#34;&gt;
+            &lt;/a&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;a href=&#34;assets/11.jpg&#34;&gt;
+                &lt;img src=&#34;assets/11.jpg&#34;&gt;
+            &lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+            &lt;a href=&#34;assets/12.jpg&#34;&gt;
+                &lt;img src=&#34;assets/12.jpg&#34;&gt;
+            &lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+            &lt;a href=&#34;assets/13.jpg&#34;&gt;
+                &lt;img src=&#34;assets/13.jpg&#34;&gt;
+            &lt;/a&gt;
+        &lt;/td&gt;
+         &lt;td&gt;
+            &lt;a href=&#34;assets/14.jpg&#34;&gt;
+                &lt;img src=&#34;assets/14.jpg&#34;&gt;
+            &lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+            &lt;a href=&#34;assets/15.jpg&#34;&gt;
+                &lt;img src=&#34;assets/15.jpg&#34;&gt;
+            &lt;/a&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;</description>
+		</item>
+		<item>
+			<title>STC GN-1</title>
+			<link>http://localhost:1313/nixie/stc-gn-1/</link>
+			<pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
+			<guid isPermaLink="true">http://localhost:1313/nixie/stc-gn-1/</guid>
+			<description>&lt;p&gt;The GN-1, manufactured by STC, was among the earliest commercially available Nixie tubes. The oldest documentation I could locate dates back to December 1961 (referenced below). The tube&amp;rsquo;s design reflects its age, with the digits being formed from wire rather than stamped from sheet metal like in most later Nixies. The GN-1 emits a distinctly orange glow, indicative of a mercury-free design, which likely results in a shorter lifespan compared to later models. Unlike more modern Nixie tubes, the GN-1 includes two evaporative getters, clearly visible on the left and right sides of the glass envelope. Additionally, its numerals are not mounted on a metal pin insulated by spacers but are instead secured between two mica plates and connected to the tube&amp;rsquo;s pins via thick wires. Interestingly, according to the datasheet, the tube has two anodes for use with direct and alternating currrent respectively.&lt;/p&gt;
+&lt;p&gt;The tube originally came with a black shrink wrap that contained the manufacturer&amp;rsquo;s logo and the model description. A version without an anode grid was also available.&lt;/p&gt;
+&lt;h3 id=&#34;key-specifications&#34;&gt;Key Specifications&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Property&lt;/th&gt;
+          &lt;th&gt;Description&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Manufacturer&lt;/td&gt;
+          &lt;td&gt;STC&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Time period&lt;/td&gt;
+          &lt;td&gt;Early 1960s&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Digit height&lt;/td&gt;
+          &lt;td&gt;~25mm&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Envelope diameter&lt;/td&gt;
+          &lt;td&gt;40mm&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Socket&lt;/td&gt;
+          &lt;td&gt;B12A&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.jb-electronics.de/downloads/elektronik/nixies/GN-1.pdf&#34;&gt;Lorenz GN-1 datasheet&lt;/a&gt; (&lt;a href=&#34;https://web.archive.org/web/20240421194744/http://www.jb-electronics.de/downloads/elektronik/nixies/GN-1.pdf&#34;&gt;Archive&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.jb-electronics.de/html/elektronik/nixies/n_gn1.htm&#34;&gt;jb-electronics.de&lt;/a&gt; (&lt;a href=&#34;https://web.archive.org/web/20240421194441/http://www.jb-electronics.de/html/elektronik/nixies/n_gn1.htm?lang=en&#34;&gt;Archive&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nixies.us/bwg_gallery/gn1/&#34;&gt;nixies.us&lt;/a&gt; (&lt;a href=&#34;https://web.archive.org/web/20240422043053/https://www.nixies.us/bwg_gallery/gn1/&#34;&gt;Archive&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.swissnixie.com/tubes/GN1/&#34;&gt;swissnixie.com&lt;/a&gt; (&lt;a href=&#34;https://web.archive.org/web/20240424051453/https://www.swissnixie.com/tubes/GN1/&#34;&gt;Archive&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;assets/1.jpg&#34;&gt;&lt;img src=&#34;assets/1.jpg&#34; alt=&#34;STC GN-1&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;assets/2.jpg&#34;&gt;&lt;img src=&#34;assets/2.jpg&#34; alt=&#34;STC GN-1&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;assets/3.jpg&#34;&gt;&lt;img src=&#34;assets/3.jpg&#34; alt=&#34;STC GN-1&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;assets/4.jpg&#34;&gt;&lt;img src=&#34;assets/4.jpg&#34; alt=&#34;STC GN-1&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;assets/5.jpg&#34;&gt;&lt;img src=&#34;assets/5.jpg&#34; alt=&#34;STC GN-1&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;assets/16.jpg&#34;&gt;&lt;img src=&#34;assets/16.jpg&#34; alt=&#34;STC GN-1&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;table&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;a href=&#34;assets/6.jpg&#34;&gt;
+                &lt;img src=&#34;assets/6.jpg&#34;&gt;
+            &lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+            &lt;a href=&#34;assets/7.jpg&#34;&gt;
+                &lt;img src=&#34;assets/7.jpg&#34;&gt;
+            &lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+            &lt;a href=&#34;assets/8.jpg&#34;&gt;
+                &lt;img src=&#34;assets/8.jpg&#34;&gt;
+            &lt;/a&gt;
+        &lt;/td&gt;
+         &lt;td&gt;
+            &lt;a href=&#34;assets/9.jpg&#34;&gt;
+                &lt;img src=&#34;assets/9.jpg&#34;&gt;
+            &lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+            &lt;a href=&#34;assets/10.jpg&#34;&gt;
+                &lt;img src=&#34;assets/10.jpg&#34;&gt;
+            &lt;/a&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;a href=&#34;assets/11.jpg&#34;&gt;
+                &lt;img src=&#34;assets/11.jpg&#34;&gt;
+            &lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+            &lt;a href=&#34;assets/12.jpg&#34;&gt;
+                &lt;img src=&#34;assets/12.jpg&#34;&gt;
+            &lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+            &lt;a href=&#34;assets/13.jpg&#34;&gt;
+                &lt;img src=&#34;assets/13.jpg&#34;&gt;
+            &lt;/a&gt;
+        &lt;/td&gt;
+         &lt;td&gt;
+            &lt;a href=&#34;assets/14.jpg&#34;&gt;
+                &lt;img src=&#34;assets/14.jpg&#34;&gt;
+            &lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+            &lt;a href=&#34;assets/15.jpg&#34;&gt;
+                &lt;img src=&#34;assets/15.jpg&#34;&gt;
+            &lt;/a&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;</description>
+		</item>
+	</channel>
+</rss>

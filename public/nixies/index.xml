@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Vintage Display Technologies</title>
+		<link>http://165.227.136.27:3000/nixies/</link>
+		<description>Recent content on Vintage Display Technologies</description>
+		<generator>Hugo 0.138.0</generator>
+		<language>en-us</language>
+		<lastBuildDate>Sat, 16 Nov 2024 00:00:00 +0000</lastBuildDate>
+		<atom:link href="http://165.227.136.27:3000/nixies/index.xml" rel="self" type="application/rss+xml"/>
+		<item>
+			<title>STC GN-1</title>
+			<link>http://165.227.136.27:3000/nixies/gn-1/</link>
+			<pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
+			<guid isPermaLink="true">http://165.227.136.27:3000/nixies/gn-1/</guid>
+			<description>&lt;p&gt;hallo&lt;/p&gt;
+</description>
+		</item>
+	</channel>
+</rss>
