@@ -1,5 +1,6 @@
 ---
 date: 2024-11-19
+lastmod: 2024-11-23
 title: STC G10/241E
 categories:
     - nomotron
@@ -14,6 +15,8 @@ The tube features a specialized socket design based on the B12A socket, incorpor
 
 This particular unit includes two handwritten markings: one labeled "162" in the center of the mica shield and another, "B129CW," etched into the metal shell. The production of these tubes likely required significant manual craftsmanship.
 
+A full scan of the document "STC Valves Appilcation Report - G10/241E" containing much more information on the tube can be found [here](http://localhost:1313/documents/g10-241e-application-report/).
+
 ### Key Specifications
 
 | Property          | Description       |
@@ -26,6 +29,8 @@ This particular unit includes two handwritten markings: one labeled "162" in the
 | Socket            | McMurdo type X12E |
 
 ### References
+
+- [STC G10/241E Appplication Report](http://localhost:1313/documents/g10-241e-application-report/)
 
 - [STC G10/241E datasheet](https://www.industrialalchemy.org/pdf2/G10241E.pdf) ([Archive](https://web.archive.org/web/20240421194458/https://www.industrialalchemy.org/pdf2/G10241E.pdf))
 
