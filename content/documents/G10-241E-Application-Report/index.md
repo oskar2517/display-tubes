@@ -7,7 +7,9 @@ tags:
     - STC
 ---
 
-This document contains information on the STC G10/241E Nomotron tube, including explanations of its operating mechanism and detailed diagrams. It also features example circuits for various applications.
+This document details the design, functionality, and application of the STC G10-241E Nomotron, a unidirectional single pulse counting and display tube. It describes its operation and highlights its applications in areas such as tachometry, counting and batching, and frequency and time measurement. Besides a general overview over its mechanism of operation, it also contains detailed diagrams of the tube and example circuits for many of its aforementioned use cases.
+
+Detail pictures of the G10/241E can be found [here](/nomotron/stc-g10-241e/).
 
 ### Chapters
 
