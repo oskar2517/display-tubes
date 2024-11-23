@@ -27,3 +27,9 @@ The content of the booklet differs from that of the similarly titled "Hinweise z
 ### Download
 
 - [Hinweise zur Anwendung von Anzeigeröhren - Sonderausgabe.pdf](assets/Hinweise%20zur%20Anwendung%20von%20Anzeigeröhren%20-%20Sonderausgabe.pdf) ([Archive](https://archive.org/details/hinweise-zur-anwendung-von-anzeigerohren-sonderausgabe))
+
+### Excerpts
+
+[![Hinweise zur Anwendung von Anzeigeröhren - Sonderausgabe 3/1968](assets/1.png)](assets/1.png)
+
+[![Hinweise zur Anwendung von Anzeigeröhren - Sonderausgabe 3/1968](assets/2.png)](assets/2.png)
