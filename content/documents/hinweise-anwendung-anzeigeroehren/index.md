@@ -33,10 +33,10 @@ The content of the booklet differs from that of the similarly titled "Hinweise z
 
 ### Excerpts
 
-[![STC Valves Application Report - G10/241E Nomotron](assets/1.png)](assets/1.png)
+[![Hinweise zur Anwendung von Anzeigeröhren](assets/1.png)](assets/1.png)
 
-[![STC Valves Application Report - G10/241E Nomotron](assets/2.png)](assets/2.png)
+[![Hinweise zur Anwendung von Anzeigeröhren](assets/2.png)](assets/2.png)
 
-[![STC Valves Application Report - G10/241E Nomotron](assets/3.png)](assets/3.png)
+[![Hinweise zur Anwendung von Anzeigeröhren](assets/3.png)](assets/3.png)
 
-[![STC Valves Application Report - G10/241E Nomotron](assets/4.png)](assets/4.png)
+[![Hinweise zur Anwendung von Anzeigeröhren](assets/4.png)](assets/4.png)
