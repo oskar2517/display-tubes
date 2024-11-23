@@ -30,3 +30,13 @@ The content of the booklet differs from that of the similarly titled "Hinweise z
 ### Download
 
 - [Hinweise zur Anwendung von Anzeigeröhren.pdf](assets/Hinweise%20zur%20Anwendung%20von%20Anzeigeröhren.pdf) ([Archive](https://archive.org/details/hinweise-zur-anwendung-von-anzeigerohren))
+
+### Excerpts
+
+[![STC Valves Application Report - G10/241E Nomotron](assets/1.png)](assets/1.png)
+
+[![STC Valves Application Report - G10/241E Nomotron](assets/2.png)](assets/2.png)
+
+[![STC Valves Application Report - G10/241E Nomotron](assets/3.png)](assets/3.png)
+
+[![STC Valves Application Report - G10/241E Nomotron](assets/4.png)](assets/4.png)
