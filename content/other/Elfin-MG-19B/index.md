@@ -8,7 +8,7 @@ tags:
     - side-view
 ---
 
-The MG-19B is a tiny, segmented neon-filled display lamp produced by Rodan and marketed under the Elfin brand, designed for use in small electronic instruments. It features two additional diagonal segments, enabling it to display the digits '1' and '7' more naturally, as well as certain other alphanumeric characters. The tube also includes a right decimal point. Unlike Nixie tubes, each cathode in the MG-19B requires an individual resistor, as the current needed varies with the number of illuminated segments. With a 180V breakdown voltage and a recommended 230V anode voltage, the tube operates at significantly higher voltages than most Nixie tubes. This made driving the MG-19B more complex, as affordable high-voltage transistors were not readily available when the tube was introduced.
+The MG-19B is a tiny, segmented neon-filled display tube produced by Rodan and marketed under the Elfin brand, designed for use in small electronic instruments. It features two additional diagonal segments, enabling it to display the digits '1' and '7' more naturally, as well as certain other alphanumeric characters. The tube also includes a right decimal point. Unlike Nixie tubes, each cathode in the MG-19B requires an individual resistor, as the current needed varies with the number of illuminated segments. With a 180V breakdown voltage and a recommended 230V anode voltage, the tube operates at significantly higher voltages than most Nixie tubes. This made driving the MG-19B more complex, as affordable high-voltage transistors were not readily available when the tube was introduced.
 
 The tube in the accompanying images was distributed by Alco Electronic Products Inc., though the plastic lead organizer bears a small Rodan logo.
 
