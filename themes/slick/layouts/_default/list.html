@@ -1,4 +1,5 @@
 {{- define "main" }}
+{{- if .Description }}
 <div class="list-description">
     <div class="symbol">
         ?
@@ -7,6 +8,7 @@
         {{ .Description }}
     </div>
 </div>
+{{- end }}
 {{- $showfull := default false .Site.Params.showFullContent }}
 {{- $orderkey := default "date" .Site.Params.orderPageParam }}
 {{- $orderrev := default true .Site.Params.orderPageReverse }}
