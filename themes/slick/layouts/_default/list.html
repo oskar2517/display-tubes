@@ -1,4 +1,12 @@
 {{- define "main" }}
+<div class="list-description">
+    <div class="symbol">
+        ?
+    </div>
+    <div class="content">
+        {{ .Description }}
+    </div>
+</div>
 {{- $showfull := default false .Site.Params.showFullContent }}
 {{- $orderkey := default "date" .Site.Params.orderPageParam }}
 {{- $orderrev := default true .Site.Params.orderPageReverse }}
