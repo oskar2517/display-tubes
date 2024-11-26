@@ -20,7 +20,7 @@ The Z566M was primarily utilized in laboratory equipment such as voltmeters and 
 | Time period       | Late 1960s  |
 | Digit height      | 30mm        |
 | Envelope diameter | 29.2mm      |
-| Base diameter     | 62mm        |
+| Envelope height   | 62mm        |
 | Socket            | B13B        |
 
 ### References
