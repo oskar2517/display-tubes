@@ -25,7 +25,7 @@ Nomotrons:
 - 1x 11TU7
 
 Numitrons:
-- 8x DR2010
+- 10x DR2010 (2x convex top, 8x flat top)
 - 1x DTF104B
 
 VFD:
