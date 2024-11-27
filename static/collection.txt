@@ -1,0 +1,56 @@
+Nixies:
+- 1x GI-10 (Inditron)
+- 2x IN-1
+- 3x IN-14
+- 1x IN-19A
+- 6x IN-18
+- 6x LC-516
+- 2x 7977/B-4032
+- 2x ZM1120
+- 2x ZM1040
+- 5x ZM1020
+- 1x Z566M
+- 1x Z568M (dead)
+- 1x F9057A
+- 2x GN-1
+- 1x GN-3
+- 1x GR10H
+- 1x GR-211/CD94
+- 1x R|Z568M
+
+Dekatrons:
+- 6x ZM1070
+
+Nomotrons:
+- 1x 11TU7
+
+Numitrons:
+- 8x DR2010
+- 1x DTF104B
+
+VFD:
+- 2x DT-1704B (Digivac)
+- 6x IV-12
+- 6x IV-17
+- ~60x IV-6
+- 1x IV-27M
+- 1x IVL1-8/12
+- 1x IVL2-7/5
+
+Magic Eyes:
+- 1x EM71
+- 2x 6E5
+- 1x EM87
+
+Other:
+- 2x Z550M/ZM1050
+- 6x MG-19B
+- 1x Nimo
+- 2x E1T
+- 6x OmniRay SAO M 40
+- 1x OmniRay SD12W (dead)
+- ~100x IV-3
+
+Devices:
+- 1x Sharp Compet 23
+- 1x Homemade IV-12 calculator
