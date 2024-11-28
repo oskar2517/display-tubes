@@ -23,12 +23,13 @@ Dekatrons:
 
 Nomotrons:
 - 1x 11TU7
+- 2x G10/241E
 
 Numitrons:
 - 10x DR2010 (2x convex top, 8x flat top)
 - 1x DTF104B
 
-VFD:
+VFDs:
 - 2x DT-1704B (Digivac)
 - 6x IV-12
 - 6x IV-17
