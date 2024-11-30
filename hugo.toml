@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = 'Display Tubes'
 theme = 'slick'
 
+[pagination]
+  pagerSize = 1000
+
 [markup]
     [markup.goldmark]
         [markup.goldmark.renderer]
