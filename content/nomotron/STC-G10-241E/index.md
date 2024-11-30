@@ -57,3 +57,60 @@ A full scan of the document "STC Valves Appilcation Report - G10/241E" containin
 [![STC G10/241E](assets/6.jpg)](assets/6.jpg)
 
 [![STC G10/241E](assets/7.jpg)](assets/7.jpg)
+
+<table>
+    <tr>
+        <td>
+            <a href="assets/8.jpg">
+                <img src="assets/8.jpg">
+            </a>
+        </td>
+        <td>
+            <a href="assets/9.jpg">
+                <img src="assets/9.jpg">
+            </a>
+        </td>
+        <td>
+            <a href="assets/10.jpg">
+                <img src="assets/10.jpg">
+            </a>
+        </td>
+         <td>
+            <a href="assets/11.jpg">
+                <img src="assets/11.jpg">
+            </a>
+        </td>
+        <td>
+            <a href="assets/12.jpg">
+                <img src="assets/12.jpg">
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="assets/13.jpg">
+                <img src="assets/13.jpg">
+            </a>
+        </td>
+        <td>
+            <a href="assets/14.jpg">
+                <img src="assets/14.jpg">
+            </a>
+        </td>
+        <td>
+            <a href="assets/15.jpg">
+                <img src="assets/15.jpg">
+            </a>
+        </td>
+         <td>
+            <a href="assets/16.jpg">
+                <img src="assets/16.jpg">
+            </a>
+        </td>
+        <td>
+            <a href="assets/17.jpg">
+                <img src="assets/17.jpg">
+            </a>
+        </td>
+    </tr>
+</table>
