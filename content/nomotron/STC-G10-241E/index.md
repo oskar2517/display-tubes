@@ -1,6 +1,6 @@
 ---
 date: 2024-11-19
-lastmod: 2024-11-30
+lastmod: 2024-12-02
 title: STC G10/241E
 categories:
     - nomotron
@@ -33,6 +33,8 @@ A full scan of the document "STC Valves Appilcation Report - G10/241E" containin
 - [STC G10/241E Appplication Report](http://localhost:1313/documents/g10-241e-application-report/)
 
 - [STC G10/241E datasheet](https://www.industrialalchemy.org/pdf2/G10241E.pdf) ([Archive](https://web.archive.org/web/20240421194458/https://www.industrialalchemy.org/pdf2/G10241E.pdf))
+
+- [Circuit diagrams for use with the GN-1 Nixie tube](/documents/numeral-indicator-tube-type-gn-1/)
 
 - [industrialalchemy.org](https://www.industrialalchemy.org/articleview.php?item=472) ([Archive](https://web.archive.org/web/20240421194630/https://www.industrialalchemy.org/articleview.php?item=472))
 

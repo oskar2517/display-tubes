@@ -1,6 +1,6 @@
 ---
 date: 2024-11-16
-lastmod: 2024-11-18
+lastmod: 2024-12-02
 title: STC GN-1
 categories:
     - nixie
@@ -9,7 +9,7 @@ tags:
     - top-view
 ---
 
-The GN-1, manufactured by STC, was among the earliest commercially available Nixie tubes. The oldest documentation I could locate dates back to December 1961 (referenced below). The tube's design reflects its age, with the digits being formed from wire rather than stamped from sheet metal like in most later Nixies. The GN-1 emits a distinctly orange glow, indicative of a mercury-free design, which likely results in a shorter lifespan compared to later models. Unlike more modern Nixie tubes, the GN-1 includes two evaporative getters, clearly visible on the left and right sides of the glass envelope. Additionally, its numerals are not mounted on a metal pin insulated by spacers but are instead secured between two mica plates and connected to the tube's pins via thick wires. Interestingly, according to the datasheet, the tube has two anodes for use with direct and alternating currrent respectively.
+The GN-1, manufactured by STC and sold under the name 'Nodistron', was among the earliest commercially available Nixie tubes. The oldest documentation I could locate dates back to December 1959 (referenced below). The tube's design reflects its age, with the digits being formed from wire rather than stamped from sheet metal like in most later Nixies. The GN-1 emits a distinctly orange glow, indicative of a mercury-free design, which likely results in a shorter lifespan compared to later models. Unlike more modern Nixie tubes, the GN-1 includes two evaporative getters, clearly visible on the left and right sides of the glass envelope. Additionally, its numerals are not mounted on a metal pin insulated by spacers but are instead secured between two mica plates and connected to the tube's pins via thick wires. Interestingly, according to the datasheet, the tube has two anodes for use with direct and alternating currrent respectively.
 
 The tube originally came with a black shrink wrap that contained the manufacturer's logo and the model description. A version without an anode grid was also available.
 
@@ -18,12 +18,14 @@ The tube originally came with a black shrink wrap that contained the manufacture
 | Property          | Description |
 |-------------------|-------------|
 | Manufacturer      | STC         |
-| Time period       | Early 1960s |
+| Time period       | Late 1950s  |
 | Digit height      | ~25mm       |
 | Envelope diameter | 40mm        |
 | Socket            | B12A        |
 
 ### References
+
+- [STC GN-1 datasheet](/documents/numeral-indicator-tube-type-gn-1/)
 
 - [Lorenz GN-1 datasheet](http://www.jb-electronics.de/downloads/elektronik/nixies/GN-1.pdf) ([Archive](https://web.archive.org/web/20240421194744/http://www.jb-electronics.de/downloads/elektronik/nixies/GN-1.pdf))
 
