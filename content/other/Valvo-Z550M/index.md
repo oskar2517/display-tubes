@@ -9,7 +9,7 @@ When the Nixie tube was introduced in the 1950s, it faced a significant drawback
 
 The Pixie tube works by combining multiple neon bulbs within a single enclosure, each illuminating a digit cut out of the front plate when activated. The tube operates with a common anode maintained at around 140 V. To light up a specific digit, the corresponding electrode's potential is increased by at least 5 V relative to the others. This small bias ensures the electrode preferentially ignites during the next cycle of the unsmoothed rectified AC voltage driving the tube. This also allows the tube to be directly controlled by the I/O pins of most modern microcontrollers.
 
-In theory, a Pixie tube can be driven similarly to a Nixie tube by utilizing the starter electrodes as cathodes. With high-voltage transistors now readily available, this approach becomes a more straightforward driving mechanism. It is important to note that the Z550M/ZM1050 functions solely as a display device. Despite its visual similarity to Nomotrons, it lacks any counting capability.
+In theory, a Pixie tube can be driven similarly to a Nixie tube by utilizing the starter electrodes as anodes with a common cathode. With high-voltage transistors now readily available, this approach becomes a more straightforward driving mechanism. It is important to note that the Z550M/ZM1050 functions solely as a display device. Despite its visual similarity to Nomotrons, it lacks any counting capability.
 
 Linked below is an in-depth article on the development and operation of the Pixie tube.
 
