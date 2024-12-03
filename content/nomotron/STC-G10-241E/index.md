@@ -15,7 +15,7 @@ The tube features a specialized socket design based on the B12A socket, incorpor
 
 This particular unit includes two handwritten markings: one labeled "162" in the center of the mica shield and another, "B129CW," etched into the metal shell. The production of these tubes likely required significant manual craftsmanship.
 
-A full scan of the document "STC Valves Appilcation Report - G10/241E" containing much more information on the tube can be found [here](http://localhost:1313/documents/g10-241e-application-report/).
+A full scan of the document "STC Valves Appilcation Report - G10/241E" containing much more information on the tube can be found [here](/documents/g10-241e-application-report/).
 
 ### Key Specifications
 
