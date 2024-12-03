@@ -30,7 +30,7 @@ A full scan of the document "STC Valves Appilcation Report - G10/241E" containin
 
 ### References
 
-- [STC G10/241E Appplication Report](http://localhost:1313/documents/g10-241e-application-report/)
+- [STC G10/241E Appplication Report](/documents/g10-241e-application-report/)
 
 - [STC G10/241E datasheet](https://www.industrialalchemy.org/pdf2/G10241E.pdf) ([Archive](https://web.archive.org/web/20240421194458/https://www.industrialalchemy.org/pdf2/G10241E.pdf))
 
