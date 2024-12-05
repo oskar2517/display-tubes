@@ -3,5 +3,5 @@ description: Nomotrons are counting tubes equipped with an extra shield that res
 keywords: [Nomotron]
 title: Nomotron
 menu: "main"
-weight: 2
+weight: 3
 ---
