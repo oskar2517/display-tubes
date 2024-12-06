@@ -8,7 +8,7 @@ tags:
     - side-view
 ---
 
-The R|Z568M is a massive modern Nixie tube produced by Dalibor Farný and his company. Each tube is manufactured by hand in the Czech Republic. As the name suggests, its design is meant to be reminiscent of the Z568M, the largest Nixie tube produced in the GDR. A picture below shows a comparison between the R|Z568M, an original Z568M, and a [Z566M](/nixie/rft-z566m/). Despite being the smallest of the three, the Z566M, with its 30mm digit height, is still considered a large tube. This makes the impressive scale of the R|Z568M, featuring 50mm digits, even more striking.
+The R|Z568M is a massive modern Nixie tube produced by Dalibor Farný and his company. Each tube is manufactured by hand in the Czech Republic. As the name suggests, its design is meant to be reminiscent of the Z568M, the largest Nixie tube produced in the GDR. A picture below shows a comparison between the R|Z568M, an original Z568M, and a [Z566M](/nixie/rft-z566m/). Despite being the smallest of the three, the Z566M, with its 30mm digit height, is still considered a large tube. This makes the impressive scale of the R|Z568M, featuring 50mm digits, even more striking. The manufacturing process of an R|Z568M tube is documented in [this video](https://youtu.be/wxL4ElboiuA).
 
 In contrast to the original Z568M, the R|Z568M does not have pins directly embedded into the glass envelope. Instead, its seal is pressed around the leads connected to the cathodes. A large aluminum base provides the tube with the necessary pins to ensure compatibility with the same SK-137 socket used by the original Z568M. The tubes are available with either a silver or black base.
 
@@ -31,6 +31,8 @@ Since Dalibor Farný began developing Nixie tubes in 2013, several other compani
 - [R|Z568M technical data](https://docs.daliborfarny.com/nixie-tubes/1/en/topic/technical-data) ([Archive](https://web.archive.org/web/20240415055840/https://docs.daliborfarny.com/nixie-tubes/1/en/topic/technical-data))
 
 - [Z568M datasheet](https://www.tube-tester.com/sites/nixie/dat_arch/RFT_book_05.pdf) ([Archive](https://web.archive.org/web/20240701120826/http://www.tube-tester.com/sites/nixie/dat_arch/RFT_book_05.pdf))
+
+- [The Art of Making a Nixie Tube](https://youtu.be/wxL4ElboiuA)
 
 - [daliborfarny.com](https://www.daliborfarny.com/project/rz568m-nixie-tube/) ([Archive](https://web.archive.org/web/20241118185834/https://www.daliborfarny.com/project/rz568m-nixie-tube/))
 
