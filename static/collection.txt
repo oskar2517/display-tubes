@@ -9,6 +9,7 @@ Nixies:
 - 2x ZM1120
 - 2x ZM1040
 - 5x ZM1020
+- 4x ZM1336K
 - 1x Z566M
 - 1x Z568M (dead)
 - 1x F9057A
