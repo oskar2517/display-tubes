@@ -1,5 +1,6 @@
 Nixies:
 - 1x GI-10 (Inditron)
+- 1x GR-211/CD94
 - 2x IN-1
 - 3x IN-14
 - 1x IN-19A
