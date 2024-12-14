@@ -11,7 +11,7 @@ Nixies:
 - 2x ZM1040
 - 5x ZM1020
 - 4x ZM1336K
-- 1x Z566M
+- 2x Z566M (one labeled ZM1040)
 - 1x Z568M (dead)
 - 1x F9057A
 - 2x GN-1
@@ -19,6 +19,7 @@ Nixies:
 - 1x GR10H
 - 1x GR-211/CD94
 - 1x R|Z568M
+- 1x B-7971
 
 Dekatrons:
 - 6x ZM1070
