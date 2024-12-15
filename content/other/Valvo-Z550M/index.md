@@ -5,7 +5,7 @@ categories:
     - Other
 tags:
     - Valvo
-    - side-view
+    - top-view
 ---
 
 When the Nixie tube was introduced in the 1950s, it faced a significant drawback: its driving circuitry required transistors with relatively high breakdown voltages capable of handling the elevated operating voltages. At the time, such transistors were not widely available. This limitation created a demand for an alternative display technology that could operate with low-voltage, low-current logic circuitry. The solution was the Pixie tube, initially designated as the Z550M and later renamed the ZM1050.
