@@ -1,60 +1,80 @@
 Nixies:
-- 1x GI-10 (Inditron)
-- 1x GR-211/CD94
-- 2x IN-1
-- 3x IN-14
-- 1x IN-19A
-- 6x IN-18
-- 6x LC-516
 - 2x 7977/B-4032
-- 2x ZM1120
-- 2x ZM1040
-- 5x ZM1020
-- 4x ZM1336K
-- 2x Z566M (one labeled ZM1040)
-- 1x Z568M (dead)
+- 1x B-7971
 - 1x F9057A
+- 1x GI-10 (Inditron)
 - 2x GN-1
 - 1x GN-3
-- 1x GR10H
 - 1x GR-211/CD94
+- 1x GR-211/CD94
+- 2x GR10H
+- 2x IN-1
+- 3x IN-14
+- 6x IN-18
+- 1x IN-19A
+- 6x LC-516
+- 1x NL5025
 - 1x R|Z568M
-- 1x B-7971
-
+- 1x XN1
+- 2x Z566M (one labeled ZM1040)
+- 1x Z568M (dead)
+- 5x ZM1020
+- 2x ZM1040
+- 2x ZM1120
+- 4x ZM1242
+- 4x ZM1336K
+ 
 Dekatrons:
 - 6x ZM1070
-
+ 
 Nomotrons:
 - 1x 11TU7
 - 2x G10/241E
-
+ 
 Numitrons:
 - 10x DR2010 (2x convex top, 8x flat top)
 - 1x DTF104B
-
+ 
 VFDs:
 - 2x DT-1704B (Digivac)
 - 6x IV-12
 - 6x IV-17
-- ~60x IV-6
+- 1x IV-22
+- 1x IV-26
 - 1x IV-27M
+- ~60x IV-6
 - 1x IVL1-8/12
 - 1x IVL2-7/5
-
+ 
 Magic Eyes:
-- 1x EM71
+- 1x 6E1P
 - 2x 6E5
-- 1x EM87
-
+- 1x 6E5/octal
+- 1x 6U5/6G5
+- 1x 6U5G
+- 3x EAM86
+- 1x EM1
+- 1x EM71
+- 2x EM80
+- 1x EM81
+- 3x EM84
+- 2x EM87
+- 2x PM84
+- 2x UM11
+- 4x UM80
+- 1x UM85
+ 
 Other:
-- 2x Z550M/ZM1050
+- 2x E1T
+- ~100x IV-3
 - 6x MG-19B
 - 1x Nimo
-- 2x E1T
 - 6x OmniRay SAO M 40
 - 1x OmniRay SD12W (dead)
-- ~100x IV-3
-
+- 1x XC18
+- 2x Z550M/ZM1050
+- 1x Z700U
+ 
 Devices:
 - 1x Sharp Compet 23
-- 1x Homemade IV-12 calculator
+ 
