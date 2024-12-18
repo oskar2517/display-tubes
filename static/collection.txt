@@ -23,18 +23,18 @@ Nixies:
 - 2x ZM1120
 - 4x ZM1242
 - 4x ZM1336K
- 
+
 Dekatrons:
 - 6x ZM1070
- 
+
 Nomotrons:
 - 1x 11TU7
 - 2x G10/241E
- 
+
 Numitrons:
 - 10x DR2010 (2x convex top, 8x flat top)
 - 1x DTF104B
- 
+
 VFDs:
 - 2x DT-1704B (Digivac)
 - 6x IV-12
@@ -45,7 +45,7 @@ VFDs:
 - ~60x IV-6
 - 1x IVL1-8/12
 - 1x IVL2-7/5
- 
+
 Magic Eyes:
 - 1x 6E1P
 - 2x 6E5
@@ -63,7 +63,7 @@ Magic Eyes:
 - 2x UM11
 - 4x UM80
 - 1x UM85
- 
+
 Other:
 - 2x E1T
 - ~100x IV-3
@@ -74,7 +74,6 @@ Other:
 - 1x XC18
 - 2x Z550M/ZM1050
 - 1x Z700U
- 
+
 Devices:
 - 1x Sharp Compet 23
- 
