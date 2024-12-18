@@ -3,5 +3,5 @@ description: Before LCDs became widespread, various display technologies compete
 keywords: [Other]
 title: Other
 menu: "main"
-weight: 4
+weight: 5
 ---
