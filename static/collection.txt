@@ -6,7 +6,6 @@ Nixies:
 - 2x GN-1
 - 1x GN-3
 - 1x GR-211/CD94
-- 1x GR-211/CD94
 - 2x GR10H
 - 2x IN-1
 - 3x IN-14
