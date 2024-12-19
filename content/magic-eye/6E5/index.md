@@ -63,10 +63,8 @@ Several variations of the 6E5 were developed, including the 6G5 and 6U5, which i
     </tr>
 </table>
 
-[![6E5](assets/8.jpg)](assets/8.jpg)
+[![KEN-RAD 6E5](assets/8.jpg)](assets/8.jpg)
 
-[![6E5](assets/9.jpg)](assets/9.jpg)
+[![KEN-RAD 6E5](assets/9.jpg)](assets/9.jpg)
 
-[![6E5](assets/10.jpg)](assets/10.jpg)
-
-[![6E5](assets/11.jpg)](assets/11.jpg)
+[![KEN-RAD 6E5](assets/10.jpg)](assets/10.jpg)
