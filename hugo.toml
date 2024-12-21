@@ -24,7 +24,7 @@ theme = 'slick'
     showRssLink = true
     showmetalinks = true
 
-    mainSections = ["nixie", "other", "nomotron", "documents", "numitron", "magic-eye"]
+    mainSections = ["nixie", "other", "nomotron", "documents", "numitron", "magic-eye", "vfd"]
 
 
 [sitemap]
