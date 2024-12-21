@@ -44,7 +44,7 @@ Several variations of the 6E5 were developed, including the 6G5 and 6U5, which i
 
 [![KEN-RAD 6E5](assets/5.jpg)](assets/5.jpg)
 
-<video controls width="100%" loop="true" autoplay="true">
+<video controls width="100%" loop="true" autoplay="true" muted="muted">
   <source src="assets/video.mp4" type="video/mp4" />
 </video>
 
