@@ -64,7 +64,7 @@ Magic Eyes:
 - 1x UM85
 
 Other:
-- 2x E1T
+- 7x E1T
 - ~100x IV-3
 - 6x MG-19B
 - 1x Nimo
