@@ -1,5 +1,6 @@
 ---
 date: 2024-12-21
+lastmod: 2024-12-25
 title: Reflector IV-12
 categories:
     - vfd
@@ -8,7 +9,7 @@ tags:
     - side-view
 ---
 
-The IV-12 is a large seven segment VFD tube produced in Soviet Union by Reflector (known today as Sovtek). It closely resembles the IV-11 but lacks a decimal point and has solid pins instead of flying leads. This allows the tube to be installed in a common 10-pin socket still being produced in China. Like most VFD tubes, the IV-12 includes a grid that can be negatively charged to interrupt electron flow without disabling the filament. This capability allows for multiplexed operation (see schematic shown below) and effectively turns the tube into a triode.
+The IV-12 ("NB-12") is a large seven segment VFD tube produced in Soviet Union by Reflector (known today as Sovtek). It closely resembles the IV-11 but lacks a decimal point and has solid pins instead of flying leads. This allows the tube to be installed in a common 10-pin socket still being produced in China. Like most VFD tubes, the IV-12 includes a grid that can be negatively charged to interrupt electron flow without disabling the filament. This capability allows for multiplexed operation (see schematic shown below) and effectively turns the tube into a triode.
 
 To my knowledge, the IV-12 is the largest VFD in a standard tube envelope.
 

@@ -1,5 +1,6 @@
 ---
 date: 2024-12-25
+lastmod: 2024-12-25
 title: Reflector IV-17
 categories:
     - vfd
@@ -8,7 +9,7 @@ tags:
     - side-view
 ---
 
-The IV-17 is a medium-sized sixteen-plus-two segment VFD tube manufactured in the Soviet Union by Reflector, known today as Sovtek. Unlike the [IV-12](/vfd/reflector-iv-12/) seven-segment tube, the IV-17 can display all letters of the English alphabet in addition to the numbers zero through nine. Sixteen segments are dedicated to displaying characters, while the remaining two are used for the left and right decimal points. The character set used in the photos below is based on the one suggested by the datasheet of the Burroughs B-7971 sixteen-segment Nixie tube.
+The IV-17 ("NB-17") is a medium-sized sixteen-plus-two segment VFD tube manufactured in the Soviet Union by Reflector, known today as Sovtek. Unlike the [IV-12](/vfd/reflector-iv-12/) seven-segment tube, the IV-17 can display all letters of the English alphabet in addition to the numbers zero through nine. Sixteen segments are dedicated to displaying characters, while the remaining two are used for the left and right decimal points. The character set used in the photos below is based on the one suggested by the datasheet of the Burroughs B-7971 sixteen-segment Nixie tube.
 
 With 18 separate segments, and therefore 18 individual anodes, the tube features numerous leads. Including two additional leads for the filament and one for the grid, the total number of leads reaches 21, making socketing or soldering the tube quite challenging. Some tubes include an unused 22nd lead, which is typically shortened.
 
