@@ -1,10 +1,11 @@
 ---
-date: 2024-12-29
+date: 2024-12-30
 title: Anod IN-1
 categories:
     - nixie
 tags:
     - Anod
+    - Soviet Union
     - top-view
 ---
 

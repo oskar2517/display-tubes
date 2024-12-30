@@ -1,11 +1,12 @@
 ---
 date: 2024-12-25
-lastmod: 2024-12-25
+lastmod: 2024-12-30
 title: Reflector IV-17
 categories:
     - vfd
 tags:
     - Reflector
+    - Soviet Union
     - side-view
 ---
 
