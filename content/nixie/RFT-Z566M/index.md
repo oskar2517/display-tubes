@@ -1,5 +1,6 @@
 ---
 date: 2024-11-25
+lastmod: 2024-12-31
 title: RFT Z566M
 categories:
     - nixie
@@ -8,7 +9,7 @@ tags:
     - side-view
 ---
 
-The Z566M is a large Nixie tube manufactured by RFT. It is pin compatible with the ZM1040 but differs in design, featuring a flatter top and a top-evacuation design, though some earlier units were evacuated from the bottom. In some instances, Z566Ms have even been rebranded and sold as ZM1040s. A variant without the pre-applied red filter was marketed as the Z5660M.
+The Z566M is a large Nixie tube manufactured by RFT. It is pin compatible with the ZM1040 but differs in design, featuring a flatter top and a top-evacuation design, though some earlier units were evacuated from the bottom. In some instances, Z566Ms have even been rebranded and sold as ZM1040s (see picture at the end of this page). A variant without the pre-applied red filter was marketed as the Z5660M.
 
 The Z566M was primarily utilized in laboratory equipment such as voltmeters and frequency counters. Its large size also made it well-suited for devices designed for use in educational settings, such as schools. A Nixie tube featuring various symbols, designed to complement the Z566M/Z5660M, was marketed under the names Z567M and Z5670M.
 
@@ -100,3 +101,9 @@ The Z566M was primarily utilized in laboratory equipment such as voltmeters and 
         </td>
     </tr>
 </table>
+
+### Siemens Z566M
+
+The Z566M was purchased and rebranded as the ZM1040 by Siemens, likely as a response to production shortages.
+
+[![RFT Z566M](assets/14.jpg)](assets/14.jpg)
