@@ -44,9 +44,11 @@ VFDs:
 - ~60x IV-6
 - 1x IVL1-8/12
 - 1x IVL2-7/5
+- 1x LD8109
 
 Magic Eyes:
 - 1x 6E1P
+- 1x 6E2
 - 2x 6E5
 - 1x 6E5/octal
 - 1x 6U5/6G5
@@ -65,8 +67,10 @@ Magic Eyes:
 
 Other:
 - 7x E1T
+- 1x Edge-Lit Display (Unknown)
 - ~100x IV-3
 - 6x MG-19B
+- 1x MS-6A (Mosaic Indicator)
 - 1x Nimo
 - 6x OmniRay SAO M 40
 - 1x OmniRay SD12W (dead)
