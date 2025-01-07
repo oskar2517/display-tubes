@@ -1,5 +1,6 @@
 ---
 date: 2024-12-05
+lastmod: 2025-01-07
 title: RCA DTF104B
 categories:
     - Numitron
@@ -8,7 +9,7 @@ tags:
     - top-view
 ---
 
-The DTF104B is a Numitron display tube produced by RCA. Internally, it is nearly identical to the more common DR2000, but it is designed to be read from the top rather than the side. A spot exists on the backplate where a left decimal point could have been included, but it lacks filaments and is therefore non-functional on this model. Its flat top gives the DTF104B a distinct look and helps reducing reflections from adjacent tubes.
+The DTF104B is a Numitron display tube produced by RCA. Internally, it is nearly identical to the more common DR2000 and similar to the [DR2010](/numitron/rca-dr2010/), but it is designed to be read from the top rather than the side. A spot exists on the backplate where a left decimal point could have been included, but it lacks filaments and is therefore non-functional on this model. Its flat top gives the DTF104B a distinct look and helps reducing reflections from adjacent tubes.
 
 RCA and Apollo used the "DTF" prefix to denote experimental development tubes, suggesting that this model likely never went into mass production.
 
