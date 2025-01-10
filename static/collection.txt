@@ -24,6 +24,8 @@ Nixies:
 - 4x ZM1336K
 
 Dekatrons:
+- 1x GC10B/S
+- 1x GC12/4B
 - 6x ZM1070
 
 Nomotrons:
