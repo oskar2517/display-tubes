@@ -13,7 +13,9 @@ Nixies:
 - 1x IN-19A
 - 6x LC-516
 - 1x NL5025
+- 1x NL816
 - 1x R|Z568M
+- 5x SZ-8
 - 1x XN1
 - 2x Z566M (one labeled ZM1040)
 - 1x Z568M (dead)
@@ -46,6 +48,7 @@ VFDs:
 - ~60x IV-6
 - 1x IVL1-8/12
 - 1x IVL2-7/5
+- 1x IVLM2-5/7
 - 1x LD8109
 
 Magic Eyes:
@@ -76,6 +79,9 @@ Other:
 - 1x Nimo
 - 6x OmniRay SAO M 40
 - 1x OmniRay SD12W (dead)
+- 15x Telephone Line Busy Indicators
+- 1x Unknown 12 digit VFD
+- 1x Unknown VFD similar to IV-18
 - 1x XC18
 - 2x Z550M/ZM1050
 - 1x Z700U
