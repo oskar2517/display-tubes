@@ -1,9 +1,11 @@
 ---
 date: 2024-11-16
-lastmod: 2024-11-23
+lastmod: 2025-01-11
 title: OmniRay SAO M 40
 categories:
     - other
+tags:
+    - OmniRay
 ---
 
 The OmniRay SAO M 40 is a so-called Sphericular Optic Display. While similar in both appereance and operation to projection displays like the IEE one-plane readout, the theory behind the M 40 is vastly different. It employs the principle of geometric optics to produce a character on a flat viewing screen. The screen area is subdivided into more than a thousand tiny convex lenses, each focusing light from its specific focal plane. Characters are displayed by illuminating only certain sections of the screen from different angles, which selectively allows light to pass through areas, producing a character composed of many tiny dots.  A comprehensive explanation of the operational theory behind this device is available in the description of a similar model manufactured by Burroughs, accessible via the link provided below.
