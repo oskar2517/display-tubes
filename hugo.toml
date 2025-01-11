@@ -24,6 +24,8 @@ theme = 'slick'
     showRssLink = true
     showmetalinks = true
 
+    opengraph = true
+
     mainSections = ["nixie", "other", "nomotron", "documents", "numitron", "magic-eye", "vfd"]
 
 
