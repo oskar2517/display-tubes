@@ -50,6 +50,8 @@ VFDs:
 - 1x IVL2-7/5
 - 1x IVLM2-5/7
 - 1x LD8109
+- 1x Unknown 12 digit VFD
+- 1x Unknown VFD similar to IV-18
 
 Magic Eyes:
 - 1x 6E1P
@@ -80,8 +82,6 @@ Other:
 - 6x OmniRay SAO M 40
 - 1x OmniRay SD12W (dead)
 - 15x Telephone Line Busy Indicators
-- 1x Unknown 12 digit VFD
-- 1x Unknown VFD similar to IV-18
 - 1x XC18
 - 2x Z550M/ZM1050
 - 1x Z700U
