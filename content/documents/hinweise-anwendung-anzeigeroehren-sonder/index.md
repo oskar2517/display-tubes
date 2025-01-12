@@ -1,6 +1,7 @@
 ---
 date: 2024-11-20
 title: Hinweise zur Anwendung von Anzeigeröhren - Sonderausgabe 3/1968
+hasSecondFeature: false
 categories:
     - documents
 tags:

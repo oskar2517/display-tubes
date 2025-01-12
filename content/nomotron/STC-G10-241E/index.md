@@ -2,6 +2,7 @@
 date: 2024-11-19
 lastmod: 2024-12-08
 title: STC G10/241E
+hasSecondFeature: false
 categories:
     - nomotron
 tags:

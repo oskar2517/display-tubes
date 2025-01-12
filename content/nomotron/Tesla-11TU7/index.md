@@ -1,6 +1,7 @@
 ---
 date: 2024-12-08
 title: Tesla 11TU7
+hasSecondFeature: false
 categories:
     - nomotron
 tags:

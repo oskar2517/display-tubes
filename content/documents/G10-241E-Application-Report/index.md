@@ -1,6 +1,7 @@
 ---
 date: 2024-11-23
 title: STC Valves Application Report - G10/241E Nomotron
+hasSecondFeature: false
 categories:
     - documents
 tags:

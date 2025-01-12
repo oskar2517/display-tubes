@@ -16,7 +16,7 @@
 {{- $pagepool := cond $orderrev $pagepool.Reverse $pagepool }}
 {{- range $idx, $_ := (.Paginate $pagepool).Pages }}
 <div{{ if and $showfull $idx }} class="post-divider"{{ end }} class="list-post">
-  <a href="{{ .RelPermalink }}" class="list-post-preview-image">
+  <a href="{{ .RelPermalink }}" class="list-post-preview-image{{ if default true .Params.HasSecondFeature }} has-second-feature{{ end }}">
     <img src="{{ .RelPermalink }}/assets/feature.jpg">
   </a>
   {{- if default (default true .Site.Params.showMeta) .Params.showmeta }}

@@ -30,9 +30,30 @@ function backToTop(): void {
   });
 }
 
+function setupFeatureImageSwappers(): void {
+    const featureImages = document.querySelectorAll(".list-post-preview-image.has-second-feature");
+
+    for (const element of featureImages) {
+        const imageElement = element.querySelector("img")!!;
+        const originalSrc = imageElement.src ?? "";
+
+        element.addEventListener("mouseenter", () => {
+            imageElement.src = originalSrc.replace("feature", "feature2");
+        });
+
+        element.addEventListener("mouseleave", () => {
+            imageElement.src = originalSrc;
+        });
+    }
+}
+
 document.addEventListener("DOMContentLoaded", (): void => {
   setElementClass("img", "pure-img");
   setElementClass("table", "pure-table", ["lntable"]);
 
   backToTop();
+});
+
+window.addEventListener("load", () => {
+    setupFeatureImageSwappers();
 });

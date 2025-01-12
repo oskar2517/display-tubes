@@ -2,6 +2,7 @@
 date: 2024-12-02
 lastmod: 2024-12-02
 title: Numeral Indicator Tube Type GN-1 Nodistron
+hasSecondFeature: false
 categories:
     - documents
 tags:

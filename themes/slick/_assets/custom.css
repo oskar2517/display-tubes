@@ -212,10 +212,12 @@ h1, h2, h3, h4, h5, h6, .post-title {
 }
 
 .list-post .list-post-preview-image {
-    grid-area: a;;
+    grid-area: a;
     margin-top: 16px;
     max-width: 100%;
     max-height: 200px;
+    display: flex;
+    justify-content: center;
 }
 
 .list-post .list-post-title-wrapper {
