@@ -8,7 +8,7 @@ menu:
     weight: 90
 ---
 
-Discover the charm of vintage display technology—Nixie tubes, VFDs, Numitrons, and more. This site showcases their timeless glow and ingenious design through carefully curated images as well as additional information on their operation. Explore the beauty of a bygone era where innovation met artistry.
+This website is dedicated to my fascination with all kinds of vintage display devices—Nixie tubes, VFDs, Numitrons, and more. My goal is to showcases their ingenious design through carefully curated images as well as additional information on their operation. 
 
 ### License 
 
