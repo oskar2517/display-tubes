@@ -1,5 +1,6 @@
 ---
 date: 2024-12-18
+lastmod: 2025-01-18
 title: KEN-RAD 6E5
 categories:
     - magic eye
@@ -68,3 +69,5 @@ Several variations of the 6E5 were developed, including the 6G5 and 6U5, which i
 [![KEN-RAD 6E5](assets/9.jpg)](assets/9.jpg)
 
 [![KEN-RAD 6E5](assets/10.jpg)](assets/10.jpg)
+
+[![KEN-RAD 6E5](assets/12.jpg)](assets/12.jpg)
