@@ -12,6 +12,7 @@ Nixies:
 - 6x IN-18
 - 1x IN-19A
 - 6x LC-516
+- 4x LD8007
 - 1x NL5025
 - 1x NL816
 - 1x R|Z568M
@@ -20,12 +21,14 @@ Nixies:
 - 2x Z566M (one labeled ZM1040)
 - 1x Z568M (dead)
 - 5x ZM1020
+- 8x ZM1032
 - 2x ZM1040
 - 2x ZM1120
 - 4x ZM1242
 - 4x ZM1336K
 
 Dekatrons:
+- 1x DGL Pressler N4
 - 1x GC10B/S
 - 1x GC12/4B
 - 6x ZM1070
@@ -48,7 +51,7 @@ VFDs:
 - ~60x IV-6
 - 1x IVL1-8/12
 - 1x IVL2-7/5
-- 1x IVLM2-5/7
+- 2x IVLM2-5/7
 - 1x LD8109
 - 1x Unknown 12 digit VFD
 - 1x Unknown VFD similar to IV-18
@@ -73,9 +76,9 @@ Magic Eyes:
 - 1x UM85
 
 Other:
-- 7x E1T
+- 15x E1T
 - 1x Edge-Lit Display (Unknown)
-- ~100x IV-3
+- ~100x IN-3
 - 6x MG-19B
 - 1x MS-6A (Mosaic Indicator)
 - 1x Nimo
