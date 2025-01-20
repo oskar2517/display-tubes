@@ -3,5 +3,5 @@ description: A magic eye tube, also known as a tuning indicator, is a type of va
 keywords: [Magic Eye]
 title: Magic Eye
 menu: "main"
-weight: 5
+weight: 6
 ---

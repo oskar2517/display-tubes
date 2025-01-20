@@ -26,7 +26,7 @@ theme = 'slick'
 
     opengraph = true
 
-    mainSections = ["nixie", "other", "nomotron", "documents", "numitron", "magic-eye", "vfd"]
+    mainSections = ["nixie", "other", "nomotron", "documents", "numitron", "magic-eye", "vfd", "dekatron"]
 
 
 [sitemap]
