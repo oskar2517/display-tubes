@@ -16,7 +16,7 @@ Nixies:
 - 1x NL5025
 - 1x NL816
 - 1x R|Z568M
-- 5x SZ-8
+- 6x SZ-8
 - 1x XN1
 - 2x Z566M (one labeled ZM1040)
 - 1x Z568M (dead)
