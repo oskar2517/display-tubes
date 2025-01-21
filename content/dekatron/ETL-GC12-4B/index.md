@@ -37,6 +37,10 @@ The GC12/4B is nearly identical to the GC10/4B, with the key distinction being t
 
 [![ETL GC12/4B](assets/1.jpg)](assets/1.jpg)
 
+[![ETL GC12/4B](assets/9.jpg)](assets/9.jpg)
+
+[![ETL GC12/4B](assets/10.jpg)](assets/10.jpg)
+
 [![ETL GC12/4B](assets/2.jpg)](assets/2.jpg)
 
 [![ETL GC12/4B](assets/3.jpg)](assets/3.jpg)
@@ -51,7 +55,12 @@ The GC12/4B is nearly identical to the GC10/4B, with the key distinction being t
 
 [![ETL GC12/4B](assets/8.jpg)](assets/8.jpg)
 
-
 <video controls width="100%" loop="true" autoplay="true" muted="muted">
   <source src="assets/video.mp4" type="video/mp4" />
 </video>
+
+[![ETL GC12/4B](assets/11.jpg)](assets/11.jpg)
+
+[![ETL GC12/4B](assets/12.jpg)](assets/12.jpg)
+
+Like many of ETL's tubes, the GC12/4B comes packaged with a rocket-shaped cardboard insert that securely holds the tube inside the box.
