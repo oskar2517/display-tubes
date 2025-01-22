@@ -22,7 +22,7 @@ It is worth noting that I believe the original datasheet for the tube contains a
 | Time period       | 1960s             |
 | Filling           | Neon              |
 | Counting speed    | <25,000 c/s       |
-| Envelope diameter | 36,6mm            |
+| Envelope diameter | 36.6mm            |
 | Socket            | B12A              |
 
 ### References
