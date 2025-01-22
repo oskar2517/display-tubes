@@ -1,6 +1,7 @@
 Nixies:
 - 2x 7977/B-4032
 - 1x B-7971
+- 1x DGM01
 - 1x F9057A
 - 1x GI-10 (Inditron)
 - 2x GN-1
