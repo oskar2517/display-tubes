@@ -1,6 +1,7 @@
 Nixies:
 - 2x 7977/B-4032
 - 1x B-7971
+- 1x CD66A
 - 1x DGM01
 - 1x F9057A
 - 1x GI-10 (Inditron)
@@ -24,6 +25,7 @@ Nixies:
 - 5x ZM1020
 - 8x ZM1032
 - 2x ZM1040
+- 1x ZM1042
 - 2x ZM1120
 - 4x ZM1242
 - 4x ZM1336K
@@ -64,6 +66,7 @@ Magic Eyes:
 - 1x 6E5/octal
 - 1x 6U5/6G5
 - 1x 6U5G
+- 2x CV394
 - 3x EAM86
 - 1x EM1
 - 1x EM71
