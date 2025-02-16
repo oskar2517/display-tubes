@@ -94,4 +94,5 @@ Other:
 - 1x Z700U
 
 Devices:
+- 1x Contex D11
 - 1x Sharp Compet 23
