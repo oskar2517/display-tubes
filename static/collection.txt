@@ -17,9 +17,11 @@ Nixies:
 - 4x LD8007
 - 1x NL5025
 - 1x NL816
+- 1x NL841
 - 1x R|Z568M
 - 6x SZ-8
 - 1x XN1
+- 1x Z510M
 - 2x Z566M (one labeled ZM1040)
 - 1x Z568M (dead)
 - 5x ZM1020
@@ -83,6 +85,7 @@ Other:
 - 15x E1T
 - 1x Edge-Lit Display (Unknown)
 - ~100x IN-3
+- 4x Large Flip Displays
 - 6x MG-19B
 - 1x MS-6A (Mosaic Indicator)
 - 1x Nimo
