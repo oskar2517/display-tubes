@@ -6,7 +6,7 @@ Nixies:
 - 1x F9057A
 - 1x GI-10 (Inditron)
 - 2x GN-1
-- 1x GN-3
+- 1x GN-2
 - 1x GR-211/CD94
 - 2x GR10H
 - 2x IN-1
@@ -23,7 +23,6 @@ Nixies:
 - 1x XN1
 - 1x Z510M
 - 2x Z566M (one labeled ZM1040)
-- 1x Z568M (dead)
 - 5x ZM1020
 - 8x ZM1032
 - 2x ZM1040
