@@ -1,5 +1,6 @@
 ---
 date: 2024-12-06
+lastmod: 2025-02-21
 title: Dalibor Farný R|Z568M
 categories:
     - nixie
@@ -12,7 +13,7 @@ The R|Z568M is a massive modern Nixie tube produced by Dalibor Farný and his co
 
 In contrast to the original Z568M, the R|Z568M does not have pins directly embedded into the glass envelope. Instead, its seal is pressed around the leads connected to the cathodes. A large aluminum base provides the tube with the necessary pins to ensure compatibility with the same SK-137 socket used by the original Z568M. The tubes are available with either a silver or black base.
 
-Since Dalibor Farný began developing Nixie tubes in 2013, several other companies have joined the effort to produce new designs. Notable among them are the Ukrainian manufacturer [Millclock](https://millclock.com/) and the Chinese manufacturer [INIXIE](https://inixielab.com/), both specializing in large, aesthtically pleasing Nixie tubes. Dalibor Farný offers 10 years of warranty on every tube sold.
+Since Dalibor Farný began developing Nixie tubes in 2013, several other companies have joined the effort to produce new designs. Notable among them are the Ukrainian manufacturer [Millclock](https://millclock.com/) and the Chinese manufacturer [INIXIE](https://inixielab.com/) ([DGM01](/nixie/inixie-lab-dgm01/)), both specializing in large, aesthtically pleasing Nixie tubes. Dalibor Farný offers 10 years of warranty on every tube sold.
 
 ### Key Specifications
 
