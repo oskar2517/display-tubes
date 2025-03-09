@@ -30,7 +30,7 @@ Nixies:
 - 1x ZM1042
 - 2x ZM1120
 - 4x ZM1242
-- 4x ZM1336K
+- 2x ZM1332
 
 Dekatrons:
 - 1x DGL Pressler N4
@@ -86,6 +86,7 @@ Other:
 - 15x E1T
 - 1x Edge-Lit Display (Unknown)
 - ~100x IN-3
+- 1x KR33-01
 - 4x Large Flip Displays
 - 6x MG-19B
 - 1x MS-6A (Mosaic Indicator)
