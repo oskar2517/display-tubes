@@ -1,12 +1,15 @@
 Nixies:
 - 2x 7977/B-4032
 - 1x B-7971
+- 1x CD11
+- 1x CD28
 - 1x CD66A
 - 1x DGM01
 - 1x F9057A
 - 1x GI-10 (Inditron)
 - 2x GN-1
 - 1x GN-2
+- 1x GR-111
 - 1x GR-211/CD94
 - 2x GR10H
 - 2x IN-1
@@ -24,6 +27,7 @@ Nixies:
 - 1x XN1
 - 1x Z510M
 - 2x Z566M (one labeled ZM1040)
+- 8x Z5900M
 - 5x ZM1020
 - 8x ZM1032
 - 2x ZM1040
@@ -34,6 +38,8 @@ Nixies:
 
 Dekatrons:
 - 1x DGL Pressler N4
+- 1x DK24
+- 1x EZ10B
 - 1x GC10B/S
 - 1x GC12/4B
 - 6x ZM1070
@@ -66,13 +72,18 @@ Magic Eyes:
 - 1x 6E2
 - 2x 6E5
 - 1x 6E5/octal
+- 1x 6ME10
+- 1x 6ME5
+- 1x 6R-E13
 - 1x 6U5/6G5
 - 1x 6U5G
 - 2x CV394
+- 1x DM71
 - 3x EAM86
 - 1x EM1
 - 1x EM71
 - 2x EM80
+- 1x EM800
 - 1x EM81
 - 5x EM83
 - 3x EM84
@@ -100,4 +111,5 @@ Other:
 
 Devices:
 - 1x Contex D11
+- 1x DGL Pressler N4 Counter
 - 1x Sharp Compet 23
