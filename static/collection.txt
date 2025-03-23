@@ -101,7 +101,6 @@ Other:
 - 1x Edge-Lit Display (Unknown)
 - ~100x IN-3
 - 1x KR33-01
-- 4x Large Flip Displays
 - 6x MG-19B
 - 1x MS-6A (Mosaic Indicator)
 - 1x Nimo
