@@ -11,14 +11,16 @@ Nixies:
 - 1x GN-2
 - 1x GR-111
 - 1x GR-211/CD94
+- 1x GR10G
 - 2x GR10H
 - 2x IN-1
 - 10x IN-12
 - 3x IN-14
 - 6x IN-18
 - 1x IN-19A
-- 6x LC-516
+- 8x LC-516
 - 4x LD8007
+- 2x MUD0 6F
 - 1x NL5025
 - 1x NL816
 - 1x NL841
@@ -28,6 +30,7 @@ Nixies:
 - 1x Z510M
 - 2x Z566M (one labeled ZM1040)
 - 8x Z5900M
+- 2x ZM1000
 - 5x ZM1020
 - 8x ZM1032
 - 2x ZM1040
