@@ -41,6 +41,7 @@ Nixies:
 
 Dekatrons:
 - 1x DGL Pressler N4
+- 1x DK12
 - 1x DK24
 - 1x EZ10B
 - 1x GC10B/S
