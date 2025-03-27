@@ -46,7 +46,7 @@ Dekatrons:
 - 1x EZ10B
 - 1x GC10B/S
 - 1x GC12/4B
-- 6x ZM1070
+- 4x ZM1070
 
 Nomotrons:
 - 1x 11TU7
