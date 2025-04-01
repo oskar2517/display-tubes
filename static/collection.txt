@@ -4,11 +4,13 @@ Nixies:
 - 1x CD11
 - 1x CD28
 - 1x CD66A
+- 1x CK8650
 - 1x DGM01
 - 1x F9057A
 - 1x GI-10 (Inditron)
 - 2x GN-1
 - 1x GN-2
+- 2x GN-5A
 - 1x GR-111
 - 1x GR-211/CD94
 - 1x GR10G
@@ -109,8 +111,9 @@ Other:
 - 1x OmniRay SD12W (dead)
 - 15x Telephone Line Busy Indicators
 - 1x XC18
-- 2x Z550M/ZM1050
+- 2x Z550M
 - 1x Z700U
+- 1x ZM1050
 
 Devices:
 - 1x Contex D11
