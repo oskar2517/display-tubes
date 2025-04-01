@@ -56,4 +56,33 @@ document.addEventListener("DOMContentLoaded", (): void => {
 
 window.addEventListener("load", () => {
     setupFeatureImageSwappers();
+
+    const inputSearch = document.querySelector("#inputSearch") as HTMLInputElement;
+    const searchNoResults = document.querySelector("#searchNoResults") as HTMLInputElement;
+
+    if (!inputSearch) return;
+
+    function match(query: string, title: string): boolean {
+        if (query === "") return true;
+
+        return title.toLowerCase().includes(query.toLowerCase());
+    }
+
+    inputSearch.addEventListener("input", () => {
+        const posts = Array.from(document.querySelectorAll<HTMLElement>(".list-post-wrapper"));
+
+        let noResults = true;
+        for (const p of posts) {
+            const title = (p?.querySelector(".post-title") as HTMLElement)?.innerText;
+
+            if (match(inputSearch.value, title)) {
+                p.style.display = "block";
+                noResults = false;
+            } else {
+                p.style.display = "none";
+            }
+        }
+
+        searchNoResults.classList.toggle("visible", noResults);
+    });
 });

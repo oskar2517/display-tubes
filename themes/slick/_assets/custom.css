@@ -230,8 +230,32 @@ h1, h2, h3, h4, h5, h6, .post-title {
     hyphens: auto;
 }
 
-hr:last-of-type {
+.list-post-wrapper:not([style*="display: none"]):not(:has(~ .list-post-wrapper:not([style*="display: none"]))) hr {
     display: none;
+}
+
+.search {
+    margin: 10px 0;
+    display: flex;
+    flex-direction: column;
+    row-gap: 5px;
+    align-items: center;
+    font-family: Source Sans Pro, sans-serif;
+}
+
+.input-search {
+    width: 300px;
+    max-width: 95vw;
+    border: solid 1px #4d4d4c;
+    padding: 5px;
+}
+
+.search-no-results {
+    display: none;
+}
+
+.search-no-results.visible {
+    display: block;
 }
 
 code .ln { margin-right: .5em; }
