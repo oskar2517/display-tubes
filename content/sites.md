@@ -24,12 +24,12 @@ Below you can find a list of websites containing information on display tubes I 
 
 - *[swissnixie.com](https://swissnixie.com)*: Pictures of many rare Nixie tubes.
 
-- *[radiomuesum.org](https://radiomuesum.org)*: Contains information on basically any tube ever manufactured. Unfortunately relatively restrictive on accessing their content.
+- *[radiomuseum.org/](https://www.radiomuseum.org/)*: Contains information on basically any tube ever manufactured. Unfortunately relatively restrictive on accessing their content.
 
-- *[r-type.org](https://r-type.org)*: Contains information on many tubes including pictures, documents and historical adverts.
+- *[r-type.org](http://r-type.org)*: Contains information on many tubes including pictures, documents and historical adverts.
 
 - *[nixieclock.org](https://nixieclock.org/?page_id=3162)*: Large collection of Nixie and VFD tubes including some very rare specimens. They also sell high quality boost supplies for driving Nixie tubes.
 
-- *[www.ne.jp](https://www.ne.jp/asahi/shared/o-family/ElecRoom/PARTS/DISPLAY/ElecPds1.htm)*: Collection of Japanese Nixie tubes including some very rares ones.
+- *[asahi's website](https://www.ne.jp/asahi/shared/o-family/ElecRoom/PARTS/DISPLAY/ElecPds1.htm)*: Collection of Japanese Nixie tubes including some very rares ones.
 
-- *[www.solorb.com](https://www.solorb.com/elect/misc/magiceye/)*: Website dedicated to documenting every magic eye tube ever made.
+- *[solorb.com](https://www.solorb.com/elect/misc/magiceye/)*: Website dedicated to documenting every magic eye tube ever made.
