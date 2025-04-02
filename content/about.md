@@ -5,7 +5,7 @@ title: About
 date: 2024-11-18
 menu:
   main:
-    weight: 90
+    weight: 10
 ---
 
 This website is dedicated to my fascination with all kinds of vintage display devices—Nixie tubes, VFDs, Numitrons, and more. My goal is to showcases their ingenious design through carefully curated images as well as additional information on their operation. 
