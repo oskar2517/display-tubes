@@ -67,12 +67,12 @@ In keeping with Rodan's signature style, the CD11 features an exceptionally eleg
         </td>
          <td>
             <a href="assets/11.jpg">
-                <img src="assets/12.jpg">
+                <img src="assets/11.jpg">
             </a>
         </td>
         <td>
             <a href="assets/12.jpg">
-                <img src="assets/13.jpg">
+                <img src="assets/12.jpg">
             </a>
         </td>
     </tr>
