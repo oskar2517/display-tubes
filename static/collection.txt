@@ -33,6 +33,7 @@ Nixies:
 - 2x Z566M (one labeled ZM1040)
 - 8x Z5900M
 - 3x ZM1000
+- 1x ZM1008
 - 5x ZM1020
 - 8x ZM1032
 - 2x ZM1040
