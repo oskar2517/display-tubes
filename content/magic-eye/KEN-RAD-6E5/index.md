@@ -1,6 +1,6 @@
 ---
 date: 2024-12-18
-lastmod: 2025-01-18
+lastmod: 2025-04-04
 title: KEN-RAD 6E5
 categories:
     - magic eye
