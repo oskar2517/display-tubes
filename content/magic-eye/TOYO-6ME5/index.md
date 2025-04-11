@@ -1,5 +1,6 @@
 ---
 date: 2025-04-04
+lastmod: 2025-04-11
 title: TOYO 6ME5
 categories:
     - magic eye
@@ -42,7 +43,7 @@ Although it was used in certain radios, such as the Heathkit GR-21, the 6ME5 rem
 
 [![TOYO 6ME5](assets/4.jpg)](assets/4.jpg)
 
-[![TOYO 6ME5](assets/5.jpg)](assets/6.jpg)
+[![TOYO 6ME5](assets/5.jpg)](assets/5.jpg)
 
 [![TOYO 6ME5](assets/6.jpg)](assets/6.jpg)
 
