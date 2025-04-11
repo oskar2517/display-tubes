@@ -119,4 +119,6 @@ Other:
 Devices:
 - 1x Contex D11
 - 1x DGL Pressler N4 Counter
+- 1x Hameg HM 207
 - 1x Sharp Compet 23
+- 1x Sharp ELSI-160
