@@ -1,5 +1,7 @@
 Nixies:
+- 1x 6884A
 - 2x 7977/B-4032
+- 2x B-5441
 - 1x B-7971
 - 1x CD11
 - 1x CD28
@@ -7,6 +9,7 @@ Nixies:
 - 1x CK8650
 - 1x DGM01
 - 1x F9057A
+- 4x F9138A
 - 1x GI-10 (Inditron)
 - 2x GN-1
 - 1x GN-2
@@ -29,6 +32,7 @@ Nixies:
 - 1x R|Z568M
 - 6x SZ-8
 - 1x XN1
+- 1x XN3
 - 1x Z510M
 - 2x Z566M (one labeled ZM1040)
 - 8x Z5900M
@@ -56,11 +60,16 @@ Nomotrons:
 - 2x G10/241E
 
 Numitrons:
+- 1x DA1310
 - 10x DR2010 (2x convex top, 8x flat top)
 - 1x DTF104B
 
 VFDs:
+- 2x 9-CT-02
+- 1x Board with 8 IV-6s
+- 1x CU205SCPB
 - 2x DT-1704B (Digivac)
+- 1x FIP20D9X
 - 6x IV-12
 - 6x IV-17
 - 1x IV-22
@@ -104,13 +113,14 @@ Other:
 - 15x E1T
 - 1x Edge-Lit Display (Unknown)
 - ~100x IN-3
+- 2x Impulsuntersetzer C01 Display Module
 - 1x KR33-01
 - 6x MG-19B
 - 1x MS-6A (Mosaic Indicator)
 - 1x Nimo
 - 6x OmniRay SAO M 40
-- 1x OmniRay SD12W (dead)
-- 15x Telephone Line Busy Indicators
+- 1x PBG12201-1 (?)
+- 14x Telephone Line Busy Indicators
 - 1x XC18
 - 2x Z550M
 - 1x Z700U
