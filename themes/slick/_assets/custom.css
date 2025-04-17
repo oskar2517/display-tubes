@@ -170,6 +170,10 @@ h1, h2, h3, h4, h5, h6, .post-title {
     hyphens: auto;
 }
 
+.post-content img {
+    max-height: 800px;
+}
+
 .post-meta {
     font-size: .9em;
     margin: 0 0 .5em;
