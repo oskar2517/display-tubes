@@ -1,5 +1,6 @@
 ---
 date: 2025-04-01
+lastmod: 2025-04-18
 title: ETL GR10G
 categories:
     - nixie
@@ -10,7 +11,7 @@ tags:
 
 The GR10G (also known as CV8090) is a large Nixie tube produced by the British manufacturer ETL. It stands out due to its unconventional design: notably, it lacks a solid back plate on the anode cage, allowing the digits to be viewed clearly even from behind the tube.
 
-Its unusual characteristics extend to its electrical specifications. According to the datasheet, the recommended supply voltage is at least 220V, with an internal voltage drop of approximately 180V across the ionizing tube. Furthermore, the recommended minimum operating current of 6mA is higher than typical for Nixie tubes of similar size. Its Penning mixture does not contain mercury vapor, which likely contributes to its poor average lifespan rating of only 5000 hours. This short lifespan restricts its practical use in many projects, despite its distinctive visual appeal.
+Its unusual characteristics extend to its electrical specifications. According to the datasheet, the recommended supply voltage is at least 220V, with an internal voltage drop of approximately 180V across the ionizing tube. Furthermore, the recommended minimum operating current of 6mA is higher than typical for Nixie tubes of similar size. Its gas mixture does not appear to contain mercury vapor, which likely contributes to its poor average lifespan rating of only 5000 hours. This short lifespan restricts its practical use in many projects, despite its distinctive visual appeal.
 
 Another peculiar aspect of the tube is its uncommon base design, which features two rings with a total of 26 pins. Of these, 15 pins remain unused, and none of the pins on the inner ring connect to any electrode. This unusual layout was possibly intended to provide better mechanical stability and firm support to the tube.
 
