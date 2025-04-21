@@ -65,7 +65,7 @@ Numitrons:
 - 1x DTF104B
 
 VFDs:
-- 2x 9-CT-02
+- 1x 9-CT-02
 - 1x Board with 8 IV-6s
 - 1x CU205SCPB
 - 2x DT-1704B (Digivac)
