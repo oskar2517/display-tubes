@@ -15,6 +15,7 @@ Nixies:
 - 1x GN-2
 - 2x GN-5A
 - 1x GR-111
+- 1x GR-115
 - 1x GR-211/CD94
 - 1x GR10G
 - 2x GR10H
@@ -66,7 +67,6 @@ Numitrons:
 
 VFDs:
 - 1x 9-CT-02
-- 1x Board with 8 IV-6s
 - 1x CU205SCPB
 - 2x DT-1704B (Digivac)
 - 1x FIP20D9X
@@ -110,7 +110,7 @@ Magic Eyes:
 - 1x UM85
 
 Other:
-- 15x E1T
+- 16x E1T
 - 1x Edge-Lit Display (Unknown)
 - ~100x IN-3
 - 2x Impulsuntersetzer C01 Display Module
