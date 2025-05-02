@@ -1,4 +1,5 @@
 Nixies:
+- 1x 6844A
 - 1x 6884A
 - 2x 7977/B-4032
 - 2x B-5441
@@ -61,6 +62,7 @@ Nomotrons:
 - 2x G10/241E
 
 Numitrons:
+- 1x DA1310
 - 1x DA1310
 - 10x DR2010 (2x convex top, 8x flat top)
 - 1x DTF104B
