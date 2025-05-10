@@ -1,13 +1,13 @@
 Nixies:
 - 1x 6844A
-- 1x 6884A
 - 2x 7977/B-4032
 - 2x B-5441
 - 1x B-7971
 - 1x CD11
 - 1x CD28
 - 1x CD66A
-- 6x CD78
+- 4x CD78
+- 4x CD81
 - 1x CK8650
 - 1x DGM01
 - 1x F9057A
@@ -71,7 +71,7 @@ Numitrons:
 VFDs:
 - 1x 9-CT-02
 - 1x CU205SCPB
-- 6x DG10S
+- 5x DG10S
 - 2x DT-1704B (Digivac)
 - 1x FIP20D9X
 - 6x IV-12
