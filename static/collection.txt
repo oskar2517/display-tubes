@@ -1,7 +1,9 @@
 Nixies:
 - 1x 6844A
 - 2x 7977/B-4032
+- 1x B-54370-A
 - 2x B-5441
+- 1x B-5441A
 - 1x B-7971
 - 1x CD11
 - 1x CD28
@@ -40,12 +42,14 @@ Nixies:
 - 2x Z566M (one labeled ZM1040)
 - 8x Z5900M
 - 3x ZM1000
+- 1x ZM1001R
 - 1x ZM1008
 - 5x ZM1020
 - 8x ZM1032
 - 2x ZM1040
 - 1x ZM1042
 - 2x ZM1120
+- 1x ZM1200
 - 4x ZM1242
 - 2x ZM1332
 
