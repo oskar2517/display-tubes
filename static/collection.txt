@@ -26,7 +26,7 @@ Nixies:
 - 2x IN-1
 - 10x IN-12
 - 3x IN-14
-- 6x IN-18
+- 5x IN-18
 - 1x IN-19A
 - 8x LC-516
 - 4x LD8007
@@ -109,7 +109,7 @@ Magic Eyes:
 - 2x EM80
 - 1x EM800
 - 1x EM81
-- 5x EM83
+- 4x EM83
 - 3x EM84
 - 2x EM87
 - 2x PM84
@@ -127,7 +127,6 @@ Other:
 - 1x MS-6A (Mosaic Indicator)
 - 1x Nimo
 - 6x OmniRay SAO M 40
-- 1x PBG12201-1 (?)
 - 14x Telephone Line Busy Indicators
 - 1x XC18
 - 2x Z550M
