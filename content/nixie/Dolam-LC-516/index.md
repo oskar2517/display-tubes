@@ -13,6 +13,10 @@ The LC-516, produced by Polish tube manufacturer Dolam (later known as Unitra Do
 
 As I am not aware of a datasheet specifically for this tube, I have provided a link to the IN-1's datasheet below. Since the tubes are compatible, the relevant specifications should be identical.
 
+**Update from 2025-05-18**
+
+I was able to acquire a slightly different version of the LC-516, featuring a larger glass envelope and digit sizes comparable to the IN-1. This variant appears to lack mercury vapor and has a slightly different digit arrangement. I suspect it may be an earlier revision of the model. Photos are provided below.
+
 ### Key Specifications
 
 | Property          | Description |
@@ -104,3 +108,11 @@ As I am not aware of a datasheet specifically for this tube, I have provided a l
         </td>
     </tr>
 </table>
+
+## Different LC-516 model
+
+[![Dolam LC-516](assets/18.jpg)](assets/18.jpg)
+
+[![Dolam LC-516](assets/19.jpg)](assets/19.jpg)
+
+[![Dolam LC-516](assets/20.jpg)](assets/20.jpg)
