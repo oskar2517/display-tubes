@@ -10,7 +10,7 @@ Nixies:
 - 1x CD66A
 - 4x CD78
 - 4x CD81
-- 1x CK8650
+- 7x CK8650
 - 1x DGM01
 - 1x F9057A
 - 4x F9138A
@@ -105,11 +105,11 @@ Magic Eyes:
 - 1x DM71
 - 3x EAM86
 - 1x EM1
-- 1x EM71
+- 2x EM71
 - 2x EM80
 - 1x EM800
 - 1x EM81
-- 4x EM83
+- 8x EM83
 - 3x EM84
 - 2x EM87
 - 2x PM84
