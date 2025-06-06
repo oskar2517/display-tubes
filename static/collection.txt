@@ -4,7 +4,7 @@ Nixies:
 - 1x B-54370-A
 - 2x B-5441
 - 1x B-5441A
-- 1x B-7971
+- 2x B-7971
 - 1x CD11
 - 1x CD28
 - 1x CD66A
@@ -15,6 +15,7 @@ Nixies:
 - 1x F9057A
 - 4x F9138A
 - 1x GI-10 (Inditron)
+- 1x GI-21
 - 2x GN-1
 - 1x GN-2
 - 2x GN-5A
@@ -127,6 +128,7 @@ Other:
 - 1x MS-6A (Mosaic Indicator)
 - 1x Nimo
 - 6x OmniRay SAO M 40
+- 1x Photo Emission Tube (Projection Display)
 - 14x Telephone Line Busy Indicators
 - 1x XC18
 - 2x Z550M
