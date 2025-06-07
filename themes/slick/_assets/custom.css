@@ -297,3 +297,8 @@ code .ln { margin-right: .5em; }
     margin: 0 auto;
     text-align: center;
 }
+
+.link-read-more {
+    display: inline-block;
+    margin-bottom: 15px;;
+}

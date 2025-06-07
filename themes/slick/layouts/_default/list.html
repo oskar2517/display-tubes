@@ -31,6 +31,7 @@
         {{- end }}
         <div class="list-post-content-wrapper">
             {{ cond $showfull .Content .Summary }}
+            <a class="link-read-more" href="{{ .RelPermalink }}">Read more</a>
         </div>
     </div>
     <hr>
