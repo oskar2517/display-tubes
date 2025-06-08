@@ -3,6 +3,7 @@ layout: page
 rss_ignore: true
 title: Useful Websites
 date: 2025-04-02
+lastmod: 2025-06-08
 menu:
   main:
     weight: 9
@@ -24,7 +25,9 @@ Below you can find a list of websites containing information on display tubes I 
 
 - *[swissnixie.com](https://swissnixie.com)*: Pictures of many rare Nixie tubes.
 
-- *[radiomuseum.org/](https://www.radiomuseum.org/)*: Contains information on basically any tube ever manufactured. Unfortunately relatively restrictive on accessing their content.
+- *[neonixie-l](https://groups.google.com/g/neonixie-l)*: Mailing list for discussing anything related to Nixies, VFDs and other vintage display devices. 
+
+- *[radiomuseum.org](https://www.radiomuseum.org)*: Contains information on basically any tube ever manufactured. Unfortunately relatively restrictive on accessing their content.
 
 - *[r-type.org](http://r-type.org)*: Contains information on many tubes including pictures, documents and historical adverts.
 
@@ -33,3 +36,5 @@ Below you can find a list of websites containing information on display tubes I 
 - *[asahi's website](https://www.ne.jp/asahi/shared/o-family/ElecRoom/PARTS/DISPLAY/ElecPds1.htm)*: Collection of Japanese Nixie tubes including some very rares ones.
 
 - *[solorb.com](https://www.solorb.com/elect/misc/magiceye/)*: Website dedicated to documenting every magic eye tube ever made.
+
+- *[stocksclocks.com](https://stocksclocks.com)*: Nicholas Stock's website on Nixies, VFDs and related display technologies. Contains many interesting projects and kits.
