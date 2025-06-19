@@ -25,8 +25,12 @@ Nixies:
 - 1x GR10G
 - 2x GR10H
 - 2x IN-1
+- 2x IN-1 (black base)
+- 2x IN-4
 - 10x IN-12
 - 3x IN-14
+- 2x IN-16 (1970s digits)
+- 2x IN-17
 - 5x IN-18
 - 1x IN-19A
 - 8x LC-516
@@ -51,6 +55,7 @@ Nixies:
 - 1x ZM1042
 - 2x ZM1120
 - 1x ZM1200
+- 2x ZM1210
 - 4x ZM1242
 - 2x ZM1332
 
@@ -66,6 +71,7 @@ Dekatrons:
 Nomotrons:
 - 1x 11TU7
 - 2x G10/241E
+- 2x IV-9
 
 Numitrons:
 - 1x DA1310
@@ -79,7 +85,7 @@ VFDs:
 - 5x DG10S
 - 2x DT-1704B (Digivac)
 - 1x FIP20D9X
-- 6x IV-12
+- 8x IV-12
 - 6x IV-17
 - 1x IV-22
 - 1x IV-26
@@ -129,7 +135,7 @@ Other:
 - 1x Nimo
 - 6x OmniRay SAO M 40
 - 1x Photo Emission Tube (Projection Display)
-- 14x Telephone Line Busy Indicators
+- 7x Telephone Line Busy Indicators
 - 1x XC18
 - 2x Z550M
 - 1x Z700U
@@ -139,5 +145,6 @@ Devices:
 - 1x Contex D11
 - 1x DGL Pressler N4 Counter
 - 1x Hameg HM 207
+- 1x Royal RC 121K (Panaplex version)
 - 1x Sharp Compet 23
 - 1x Sharp ELSI-160
