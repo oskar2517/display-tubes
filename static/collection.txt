@@ -100,6 +100,7 @@ VFDs:
 - 1x Unknown VFD similar to IV-18
 
 Magic Eyes:
+- 1x 6AL7GT
 - 1x 6E1P
 - 4x 6E2
 - 2x 6E5
