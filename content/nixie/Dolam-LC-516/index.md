@@ -1,6 +1,6 @@
 ---
-date: 2025-05-18
-lastmod: 2024-12-30
+date: 2024-11-22
+lastmod: 2025-05-18
 title: Dolam LC-516
 categories:
     - nixie
