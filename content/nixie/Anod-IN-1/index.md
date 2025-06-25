@@ -1,6 +1,6 @@
 ---
 date: 2024-12-30
-lastmod: 2025-01-02
+lastmod: 2025-06-25
 title: Anod IN-1
 categories:
     - nixie
@@ -13,6 +13,10 @@ tags:
 The IN-1 ("NH-1") is the first generation of Nixie tube mass-produced in the Soviet Union by Anod. Like many other Soviet Nixie tubes, the IN-1 utilizes an inverted two to represent the number five, although at least some earlier models featured a proper five. This tube is notable for its large phenolic base, with each pin conveniently numbered. As is typical of early Nixie tube designs, the IN-1's gas mixture lacks mercury vapor, which results in reduced longevity. It is, however, pin-compatible with and visually very similar to the [Dolam LC-516](/nixie/dolam-lc-516/), which could be considered as a longer-lasting alternative for those who appreciate the IN-1's UFO-like design. Original U11 sockets are notoriously difficult to come by so building a device using either of them would likely require coming up with a custom made socket design.
 
 The unit shown below was manufactured in March 1992, around the time of the Soviet Union's collapse, which likely makes it part of one of the final production batches. This suggests that the IN-1 had a production run spanning almost 30 years, although earlier units exhibit noticeably shoddier construction.
+
+**Update from 2025-05-18**
+
+I recently acquired two IN-1 tubes that feature an uncommon black base instead of the typical brown. Interestingly, one of them also displays a unusually wide 'four' numeral. Photos are included below. The seller said, they were intended for export. Perhaps the black base is supposed to mimic that of the [LC-516](/nixie/dolam-lc-516/)?
 
 ### Key Specifications
 
@@ -103,6 +107,27 @@ The unit shown below was manufactured in March 1992, around the time of the Sovi
         <td>
             <a href="assets/17.jpg">
                 <img src="assets/17.jpg">
+            </a>
+        </td>
+    </tr>
+</table>
+
+### IN-1 With Black Base
+
+[![Anod IN-1](assets/18.jpg)](assets/18.jpg)
+
+[![Anod IN-1](assets/19.jpg)](assets/19.jpg)
+
+<table>
+    <tr>
+        <td>
+            <a href="assets/20.jpg">
+                <img src="assets/20.jpg">
+            </a>
+        </td>
+        <td>
+            <a href="assets/21.jpg">
+                <img src="assets/21.jpg">
             </a>
         </td>
     </tr>
