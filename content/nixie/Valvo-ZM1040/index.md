@@ -1,5 +1,6 @@
 ---
 date: 2025-03-12
+lastmod: 2025-06-25
 title: Valvo ZM1040
 categories:
     - nixie
@@ -107,7 +108,7 @@ Thanks to its large size. aesthetically pleasing shape, and exceptionally reliab
 
 [![Valvo ZM1040](assets/15.jpg)](assets/15.jpg)
 
-### Comparison between the ZM1040 (left) and Z566M (right).
+### Comparison between the Z566M (left) and ZM1040 (right).
 
 [![Valvo ZM1040](assets/16.jpg)](assets/16.jpg)
 
