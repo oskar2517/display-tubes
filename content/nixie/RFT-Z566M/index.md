@@ -1,6 +1,6 @@
 ---
 date: 2024-11-25
-lastmod: 2025-03-12
+lastmod: 2025-06-25
 title: RFT Z566M
 categories:
     - nixie
@@ -101,6 +101,8 @@ The Z566M was primarily utilized in laboratory equipment such as voltmeters and 
         </td>
     </tr>
 </table>
+
+[![RFT Z566M](assets/15.jpg)](assets/15.jpg)
 
 ### Siemens Z566M
 
