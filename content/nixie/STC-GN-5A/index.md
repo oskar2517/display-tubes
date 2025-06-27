@@ -1,5 +1,6 @@
 ---
 date: 2025-06-25
+lastmod: 2025-06-27
 title: STC GN-5A
 categories:
     - nixie
@@ -73,7 +74,7 @@ A variant of the GN-5A with a red-coated glass envelope was also available, desi
             </a>
         </td>
         <td>
-            <a href="assets/104.jpg">
+            <a href="assets/14.jpg">
                 <img src="assets/14.jpg">
             </a>
         </td>
