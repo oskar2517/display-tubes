@@ -48,7 +48,8 @@ Nixies:
 - 2x Z567M
 - 8x Z5900M
 - 3x ZM1000
-- 1x ZM1001R
+- 2x ZM1000R
+- 2x ZM1001R
 - 1x ZM1008
 - 5x ZM1020
 - 8x ZM1032
@@ -61,6 +62,7 @@ Nixies:
 - 2x ZM1332
 
 Dekatrons:
+- 1x 439A
 - 1x DGL Pressler N4
 - 1x DK12
 - 1x DK24
