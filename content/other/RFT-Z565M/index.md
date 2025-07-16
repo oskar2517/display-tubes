@@ -12,7 +12,7 @@ The Z565M is a neon-filled decadic display tube produced by RFT in East Germany 
 
 It features ten wire-formed cathodes arranged in a circle around a common anode, with each cathode activated by connecting it to ground. When viewed from the front, the tube shows two empty holes between each cathode. In a full Dekatron tube, these positions would have been occupied by the transfer electrodes. To ensure consistent ignition regardless of ambient light or background radiation, the Z565M includes a small amount of radioactive material to improve the rate of spontaneous ionization of the neon gas.
 
-The Z565M is visually compatible with Dekatron-based counting circuits, making it a suitable display component in such systems. Similar tubes include the GR10A and Z603M.
+The Z565M is visually compatible with Dekatron-based counting circuits, making it a suitable display component in such systems. Similar tubes include the GR10A and Z503M.
 
 ### Key Specifications
 
