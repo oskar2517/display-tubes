@@ -26,13 +26,13 @@ Nixies:
 - 2x GR10H
 - 2x IN-1
 - 2x IN-1 (black base)
-- 2x IN-4
 - 10x IN-12
 - 3x IN-14
 - 2x IN-16 (1970s digits)
 - 2x IN-17
 - 5x IN-18
 - 1x IN-19A
+- 2x IN-4
 - 8x LC-516
 - 4x LD8007
 - 2x MUD0 6F
@@ -142,6 +142,7 @@ Other:
 - 7x Telephone Line Busy Indicators
 - 1x XC18
 - 2x Z550M
+- 3x Z565M
 - 1x Z700U
 - 1x ZM1050
 
