@@ -19,6 +19,7 @@ Nixies:
 - 2x GN-1
 - 1x GN-2
 - 2x GN-5A
+- 3x GN4A
 - 1x GR-111
 - 1x GR-115
 - 1x GR-211/CD94
@@ -30,6 +31,7 @@ Nixies:
 - 3x IN-14
 - 2x IN-16 (1970s digits)
 - 2x IN-17
+- 5x IN-17 (red)
 - 5x IN-18
 - 1x IN-19A
 - 2x IN-4
@@ -37,12 +39,17 @@ Nixies:
 - 4x LD8007
 - 2x MUD0 6F
 - 1x NL5025
+- 1x NL811
+- 5x NL812
 - 1x NL816
 - 1x NL841
 - 1x R|Z568M
 - 6x SZ-8
+- 3x Unknown like ZM1020
 - 1x XN1
-- 1x XN3
+- 1x XN10A
+- 7x XN12A
+- 4x XN3
 - 1x Z510M
 - 12x Z566M (one labelled ZM1040)
 - 2x Z567M
@@ -52,14 +59,16 @@ Nixies:
 - 2x ZM1001R
 - 1x ZM1008
 - 5x ZM1020
+- 1x ZM1023
 - 8x ZM1032
 - 2x ZM1040
 - 1x ZM1042
+- 1x ZM1100
 - 2x ZM1120
 - 1x ZM1200
 - 2x ZM1210
 - 4x ZM1242
-- 2x ZM1332
+- 4x ZM1332
 
 Dekatrons:
 - 1x 439A
@@ -129,6 +138,7 @@ Magic Eyes:
 - 1x UM85
 
 Other:
+- 5x B5092
 - 16x E1T
 - 1x Edge-Lit Display (Unknown)
 - ~100x IN-3
