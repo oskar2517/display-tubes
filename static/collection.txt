@@ -1,6 +1,7 @@
 Nixies:
 - 1x 6844A
 - 2x 7977/B-4032
+- 3x B-5092
 - 1x B-54370-A
 - 2x B-5441
 - 1x B-5441A
@@ -39,8 +40,7 @@ Nixies:
 - 4x LD8007
 - 2x MUD0 6F
 - 1x NL5025
-- 1x NL811
-- 5x NL812
+- 1x NL812
 - 1x NL816
 - 1x NL841
 - 1x R|Z568M
@@ -138,7 +138,6 @@ Magic Eyes:
 - 1x UM85
 
 Other:
-- 5x B5092
 - 16x E1T
 - 1x Edge-Lit Display (Unknown)
 - ~100x IN-3
