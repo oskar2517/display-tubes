@@ -1,5 +1,6 @@
 ---
 date: 2025-07-16
+lastmod: 2025-07-19
 title: RFT Z565M
 categories:
     - other
@@ -28,7 +29,7 @@ The Z565M is visually compatible with Dekatron-based counting circuits, making i
 
 - [RFT Z565M datasheet](https://frank.pocnet.net/sheets/182/z/Z565M.pdf) ([Archive](https://web.archive.org/web/20240727032540/https://frank.pocnet.net/sheets/182/z/Z565M.pdf))
 
-- [swissnixie.com](https://www.radiomuseum.org/tubes/tube_z565m.html) ([Archive](https://web.archive.org/web/20250301073051/https://www.radiomuseum.org/tubes/tube_z565m.html))
+- [radiomuseum.org](https://www.radiomuseum.org/tubes/tube_z565m.html) ([Archive](https://web.archive.org/web/20250301073051/https://www.radiomuseum.org/tubes/tube_z565m.html))
 
 
 [![RFT Z565M](assets/1.jpg)](assets/1.jpg)
