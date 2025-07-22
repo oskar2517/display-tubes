@@ -5,6 +5,7 @@ Nixies:
 - 1x B-54370-A
 - 2x B-5441
 - 1x B-5441A
+- 1x B-6037
 - 2x B-7971
 - 1x CD11
 - 1x CD28
@@ -39,7 +40,10 @@ Nixies:
 - 8x LC-516
 - 4x LD8007
 - 2x MUD0 6F
+- 1x NL1246
 - 1x NL5025
+- 1x NL54362
+- 1x NL54365
 - 1x NL812
 - 1x NL816
 - 1x NL841
@@ -48,7 +52,7 @@ Nixies:
 - 3x Unknown like ZM1020
 - 1x XN1
 - 1x XN10A
-- 7x XN12A
+- 6x XN12A
 - 4x XN3
 - 1x Z510M
 - 12x Z566M (one labelled ZM1040)
@@ -66,7 +70,7 @@ Nixies:
 - 1x ZM1100
 - 2x ZM1120
 - 1x ZM1200
-- 2x ZM1210
+- 6x ZM1210
 - 4x ZM1242
 - 4x ZM1332
 
@@ -125,7 +129,7 @@ Magic Eyes:
 - 1x DM71
 - 3x EAM86
 - 1x EM1
-- 2x EM71
+- 3x EM71
 - 2x EM80
 - 1x EM800
 - 1x EM81
