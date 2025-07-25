@@ -21,8 +21,8 @@ Nixies:
 - 2x GN-1
 - 1x GN-2
 - 1x GN-4
-- 2x GN-5A
 - 3x GN-4A
+- 2x GN-5A
 - 1x GR-111
 - 1x GR-115
 - 1x GR-211/CD94
@@ -58,6 +58,7 @@ Nixies:
 - 1x Z510M
 - 12x Z566M (one labelled ZM1040)
 - 2x Z567M
+- 1x Z570M
 - 8x Z5900M
 - 3x ZM1000
 - 2x ZM1000R
