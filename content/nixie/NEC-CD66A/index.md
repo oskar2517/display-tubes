@@ -1,5 +1,6 @@
 ---
 date: 2025-02-20
+lastmod: 2025-07-25
 title: NEC CD66A
 categories:
     - nixie
@@ -8,7 +9,7 @@ tags:
     - side-view
 ---
 
-The CD66A, produced by NEC in Japan, is a medium-sized Nixie tube capable of displaying all ten digits along with a right decimal point. It features a distinctive anode design made up of multiple horizontal wires, differing from the typical hexagonal or square grids stamped from sheet metal in most Nixie tubes. A variant of the CD66 with a left decimal point was also available. Additionally, the CD66A is pin-compatible with the European ZM1242, which has a more conventional design.
+The CD66A, produced by NEC in Japan, is a medium-sized Nixie tube capable of displaying all ten digits along with a right decimal point. It features a distinctive anode design made up of multiple horizontal wires, differing from the typical hexagonal or square grids stamped from sheet metal in most Nixie tubes. A variant of the CD66 with a left decimal point was also available. In Europe, the CD66 was sold as the ZM1242.
 
 ### Key Specifications
 
