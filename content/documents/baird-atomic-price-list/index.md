@@ -53,8 +53,8 @@ As of July 25, 2025, the cumulative inflation rate of the U.S. dollar since 1966
 **Super - 0.8" Numeral Height**
 | Type No       | Class                                                        | 1966   | 2025     |
 |---------------|--------------------------------------------------------------|--------|----------|
-| BA-6012       | Standard Life (+-)                                           | $14.50 | $145.00  |
-| BA-6034       | Long Life (-+)                                               | $20.00 | $200.00  |
+| BA-6012       | Standard Life (+/-)                                          | $14.50 | $145.00  |
+| BA-6034       | Long Life (+/-)                                              | $20.00 | $200.00  |
 | BA-7153       | Standard Life (0-9)                                          | $14.50 | $145.00  |
 | BA-8423/6091  | Long Life, Wide Angle (0-9)                                  | $19.00 | $190.00  |
 | BA-807        | Side View, Long Life (0-9)                                   | $10.00 | $100.00  |
