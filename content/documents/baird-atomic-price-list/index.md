@@ -30,7 +30,7 @@ As of July 25, 2025, the cumulative inflation rate of the U.S. dollar since 1966
 |---------------|-----------------------------------------------------------------|--------|---------|
 | BA-8O9        | Long Life, Rectangular left hand decimal point (0-9)            | $16.25 | $162.50 | 
 | BA-5016       | Standard Life (+/-)                                             | $11.00 | $110.00 |
-| BA-5030       | Side View; Long Life, Biquinary (0-9)                           | $10.50 | $105.09 |
+| BA-5030       | Side View; Long Life, Biquinary (0-9)                           | $10.50 | $105.00 |
 | BA-5032       | Long Life (+/-)                                                 | $15.75 | $157.50 |
 | BA-5035       | Long Life (L to X less O, Q, U)                                 | $49.00 | $490.00 |
 | BA-5961       | Non Mercury Rectangular (0-9)                                   | $17.35 | $173.50 |
