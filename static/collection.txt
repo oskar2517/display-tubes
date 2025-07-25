@@ -74,7 +74,7 @@ Nixies:
 - 1x ZM1200
 - 6x ZM1210
 - 4x ZM1242
-- 4x ZM1332
+- 4x ZM1332K
 
 Dekatrons:
 - 1x 439A
