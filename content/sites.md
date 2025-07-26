@@ -1,7 +1,7 @@
 ---
 layout: page
 rss_ignore: true
-title: Useful Websites
+title: Interesting Websites
 date: 2025-04-02
 lastmod: 2025-06-08
 menu:
