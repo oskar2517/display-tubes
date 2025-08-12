@@ -67,8 +67,8 @@ Nixies:
 - 1x ZM1008
 - 5x ZM1020
 - 8x ZM1032
-- 2x ZM1040
-- 1x ZM1042
+- 3x ZM1040
+- 2x ZM1042
 - 1x ZM1100
 - 2x ZM1120
 - 1x ZM1200
@@ -84,6 +84,7 @@ Dekatrons:
 - 1x EZ10B
 - 1x GC10B/S
 - 1x GC12/4B
+- 1x Z502S
 - 4x ZM1070
 
 Nomotrons:
