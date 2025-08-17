@@ -17,9 +17,10 @@ Another detail that can be seen from the side is the so-called “giver pill,”
 | Property          | Description |
 |-------------------|-------------|
 | Manufacturer      | Burroughs   |
-| Time period       | ?           |
+| Time period       | mid 1960s   |
 | Digit height      | 15.5mm      |
-| Envelope diameter | 30mm        |
+| Envelope diameter | ~27mm       |
+| Envelope height   | ~28mm       |
 | Socket            | B13B        |
 
 ### References
