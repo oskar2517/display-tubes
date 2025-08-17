@@ -1,5 +1,6 @@
 ---
 date: 2025-08-05
+lastmod: 2025-08-17
 title: Burroughs B6037
 categories:
     - nixie
