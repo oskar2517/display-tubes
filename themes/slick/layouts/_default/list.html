@@ -10,8 +10,8 @@
 </div>
 {{- end }}
 {{- $showfull := default false .Site.Params.showFullContent }}
-{{- $orderkey := default "date" .Site.Params.orderPageParam }}
-{{- $orderrev := default true .Site.Params.orderPageReverse }}
+{{- $orderkey := default "title" .Site.Params.orderPageParam }}
+{{- $orderrev := default false .Site.Params.orderPageReverse }}
 {{- $pagepool := .Pages.ByParam $orderkey }}
 {{- $pagepool := cond $orderrev $pagepool.Reverse $pagepool }}
 {{- range $idx, $_ := (.Paginate $pagepool).Pages }}
