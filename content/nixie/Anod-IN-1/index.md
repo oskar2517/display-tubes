@@ -1,6 +1,6 @@
 ---
 date: 2024-12-30
-lastmod: 2025-06-25
+lastmod: 2025-08-20
 title: Anod IN-1
 categories:
     - nixie
@@ -16,7 +16,11 @@ The unit shown below was manufactured in March 1992, around the time of the Sovi
 
 **Update from 2025-05-18**
 
-I recently acquired two IN-1 tubes that feature an uncommon black base instead of the typical brown. Interestingly, one of them also displays a unusually wide 'four' numeral. Photos are included below. The seller said, they were intended for export. Perhaps the black base is supposed to mimic that of the [LC-516](/nixie/dolam-lc-516/)?
+I recently acquired two IN-1 tubes that feature an uncommon black base instead of the typical brown. Additionally, it features the old Anod logo. Interestingly, one of them also displays a unusually wide "4" numeral. A document included with the tubes states, they were intended for export. Perhaps the black base is supposed to mimic that of the [LC-516](/nixie/dolam-lc-516/)? Photos are included below.
+
+**Update from 2025-08-20**
+
+Two more unusual IN-1s have joined my collection. The first is another black-base example, this one produced in 1965, placing it near the start of the IN-1’s manufacturing run. Unlike the tubes shown earlier on this page, it was made at the Melz plant near Moscow and features the same unusually wide “4” seen in the other black-base IN-1. The second tube, dated 1971, stands out because it uses a proper “5” rather than the peculiar upside-down “2” typically found on IN-1s as well as a wide "4". This shows that the use of an inverted “2” in place of a proper “5” was not a later cost-cutting decision, but rather an oddity that persisted into the later years of production.
 
 ### Key Specifications
 
@@ -112,7 +116,7 @@ I recently acquired two IN-1 tubes that feature an uncommon black base instead o
     </tr>
 </table>
 
-### IN-1 With Black Base
+### IN-1 With Black Base (Update from 2025-05-18)
 
 [![Anod IN-1](assets/18.jpg)](assets/18.jpg)
 
@@ -132,3 +136,32 @@ I recently acquired two IN-1 tubes that feature an uncommon black base instead o
         </td>
     </tr>
 </table>
+
+<table>
+    <tr>
+        <td>
+            <a href="assets/export_scan.jpg">
+                <img src="assets/export_scan.jpg">
+            </a>
+        </td>
+        <td>
+            <a href="assets/export_scan_translated.jpg">
+                <img src="assets/export_scan_translated.jpg">
+            </a>
+        </td>
+    </tr>
+</table>
+
+### Second IN-1 With Black Base (Update from 2025-08-20)
+
+[![Anod IN-1](assets/22.jpg)](assets/22.jpg)
+
+[![Anod IN-1](assets/23.jpg)](assets/23.jpg)
+
+### IN-1 With Proper Five (Update from 2025-08-20)
+
+[![Anod IN-1](assets/24.jpg)](assets/24.jpg)
+
+[![Anod IN-1](assets/25.jpg)](assets/25.jpg)
+
+[![Anod IN-1](assets/26.jpg)](assets/26.jpg)
