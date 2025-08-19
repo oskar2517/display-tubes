@@ -79,12 +79,15 @@ Nixies:
 
 Dekatrons:
 - 1x 439A
+- 2x A101
 - 1x DGL Pressler N4
 - 1x DK12
 - 1x DK24
 - 1x EZ10B
 - 1x GC10B/S
 - 1x GC12/4B
+- 2x OG-3
+- 3x OG-4
 - 1x Z502S
 - 4x ZM1070
 
