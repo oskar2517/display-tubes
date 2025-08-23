@@ -9,7 +9,7 @@ tags:
     - top-view
 ---
 
-The B5037 is an unusual Nixie tube manufactured by Burroughs, making it an “official” Nixie tube as indicated by the labeling on its glass envelope. Unlike most Nixie tubes, which display only the digits 0–9, the B5037 includes an extra cathode shaped as a “1” placed next to the standard stack of digits. This allows the tube to display numbers from 0 to 19.
+The B6037 is an unusual Nixie tube manufactured by Burroughs, making it an “official” Nixie tube as indicated by the labeling on its glass envelope. Unlike most Nixie tubes, which display only the digits 0–9, the B6037 includes an extra cathode shaped as a “1” placed next to the standard stack of digits. This allows the tube to display numbers from 0 to 19.
 
 Its glass envelope is relatively large to accommodate the two digit stacks, though it still uses the same 15.5 mm characters found in many smaller Nixie tubes. The envelope is also covered with black shrink wrap. Interestingly, the anode grid was apparently not designed specifically for this model. In most tubes, the anode is supported by the same posts that hold the digits, but in this case it has been shifted to the right and is instead held in a somewhat awkward position at the upper right of the tube.
 
