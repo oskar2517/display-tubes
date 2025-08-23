@@ -28,7 +28,7 @@ Nixies:
 - 1x GR-211/CD94
 - 1x GR10G
 - 2x GR10H
-- 14x IN-1 (2x black base, 5x proper "five")
+- 14x IN-1 (3x black base, 5x proper "five")
 - 10x IN-12
 - 3x IN-14
 - 2x IN-16 (1970s digits)
