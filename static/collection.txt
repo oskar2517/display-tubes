@@ -102,7 +102,6 @@ Numitrons:
 
 VFDs:
 - 1x 9-CT-02
-- 1x CU205SCPB
 - 5x DG10S
 - 2x DT-1704B (Digivac)
 - 1x FIP20D9X
