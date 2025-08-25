@@ -146,7 +146,7 @@ Magic Eyes:
 - 1x UM85
 
 Other:
-- 16x E1T
+- 15x E1T
 - 1x Edge-Lit Display (Unknown)
 - ~100x IN-3
 - 2x Impulsuntersetzer C01 Display Module
