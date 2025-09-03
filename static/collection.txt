@@ -56,9 +56,10 @@ Nixies:
 - 4x XN3
 - 1x Z510M
 - 1x Z521M
+- 1x Z560M
 - 12x Z566M (one labelled ZM1040)
 - 2x Z567M
-- 1x Z570M
+- 3x Z570M
 - 8x Z5900M
 - 5x Z8700M
 - 3x ZM1000
@@ -71,7 +72,7 @@ Nixies:
 - 2x ZM1042
 - 1x ZM1100
 - 2x ZM1120
-- 1x ZM1200
+- 2x ZM1200
 - 6x ZM1210
 - 4x ZM1242
 - 1x ZM1332K
