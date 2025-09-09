@@ -38,7 +38,7 @@ Nixies:
 - 1x IN-19A
 - 2x IN-4
 - 8x LC-516
-- 4x LD8007
+- 6x LD8007
 - 2x MUD0 6F
 - 1x NL1246
 - 1x NL5025
@@ -56,17 +56,17 @@ Nixies:
 - 4x XN3
 - 1x Z510M
 - 1x Z521M
-- 1x Z560M
+- 3x Z560M
 - 12x Z566M (one labelled ZM1040)
 - 2x Z567M
-- 3x Z570M
+- 6x Z570M
 - 8x Z5900M
 - 5x Z8700M
 - 3x ZM1000
 - 2x ZM1000R
 - 2x ZM1001R
 - 1x ZM1008
-- 5x ZM1020
+- 7x ZM1020
 - 2x ZM1032
 - 3x ZM1040
 - 2x ZM1042
@@ -148,7 +148,6 @@ Magic Eyes:
 
 Other:
 - 15x E1T
-- 1x Edge-Lit Display (Unknown)
 - ~100x IN-3
 - 2x Impulsuntersetzer C01 Display Module
 - 1x KR33-01
