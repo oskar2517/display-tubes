@@ -5,6 +5,7 @@ Nixies:
 - 1x B-54370-A
 - 2x B-5441
 - 1x B-5441A
+- 1x B-5971
 - 1x B-6037
 - 2x B-7971
 - 1x CD11
@@ -16,11 +17,12 @@ Nixies:
 - 1x DGM01
 - 1x F9057A
 - 4x F9138A
+- 1x GA12 (GR10J)
 - 1x GI-10 (Inditron)
 - 1x GI-21
 - 2x GN-1
 - 1x GN-2
-- 1x GN-4
+- 2x GN-4
 - 3x GN-4A
 - 2x GN-5A
 - 1x GR-111
@@ -49,7 +51,8 @@ Nixies:
 - 1x NL841
 - 1x R|Z568M
 - 6x SZ-8
-- 3x Unknown like ZM1020
+- 4x Unknown like ZM1020
+- 1x Unknown like ZM1180
 - 1x XN1
 - 1x XN10A
 - 6x XN12A
@@ -72,6 +75,7 @@ Nixies:
 - 2x ZM1042
 - 1x ZM1100
 - 2x ZM1120
+- 1x ZM1180
 - 2x ZM1200
 - 6x ZM1210
 - 4x ZM1242
