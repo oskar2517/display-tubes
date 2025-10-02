@@ -103,6 +103,7 @@ Numitrons:
 - 1x DA1310
 - 10x DR2010 (2x convex top, 8x flat top)
 - 1x DTF104B
+- 1x IV-13
 - 2x IV-9
 
 VFDs:
