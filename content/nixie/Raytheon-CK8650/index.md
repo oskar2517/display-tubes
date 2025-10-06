@@ -1,5 +1,6 @@
 ---
 date: 2025-05-18
+lastmod: 2025-10-06
 title: Raytheon CK8650
 categories:
     - nixie
@@ -8,7 +9,7 @@ tags:
     - side-view
 ---
 
-The CK8650 is a Nixie tube manufactured by Raytheon in the USA and sold under their "datavue" line as a Numerical Indicator Tube. Compared to other Nixie tubes with similarly sized digits, the CK8650 has a notably short and stubby appearance. Its hexagonal anode grid extends significantly beyond the frontmost digit, giving the tube a distinctive look. Not visible to the camera, glowing digits are surrounded by the characteristic blueish haze typically associated with the inclusion of mercury vapor which greatly extends the lifespan of Nixie tubes. The tube uses a standard 9-pin Noval base, along with two additional pins in the center, providing just enough connections to display digits 0 through 9, but lacking any decimal points.
+The CK8650 is a Nixie tube manufactured by Raytheon in the USA and sold under their "datavue" line as a Numerical Indicator Tube. Compared to other Nixie tubes with similarly sized digits, the CK8650 has a notably short and stubby appearance. Its diamond-shaped anode grid extends significantly beyond the frontmost digit, giving the tube a distinctive look. Not visible to the camera, glowing digits are surrounded by the characteristic blueish haze typically associated with the inclusion of mercury vapor which greatly extends the lifespan of Nixie tubes. The tube uses a standard 9-pin Noval base, along with two additional pins in the center, providing just enough connections to display digits 0 through 9, but lacking any decimal points.
 
 Very little documentation exists for this tube. I was unable to locate a datasheet for it.
 
