@@ -75,6 +75,7 @@ Nixies:
 - 2x ZM1042
 - 1x ZM1100
 - 2x ZM1120
+- 2x ZM1175
 - 1x ZM1180
 - 2x ZM1200
 - 6x ZM1210
