@@ -8,6 +8,7 @@ Nixies:
 - 1x B-5971
 - 1x B-6037
 - 2x B-7971
+- 1x B560M
 - 1x CD11
 - 1x CD28
 - 1x CD66A
