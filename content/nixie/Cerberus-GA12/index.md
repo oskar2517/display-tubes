@@ -1,5 +1,6 @@
 ---
 date: 2025-10-26
+lasmod: 2025-10-26
 title: Cerberus GA12 (ETL GR10J)
 categories:
     - nixie
@@ -10,9 +11,9 @@ tags:
 
 The GA12 is a large Nixie tube distributed by Swiss manufacturer Cerberus, though it was not originally produced by them. Instead, it is a rebranded version of the GR10J tube manufactured by ETL in Great Britain as part of their DIGITRON line of display tubes.
 
-This tube stands out for several reasons. Firstly, it features a copper-colored anode, an unusual characteristic shared by only a handful of other Nixie tubes, such as the XN3. Secondly, the base of the tube is wrapped in black shrinkwrap, concealing the internal electrode connections to both the anode and cathodes. This covering might serve a functional purpose, as occasional discharges can occur at the electrodes themselves, and the shrinkwrap could be intended to hide it in such cases.
+This tube stands out for several reasons. Firstly, it features a copper-colored anode, an unusual characteristic shared by only a handful of other Nixie tubes, such as the XN12. Secondly, the base of the tube is wrapped in black shrinkwrap, concealing the internal electrode connections to both the anode and cathodes. This covering might serve a functional purpose, as occasional discharges can occur at the electrodes themselves, and the shrinkwrap could be intended to hide it in such cases.
 
-Another notable feature is the tube’s distinctive socket design. It uses a dual-ring configuration: the outer ring includes 17 pins, while the inner ring has three additional pins that remain unused. This is similar to the GR10G model, also from ETL, which uses the same 17-pin outer ring but has nine unused pins in the inner ring. As a result, the GR10J is compatible with sockets made for the GR10G.
+Another notable feature is the tube’s distinctive socket design. It uses a dual-ring configuration: the outer ring includes 17 pins, while the inner ring has three additional pins that remain unused. This is similar to the [GR10G](/nixie/etl-gr10g/) model, also from ETL, which uses the same 17-pin outer ring but has nine unused pins in the inner ring. As a result, the GR10J is compatible with sockets made for the GR10G.
 
 Performance-wise, the GR10J avoids one of the drawbacks of its relative. Unlike the GR10G, which requires an unusually high striking voltage of 220V and has a recommended minimum cathode current of 6 mA, the GR10J operates reliably at the more standard 170V used in most modern Nixie driver circuits. Its recommended cathode current of 4mA is also more typical for tubes of its size.
 
