@@ -126,5 +126,3 @@ Performance-wise, the GR10J avoids one of the drawbacks of its relative. Unlike 
         </td>
     </tr>
 </table>
-
-[![Cerberus GA12](assets/22.jpg)](assets/22.jpg)
