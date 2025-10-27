@@ -1,5 +1,6 @@
 ---
 date: 2024-12-31
+lastmod: 2025-10-27
 title: Gazotron IN-18
 categories:
     - nixie
@@ -9,7 +10,7 @@ tags:
     - side-view
 ---
 
-With its 40mm digits, the IN-18 ("NH-18") is the largest Nixie tube mass-manufactured in the Soviet Union. It shares the same envelope diameter with smaller Nixie tubes, such as the ZM1040 and [Z566M](/nixie/rft-z566m/), which gives the IN-18's digits a slightly elongated appearance. Today, the IN-18 is among the most popular Nixie tubes, often used in large Nixie clocks. Although vast quantities were manufactured and remain readily available on online marketplaces like eBay, IN-18 tubes have become quite expensive. Unlike many Soviet Nixie tubes, the IN-18 features a proper cathode for the number five rather than an inverted two. Its gas mixture includes trace amounts of mercury vapor, which significantly extends the tube's lifespan and imparts a faint bluish tint to its glow.
+With its 40mm digits, the IN-18 ("NH-18") is the largest Nixie tube mass-manufactured in the Soviet Union. It shares the same envelope diameter with smaller Nixie tubes, such as the [ZM1040](/nixie/valvo-zm1040/) and [Z566M](/nixie/rft-z566m/), which gives the IN-18's digits a slightly elongated appearance. Today, the IN-18 is among the most popular Nixie tubes, often used in large Nixie clocks. Although vast quantities were manufactured and remain readily available on online marketplaces like eBay, IN-18 tubes have become quite expensive. Unlike many Soviet Nixie tubes, the IN-18 features a proper cathode for the number five rather than an inverted two. Its gas mixture includes trace amounts of mercury vapor, which significantly extends the tube's lifespan and imparts a faint bluish tint to its glow.
 
 Curiously, despite their large production numbers, I have only ever encountered a single period device that actually utilized IN-18 tubes. The tube pictured below is a used example, evident from the slightly bent pins and the sputter deposits visible on either side of the envelope.
 
