@@ -11,7 +11,8 @@ Nixies:
 - 1x B560M
 - 1x CD11
 - 1x CD28
-- 1x CD66A
+- 1x CD61
+- 2x CD66A
 - 4x CD78
 - 4x CD81
 - 7x CK8650
@@ -66,6 +67,7 @@ Nixies:
 - 6x Z570M
 - 8x Z5900M
 - 5x Z8700M
+- 1x ZIN-70
 - 3x ZM1000
 - 2x ZM1000R
 - 2x ZM1001R
@@ -74,6 +76,7 @@ Nixies:
 - 2x ZM1032
 - 3x ZM1040
 - 2x ZM1042
+- 1x ZM1083
 - 1x ZM1100
 - 2x ZM1120
 - 2x ZM1175
@@ -169,6 +172,7 @@ Other:
 - 3x Z565M
 - 1x Z700U
 - 1x ZM1050
+- 1x Zähldekade Typ 8101
 
 Devices:
 - 1x Contex D11
