@@ -1,11 +1,13 @@
 ---
 date: 2025-02-21
+lastmod: 2025-11-20
 title: iNixie LAB DGM01
 categories:
     - nixie
 tags:
     - iNixie LAB
     - side-view
+    - contemporary
 ---
 
 The DGM01 is a modern Nixie tube produced by Sadudu and his company iNixie LAB in China, comparable in size to the Soviet [IN-18](/nixie/gazotron-in-18/). Like the [R|Z568M](/nixie/dalibor-farny-rz568m/) by Dalibor Farný, the DGM01 is assembled by hand in small quantities. Each digit in the tube has a distinctive design, with the numbers one and five standing out in particular. Notably, the DGM01 features a right decimal point which is unusual for tubes of this size and was specifically incorporated for use in replicas of the Divergence Meter from the popular anime series Steins;Gate. Unlike the R|Z568M and tubes made by Millclock, which have a large metal bases, the DGM01 utilizes proper pin-to-glass seals, enhancing its authentic appearance. The glow discharge exhibits the characteristic blue tint seen in tubes containing mercury vapor, which is indicative of long-life Nixie tubes.

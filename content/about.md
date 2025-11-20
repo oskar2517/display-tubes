@@ -8,7 +8,7 @@ menu:
     weight: 10
 ---
 
-This website is dedicated to my fascination with all kinds of vintage display devices—Nixie tubes, VFDs, Numitrons, and more. My goal is to showcases their ingenious design through carefully curated images as well as additional information on their operation. 
+This website is dedicated to my fascination with all kinds of vintage display devices: Nixie tubes, VFDs, Numitrons, and more. My goal is to showcases their ingenious design through carefully curated images as well as additional information on their operation. 
 
 ### License 
 

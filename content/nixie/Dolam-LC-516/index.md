@@ -9,7 +9,7 @@ tags:
     - top-view
 ---
 
-The LC-516, produced by Polish tube manufacturer Dolam (later known as Unitra Dolam), is pin-compatible with and visually similar to the Soviet [IN-1 Nixie](/nixie/anod-in-1/) tube. However, unlike the IN-1—an early model with a relatively short lifespan—the LC-516 is mercury-doped, significantly enhancing its durability and giving its glow a subtle bluish tint. The LC-516 features a slightly smaller glass envelope and digits compared to the IN-1; a comparison between the two is shown below. Additionally, Dolam manufactured a version without the phenolic base, designated as the LC-513.
+The LC-516, produced by Polish tube manufacturer Dolam (later known as Unitra Dolam), is pin-compatible with and visually similar to the Soviet [IN-1 Nixie](/nixie/anod-in-1/) tube. However, unlike the IN-1, an early model with a relatively short lifespan, the LC-516 is mercury-doped, significantly enhancing its durability and giving its glow a subtle bluish tint. The LC-516 features a slightly smaller glass envelope and digits compared to the IN-1; a comparison between the two is shown below. Additionally, Dolam manufactured a version without the phenolic base, designated as the LC-513.
 
 As I am not aware of a datasheet specifically for this tube, I have provided a link to the IN-1's datasheet below. Since the tubes are compatible, the relevant specifications should be identical.
 
