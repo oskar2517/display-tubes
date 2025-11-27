@@ -8,7 +8,7 @@ tags:
     - side-view
 ---
 
-The LD-836 is a medium-sized Nixie tube manufacured by NEC in Japan, notable for its highly unusual, nearly rectangular glass envelope. This distinctive shape makes the tube's front face significantly narrower than that of comparable Nixies and allows multiple tubes to be placed closer together in display assemblies. In addition to displaying the digits 0 through 9, the LD-836 also includes a right-hand decimal point. Its internal design closely resembles that of NEC's CD66A, sharing a similar wire anode assembly, which leads to significantly improved digit visibility compared to the more typical grid design. The LD-836 is an exceptionally rare Nixie tube, with barely any information being available on it publicly.
+The LD-836 is a medium-sized Nixie tube manufacured by NEC in Japan, notable for its highly unusual, nearly rectangular glass envelope. This distinctive shape makes the tube's front face significantly narrower than that of comparable Nixies and allows multiple tubes to be placed closer together in display assemblies. In addition to displaying the digits 0 through 9, the LD-836 also includes a right-hand decimal point. Its internal design closely resembles that of NEC's [CD66A](/nixie/nec-cd66a/), sharing a similar wire anode assembly, which leads to significantly improved digit visibility compared to the more typical grid design. The LD-836 is an exceptionally rare Nixie tube, with barely any information being available on it publicly.
 
 ### Key Specifications
 
