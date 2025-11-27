@@ -42,6 +42,7 @@ Nixies:
 - 1x IN-19A
 - 2x IN-4
 - 8x LC-516
+- 1x LD-836
 - 6x LD8007
 - 2x MUD0 6F
 - 1x NL1246
