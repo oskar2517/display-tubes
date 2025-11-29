@@ -118,7 +118,7 @@ VFDs:
 - 1x 9-CT-02
 - 1x DG10B
 - 1x DG10FI
-- 4x DG10L
+- 1x DG10L
 - 2x DG10LI
 - 5x DG10S
 - 1x DG10SI
