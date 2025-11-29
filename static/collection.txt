@@ -12,7 +12,9 @@ Nixies:
 - 1x CD28
 - 1x CD61
 - 2x CD66A
+- 1x CD71LA
 - 4x CD78
+- 4x CD80P
 - 4x CD81
 - 7x CK8650
 - 1x DGM01
@@ -48,6 +50,8 @@ Nixies:
 - 1x NL5025
 - 1x NL54362
 - 1x NL54365
+- 4x NL5750S
+- 1x NL5870
 - 1x NL812
 - 1x NL816
 - 1x NL841
@@ -112,7 +116,15 @@ Numitrons:
 
 VFDs:
 - 1x 9-CT-02
+- 1x DG10B
+- 1x DG10FI
+- 4x DG10L
+- 2x DG10LI
 - 5x DG10S
+- 1x DG10SI
+- 1x DG12B
+- 3x DG8F
+- 1x DP81A
 - 2x DT-1704B (Digivac)
 - 1x FIP20D9X
 - 8x IV-12
@@ -125,6 +137,9 @@ VFDs:
 - 1x IVL2-7/5
 - 2x IVLM2-5/7
 - 1x LD8109
+- 1x SP-12A
+- 1x SP10C
+- 4x SP8B
 - 1x Unknown 12 digit VFD
 - 1x Unknown VFD similar to IV-18
 
@@ -166,6 +181,7 @@ Other:
 - 6x OmniRay SAO M 40
 - 1x Photo Emission Tube (Projection Display)
 - 7x Telephone Line Busy Indicators
+- 4x Unknown LED Bubble Display
 - 1x XC18
 - 2x Z550M
 - 3x Z565M
