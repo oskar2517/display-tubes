@@ -2,7 +2,6 @@ Nixies:
 - 1x 6844A
 - 2x 7977/B-4032
 - 3x B-5092
-- 1x B-54370-A
 - 2x B-5441
 - 1x B-5441A
 - 1x B-5971
@@ -90,7 +89,6 @@ Nixies:
 Dekatrons:
 - 1x 439A
 - 2x A101
-- 1x DGL Pressler N4
 - 1x DK12
 - 1x DK24
 - 1x EZ10B
@@ -173,7 +171,6 @@ Other:
 - 3x Z565M
 - 1x Z700U
 - 1x ZM1050
-- 1x Zähldekade Typ 8101
 
 Devices:
 - 1x Contex D11
