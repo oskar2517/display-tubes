@@ -100,6 +100,7 @@ Nixies:
 
 Panaplex:
 - 4x SP-752
+- 1x ZM1500 (Pandicon)
 
 Dekatrons:
 - 1x 439A
@@ -207,7 +208,6 @@ Other:
 - 3x Z565M
 - 1x Z700U
 - 1x ZM1050
-- 1x ZM1500 (Panaplex, Pandicon)
 
 Devices:
 - 1x Contex D11
