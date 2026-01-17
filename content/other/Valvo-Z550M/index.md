@@ -1,5 +1,6 @@
 ---
 date: 2024-12-02
+lastmod: 2026-01-17
 title: Valvo Z550M
 categories:
     - Other
@@ -8,13 +9,13 @@ tags:
     - top-view
 ---
 
-When the Nixie tube was introduced in the 1950s, it faced a significant drawback: its driving circuitry required transistors with relatively high breakdown voltages capable of handling the elevated operating voltages. At the time, such transistors were not widely available. This limitation created a demand for an alternative display technology that could operate with low-voltage, low-current logic circuitry. The solution was the Pixie tube, initially designated as the Z550M and later renamed the ZM1050.
+When the Nixie tube was introduced in the 1950s, it faced a significant drawback: its driving circuitry required transistors with relatively high breakdown voltages capable of handling the elevated operating voltages. At the time, such transistors were not widely available. This limitation created a demand for an alternative display technology that could operate with low-voltage, low-current logic circuitry. The solution was the Z550M, which was later renamed to ZM1050.
 
-The Pixie tube works by combining multiple neon bulbs within a single enclosure, each illuminating a digit cut out of the front plate when activated. The tube operates with a common anode maintained at around 140 V. To light up a specific digit, the corresponding electrode's potential is increased by at least 5 V relative to the others. This small bias ensures the electrode preferentially ignites during the next cycle of the unsmoothed rectified AC voltage driving the tube. This also allows the tube to be directly controlled by the I/O pins of most modern microcontrollers.
+The Z550M works by combining multiple neon bulbs within a single enclosure, each illuminating a digit cut out of the front plate when activated. The tube operates with a common anode maintained at around 140 V. To light up a specific digit, the corresponding electrode's potential is increased by at least 5 V relative to the others. This small bias ensures the electrode preferentially ignites during the next cycle of the unsmoothed rectified AC voltage driving the tube. This also allows the tube to be directly controlled by the I/O pins of most modern microcontrollers.
 
-In theory, a Pixie tube can be driven similarly to a Nixie tube by utilizing the starter electrodes as anodes with a common cathode. With high-voltage transistors now readily available, this approach becomes a more straightforward driving mechanism. It is important to note that the Z550M/ZM1050 functions solely as a display device. Despite its visual similarity to Nomotrons, it lacks any counting capability.
+In theory, the Z550M can be driven similarly to a Nixie tube by utilizing the starter electrodes as anodes with a common cathode. With high-voltage transistors now readily available, this approach becomes a more straightforward driving mechanism. It is important to note that the tube functions solely as a display device. Despite its visual similarity to Nomotrons, it lacks any counting capability.
 
-Linked below is an in-depth article on the development and operation of the Pixie tube.
+Linked below is an in-depth article on the development and operation of the Z550M tube.
 
 | Property          | Description    |
 |-------------------|----------------|
