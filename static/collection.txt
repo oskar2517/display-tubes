@@ -191,6 +191,7 @@ Magic Eyes:
 Other:
 - 2x 2040 (Touch-sensitive Thyratron, Cetron)
 - 1x B9012
+- 1x Burroughs digit row counter
 - 15x E1T
 - 1x HB-105
 - ~100x IN-3
