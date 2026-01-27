@@ -1,9 +1,12 @@
 Nixies:
 - 1x 6844A
 - 2x 7977/B-4032
+- 1x 8422 (B-5991)
+- 2x 8423 (B-6091)
 - 3x B-5092
 - 2x B-5441
 - 1x B-5441A
+- 1x B-5750
 - 1x B-5971
 - 1x B-6037
 - 2x B-7971
@@ -49,6 +52,7 @@ Nixies:
 - 1x LD-836
 - 6x LD8007
 - 2x MUD0 6F
+- 1x NL-5750CS
 - 1x NL-7153
 - 1x NL1246
 - 1x NL5025
@@ -62,6 +66,7 @@ Nixies:
 - 1x NL841
 - 1x R|Z568M
 - 6x SZ-8
+- 1x Unknown like 6844A
 - 4x Unknown like ZM1020
 - 1x Unknown like ZM1180
 - 1x XN1
@@ -70,7 +75,7 @@ Nixies:
 - 1x XN23
 - 4x XN3
 - 1x Z510M
-- 1x Z521M
+- 2x Z521M
 - 3x Z560M
 - 12x Z566M (one labelled ZM1040)
 - 2x Z567M
@@ -99,11 +104,13 @@ Nixies:
 - 1x ZM1332K
 
 Panaplex:
+- 1x SP-425-09
 - 4x SP-752
 - 1x ZM1500 (Pandicon)
 
 Dekatrons:
 - 1x 439A
+- 1x 6802
 - 2x A101
 - 1x DK12
 - 1x DK24
@@ -141,6 +148,7 @@ VFDs:
 - 3x DG8F
 - 1x DP81A
 - 2x DT-1704B (Digivac)
+- 2x DT-1719B
 - 1x FIP20D9X
 - 8x IV-12
 - 6x IV-17
@@ -157,7 +165,8 @@ VFDs:
 - 4x SP8B
 - 1x Unknown 12 digit VFD
 - 1x Unknown VFD similar to IV-18
-- 5x Y1938
+- 7x Y1938
+- 2x Y1939
 - 1x Y4075
 
 Magic Eyes:
@@ -190,6 +199,7 @@ Magic Eyes:
 
 Other:
 - 2x 2040 (Touch-sensitive Thyratron, Cetron)
+- 1x 220V00-123-A-327 (IEE, One Plane Readout, Codes)
 - 1x B9012
 - 1x Burroughs digit row counter
 - 15x E1T
