@@ -48,6 +48,7 @@ Nixies:
 - 5x IN-18
 - 1x IN-19A
 - 2x IN-4
+- 3x IN-8 (fine grid)
 - 8x LC-516
 - 1x LD-836
 - 6x LD8007
