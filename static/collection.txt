@@ -67,6 +67,7 @@ Nixies:
 - 1x NL841
 - 1x R|Z568M
 - 6x SZ-8
+- 1x TAF1317A
 - 1x Unknown like 6844A
 - 4x Unknown like ZM1020
 - 1x Unknown like ZM1180
@@ -76,7 +77,7 @@ Nixies:
 - 1x XN23
 - 4x XN3
 - 1x Z510M
-- 2x Z521M
+- 3x Z521M (one prototype)
 - 3x Z560M
 - 12x Z566M (one labelled ZM1040)
 - 2x Z567M
