@@ -31,7 +31,7 @@ Nixies:
 - 1x GI-21
 - 2x GN-1
 - 1x GN-2
-- 2x GN-4
+- 4x GN-4
 - 3x GN-4A
 - 2x GN-5A
 - 1x GR-111
