@@ -1,6 +1,6 @@
 ---
 date: 2024-12-18
-lastmod: 2025-04-04
+lastmod: 2026-04-18
 title: KEN-RAD 6E5
 categories:
     - magic eye
@@ -9,11 +9,11 @@ tags:
     - top-view
 ---
 
-The 6E5 is one of the earliest examples of a magic eye tube, invented in 1932 by American electrical engineer Alan DuMont. Designed as a cost-effective alternative to expensive needle indicators, it was intended for use in devices like radios that required user tuning without high precision. The first commercially available 6E5 tubes, sold by RCA starting in 1935, featured a coke-bottle-shaped glass envelope common in early vacuum tubes.
+The 6E5 is one of the earliest examples of a magic eye tube, which were invented in 1932 by American electrical engineer Alan DuMont. They were designed as a cost-effective alternative to expensive needle indicators and were intended mostly for use in consumer devices such as radios that required user tuning without high precision. The first commercially available 6E5 tubes were made by RCA starting in 1935 and featured a coke-bottle-shaped glass envelope common in early vacuum tubes.
 
-Unlike more modern magic eye tubes, the 6E5 has a relatively simple display characteristic, consisting of a single shadow that expands or contracts based on the supplied input voltage.
+Unlike the more sophisticated magic eye tubes that were developed later, the 6E5 has a relatively simple display characteristic, consisting of a single shadow that expands or contracts based on the supplied input voltage.
 
-Several variations of the 6E5 were developed, including the 6G5 and 6U5, which introduced minor differences in sensitivity and design. This particular unit was manufactured by KEN-RAD, though other companies such as RCA, Sylvania, and Tung-Sol also produced the tube.
+Several variations of the 6E5 were developed, including the 6G5 and 6U5, which introduced minor differences in sensitivity and design. This particular unit was manufactured by KEN-RAD, though other companies such as RCA, Sylvania, and Tung-Sol also manufactured this model.
 
 ### Key Specifications
 

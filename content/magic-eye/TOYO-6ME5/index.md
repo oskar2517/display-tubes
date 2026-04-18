@@ -1,6 +1,6 @@
 ---
 date: 2025-04-04
-lastmod: 2025-04-11
+lastmod: 2026-04-18
 title: TOYO 6ME5
 categories:
     - magic eye
@@ -9,9 +9,9 @@ tags:
     - top-view
 ---
 
-The 6ME5 (also known as 6M-E5) is a miniature magic eye tube manufactured by TOYO in Japan. It closely resembles the common [6E5 tube](/magic-eye/ken-rad-6e5/), but in a smaller form factor, featuring the same basic display characteristic of a single shadow that opens or closes according to the applied input voltage. The tube operates at a relatively low target voltage of 180V, while a similar variant, the 6ME10, works at an even lower target voltage of just 100V.
+The 6ME5 (also known as 6M-E5) is a miniature magic eye tube manufactured by TOYO in Japan. It closely resembles the common [6E5 tube](/magic-eye/ken-rad-6e5/), but in a smaller form factor. It features the same basic display characteristic of a single shadow that opens or closes according to the supplied input voltage. The tube requires a relatively low target voltage of only 180V (opposed to the 250V typical for most magic eyes), the closely related 6ME10 even just 100V.
 
-Although it was used in certain radios, such as the Heathkit GR-21, the 6ME5 remains a rare and unusual tube.
+Not many devices seem to have used this tube. One example is the Heathkit GR-21 radio.
 
 ### Key Specifications
 
