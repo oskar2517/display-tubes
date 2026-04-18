@@ -1,5 +1,6 @@
 ---
 date: 2025-01-20
+lastmod: 2026-04-18
 title: ETL GC12/4B
 categories:
     - dekatron
@@ -8,9 +9,9 @@ tags:
     - top-view
 ---
 
-The GC12/4B is a neon-filled counting tube manufactured by ETL in Great Britain, capable of bi-directional operation and up to 4,000 counts per second. It features twelve stable cathodes, unlike the usual ten found in most Dekatrons, allowing it to count in base-12. Four of these cathodes are connected to output pins, enabling them to trigger actions such as advancing another Dekatron when active. Divide-by-12 Dekatrons like the GC12/4B were ideal for timekeeping applications since the division of hours, minutes, and seconds in a day aligns with multiples of twelve.
+The GC12/4B is a neon-filled counting tube manufactured by ETL in Great Britain. It is capable of bi-directional operation at up to 4,000 counts per second. It features twelve stable cathodes, unlike the usual ten found in most Dekatrons, which allowed it to be used for base-12 counting. Four of these cathodes are accessible via output pins, enabling them to trigger actions such as advancing another Dekatron when active. Divide-by-12 Dekatrons like the GC12/4B were ideal for timekeeping applications since the division of hours, minutes, and seconds in a day aligns with multiples of twelve.
 
-The GC12/4B is nearly identical to the GC10/4B, with the key distinction being that the latter has only the standard ten stable positions.
+The GC12/4B is nearly identical to the GC10/4B, with the only difference being that the latter has only the standard ten stable positions.
 
 ### Key Specifications
 

@@ -1,5 +1,6 @@
 ---
 date: 2025-01-22
+lastmod: 2026-04-18
 title: DGL Pressler N4
 categories:
     - dekatron
@@ -8,11 +9,11 @@ tags:
     - top-view
 ---
 
-The N4 is a neon-filled decadic counting tube produced by the German company DGL Pressler (Deutsche Glimmlampen GmbH), mostly known for their special tubes. It functions in a unidirectional, single-pulse mode, with each of its ten stable cathodes accessible via separate pins. According to its datasheet, the tube is capable of up to 25,000 counts per second, making it exceptionally fast for a neon-filled Dekatron.
+The N4 is a neon-filled decadic counting tube manufactured by the German company DGL Pressler (Deutsche Glimmlampen GmbH), which is mostly known for making discharge tubes and phototubes. The tube operates in a unidirectional, single-pulse mode and each of its ten stable cathodes is accessible externally via a separate pin. According to its datasheet, the N4 is capable of up to 25,000 counts per second, making it exceptionally fast for a neon-filled Dekatron.
 
-This unit's glass envelope is covered with a silver coating likely intended to reduce light bleeding in from the sides affecting readability. Unlike the tiny pins typically used as cathodes in Dekatrons, the N4 features small plates, which give the discharge a noticeably wider appearance. Images of a transparent version, available [here](https://www.jogis-roehrenbude.de/Roehren-Geschichtliches/Nixie/N3_N4.htm), reveal that the tube's interior is almost empty, explaining its unusually light weight. A variant of the tube featuring a smaller phenolic base was also produced under the designation N3.
+This unit's glass envelope is covered with a silver coating likely intended to reduce light bleeding in from the sides affecting readability. Images of a transparent version, available [here](https://www.jogis-roehrenbude.de/Roehren-Geschichtliches/Nixie/N3_N4.htm), reveal that the tube's interior is almost empty, explaining its unusually light weight. Unlike the tiny pins typically used as cathodes in Dekatrons, the N4 features small plates, which give the discharge a noticeably wider appearance. A variant of the tube featuring a smaller phenolic base was manufactured under the designation N3.
 
-It is worth noting that I believe the original datasheet for the tube contains an error in regards to the recommended anode resistor value (Ra). During my testing, a 50kΩ resistor proved to be far too small, resulting in multiple cathodes igniting simultaneously and preventing proper discharge transfer. I tested the tube with a 220kΩ resistor, which worked well, though it’s likely that even higher values could be used.
+It is worth noting that I believe the original datasheet for the tube contains an mistake in regard to the recommended anode resistor value (Ra). During my testing, a 50kΩ resistor proved to be far too small, causing multiple cathodes to ignite simultaneously and preventing proper discharge transfer. I tested the tube with a 220kΩ resistor, which worked well, though it is likely that even higher values could be used.
 
 ### Key Specifications
 

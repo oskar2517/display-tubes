@@ -1,5 +1,6 @@
 ---
 date: 2025-07-27
+lastmod: 2026-04-18
 title: Valvo ZM1070
 categories:
     - dekatron
@@ -8,9 +9,9 @@ tags:
     - top-view
 ---
 
-The ZM1070 is a neon-filled, double-pulse decadic counting tube manufactured by Valvo in Germany. It supports bi-directional counting and operates at speeds of up to 5,000 counts per second. Each of its ten stable cathodes is connected to a separate pin, allowing external actions to be triggered when a specific cathode is active. This design also enables the tube to be reset to any of its ten positions by applying a brief negative pulse to the desired electrode.
+The ZM1070 is a neon-filled, double-pulse decadic counting tube manufactured by Valvo in Germany. It supports bi-directional counting and operates at speeds of up to 5,000 counts per second. Each of its ten stable cathodes is connected to a separate pin, allowing external actions (such as advancing a second stage Dekatron) to be triggered when a specific cathode is active. This design also enables the tube to be reset to any of its ten positions by applying a brief negative pulse to the desired electrode.
 
-Compared to many other Dekatron tubes, such as the GC12/4B and GC10B/S from ETL in Great Britain, the ZM1070 features a more compact form factor. This makes it particularly well-suited for use in Nixie clocks, where Dekatrons are often employed as seconds indicators.
+Compared to many other Dekatron tubes, such as the [GC12/4B](/dekatron/etl-gc12-4b/) and GC10B/S from ETL in Great Britain, the ZM1070 features a more compact form factor. This makes it particularly well-suited for use in Nixie clocks, where Dekatrons are often used as seconds indicators.
 
 The equivalent British tube is the Z504S, which was manufactured by Mullard and other companies.
 
