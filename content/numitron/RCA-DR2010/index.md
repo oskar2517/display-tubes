@@ -1,5 +1,6 @@
 ---
 date: 2025-01-07
+lastmod: 2026-04-18
 title: RCA DR2010
 categories:
     - Numitron
@@ -8,9 +9,11 @@ tags:
     - side-view
 ---
 
-The DR2010 is a Numitron developed by RCA, with units sold under the Apollo brand by IEE bearing the same model numbers but substituting "DR" with "DA". The DR2010 is identical with the DR2000 except for the latter lacking a decimal point. As shown below, some units feature a flat top, while others have a convex top. This seems to be a manufacturing variation and does not necessarily correspond to different model numbers.
+The DR2010 is a Numitron display tube developed by RCA. It is identical to the DR2000 except for the latter lacking a decimal point. As shown below, some units feature a flat top, while others have a convex top. This seems to be a manufacturing variation and does not necessarily correspond with different model numbers.
 
-This series of Numitrons is renowned for its exceptional reliability, with a rated lifespan of at least 100,000 hours. Longevity can be further extended by operating the tubes at reduced currents and maintaining a small current through inactive filaments to minimize thermal cycling. Since Numitrons emit a wide spectrum of light, color filters can be used to change their color.
+This series of Numitrons is renowned for its exceptional reliability and has a rated lifespan of at least 100,000 hours. Longevity can be further extended by operating the tubes at reduced currents and maintaining a small current through inactive filaments to minimize thermal cycling. Since Numitrons emit a wide spectrum of light, color filters can be used to change their color.
+
+Some units were sold by IEE under the Apollo brand bearing the same model numbers but substituting "DR" with "DA" but otherwise being identical.
 
 RCA also manufactured a less common top-view version of this tube known as the [DTF104B](/numitron/rca-dtf104b/).
 

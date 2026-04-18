@@ -1,6 +1,6 @@
 ---
 date: 2024-12-05
-lastmod: 2025-01-07
+lastmod: 2026-04-18
 title: RCA DTF104B
 categories:
     - Numitron
@@ -9,11 +9,11 @@ tags:
     - top-view
 ---
 
-The DTF104B is a Numitron display tube produced by RCA. Internally, it is nearly identical to the more common DR2000 and similar to the [DR2010](/numitron/rca-dr2010/), but it is designed to be read from the top rather than the side. A spot exists on the backplate where a left decimal point could have been included, but it lacks filaments and is therefore non-functional on this model. Its flat top gives the DTF104B a distinct look and helps reducing reflections from adjacent tubes.
+The DTF104B is a Numitron display tube developed by RCA. Internally, it is nearly identical to the more common DR2000 and similar to the [DR2010](/numitron/rca-dr2010/), but it is designed to be read from the top rather than the side. A spot exists on the backplate where a left decimal point could have been included, but it lacks filaments and is therefore non-functional on this model. Its flat top gives the DTF104B a distinct look and helps reducing reflections from adjacent tubes.
 
 RCA and Apollo used the "DTF" prefix to denote experimental development tubes, suggesting that this model likely never went into mass production.
 
-RCA's Numitrons were typically rated for a minimum of 100,000 hours of operation, so it's likely this model can achieve similar longevity. As with all devices using incandescent filaments, their lifespan can be extended greatly by reducing stress from thermal expansion. This can be done by maintaining a small current through inactive filaments to prevent them from cooling completely. Additionally, lowering the general filament current can also have a positive effect on longevity.
+RCA's Numitrons were typically rated for a minimum of 100,000 hours of operation, so it's likely this model can achieve similar longevity. As with all devices using incandescent filaments, their lifespan can be extended greatly by reducing stress from thermal expansion. This can be done by maintaining a small current through inactive filaments to prevent them from cooling completely. Additionally, lowering the general filament current can also have a significant positive effect on longevity.
 
 | Property          | Description    |
 |-------------------|----------------|
