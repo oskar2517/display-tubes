@@ -9,13 +9,13 @@ tags:
     - top-view
 ---
 
-The Tesla 11TU7 is an early neon-filled Nomotron counting tube allowing for up to 20,000 counts/second. It operates in a unidirectional, single-pulse mode, advancing the discharge by one position with each pulse and featuring ten stable positions. Unlike conventional decadic counting tubes (Dekatrons), its guiding electrodes are concealed behind a metal shell. Only the stable cathodes are visible through circular openings, each marked with its corresponding value on a transparent mica shield.
+The Tesla 11TU7 is a neon-filled Nomotron counting tube capable of up to 20,000 counts/second. It operates in a unidirectional, single-pulse mode, advancing the discharge by one position with each pulse and featuring ten stable positions. Unlike conventional decadic counting tubes (Dekatrons), its guiding electrodes are concealed behind a metal shell. Only the ten stable cathodes are visible through circular openings, each marked with its corresponding value on a transparent mica shield.
 
 The tube features a specialized socket design based on the B12A socket, incorporating an additional central pin that connects to the tube's anode.
 
 The 11TU7 is pin compatible with the [STC G10/241E](/nomotron/stc-g10-241e/). Therefore, information from the document "STC Valves Appilcation Report - G10/241E" should also be applicable to this tube, a scan of which can be found [here](/documents/g10-241e-application-report/). The 11TU7 features a slightly different front plate design, where the electrode holes are covered by a semi-transparent mica shield. The digits are directly printed above their respective electrodes, enabling them to be illuminated from behind. This should improve readability, particularly in low-light conditions. The blue coating on the glass envelope combined with its plastic base gives the tube a distinctly industrial appearance.
 
-Unfortunately, this unit, though new old stock, has lost its neon and is no longer operational. A video linked below shows the 11TU7 in operation.
+Unfortunately, this unit, though new old stock, has outgassed and is therefore no longer operational. A video linked below shows the 11TU7 in operation.
 
 ### Key Specifications
 
