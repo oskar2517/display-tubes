@@ -218,6 +218,7 @@ Other:
 - 1x Nimo
 - 6x OmniRay SAO M 40
 - 1x Photo Emission Tube (Projection Display)
+- 1x S10S1 (E1T)
 - 7x Telephone Line Busy Indicators
 - 4x Unknown LED Bubble Display
 - 1x XC18
