@@ -1,5 +1,6 @@
 ---
 date: 2025-01-11
+lastmod: 2026-04-19
 title: Philips E1T
 categories:
     - other
@@ -8,11 +9,11 @@ tags:
     - side-view
 ---
 
-The E1T is a decadic counting tube developed by Philips, predating the invention of gas-filled Dekatrons. Each pulse advances the tube's internal count by one and generates a voltage spike, which can be used to trigger specific actions. Internally, the E1T operates as a small cathode ray tube with a ribbon-shaped electron beam that occupies one of ten stable positions. The current position of the beam is indicated as a glowing strip, with each position marked with its corresponding value on a piece of film affixed to the tube's glass envelope. The tube's envelope is coated with a transparent protective layer, which is prone to cracking over time, particularly in damp environments. Consequently, E1Ts in pristine condition have become increasingly rare.
+The E1T is a decadic counting tube developed by Philips which predates the invention of gas-filled Dekatrons. Each pulse advances the tube's internal count by one and generates a voltage spike, which can be used to trigger external actions such as advancing the next stage of a multi-tube counter. Internally, the E1T operates as a small cathode ray tube with a ribbon-shaped electron beam that occupies one of ten stable positions. The current position of the beam is indicated as a glowing strip, with each position marked with its corresponding value on a piece of film affixed to the tube's glass envelope. The tube's envelope is coated with a transparent protective layer, which is prone to cracking over time, particularly in damp environments. Consequently, E1Ts in pristine condition have become increasingly rare.
 
-The E1T supports high counting speeds, being capable of up to 30,000 counts per second in normal use, with certain units being able to reach 100,000 counts per second in specialized circuits.
+The E1T supports high counting speeds of up to 30,000 counts per second in normal use. Some units are even capable of achieving 100,000 counts per second in specialized circuits.
 
-Both RFT and the Polish manufacturer PIE produced clones of the E1T, marketed under the names S10S1 and ELW-1, respectively.
+Both RFT and the Polish manufacturer PIE introduced clones of the E1T, marketed under the names S10S1 and ELW-1, respectively.
 
 Much more information on E1Ts can be found in Ronald Dekker's amazing articles ["The making of the E1T"](https://www.dos4ever.com/E1T/E1T.html) and ["A E1T Decade Scaler Tube raised from the dead"](https://www.dos4ever.com/trochotron/TROCH.html).
 

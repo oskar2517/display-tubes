@@ -1,6 +1,6 @@
 ---
 date: 2025-07-16
-lastmod: 2026-01-17
+lastmod: 2026-04-19
 title: RFT Z565M
 categories:
     - other
@@ -9,11 +9,11 @@ tags:
     - top-view
 ---
 
-The Z565M is a neon-filled decadic display tube produced by RFT in East Germany and sometimes referred to as a "Register Tube". Although it resembles a Dekatron, it lacks any kind of counting capability. Unlike the [ZM1050/Z550M](/other/valvo-z550m/), it also cannot be controlled using logic-level signals. Instead, it operates more like a regular Nixie tube. 
+The Z565M is a neon-filled decadic display tube manufactured by RFT in East Germany. Although it resembles a Dekatron, it lacks any kind of counting capability. Unlike the [ZM1050/Z550M](/other/valvo-z550m/), it also cannot be controlled using logic-level signals. Instead, it operates more like a regular Nixie tube and is soemtimes referred to as a "Register tube".
 
-It features ten wire-formed cathodes arranged in a circle around a common anode, with each cathode activated by connecting it to ground. When viewed from the front, the tube shows two empty holes between each cathode. In a full Dekatron tube, these positions would have been occupied by the transfer electrodes. To ensure consistent ignition regardless of ambient light or background radiation, the Z565M includes a small amount of radioactive material to improve the rate of spontaneous ionization of the neon gas.
+It features ten wire-formed cathodes arranged in a circle around a common anode. One or more cathodes can be ignited by connecting them to ground. When viewed from the front, the tube shows two empty holes between each cathode. In a full Dekatron tube, these positions would have been occupied by the transfer electrodes. To ensure consistent ignition regardless of ambient light or background radiation, the Z565M includes a small amount of radioactive material to improve the rate of spontaneous ionization of the neon gas.
 
-The Z565M is visually compatible with Dekatron-based counting circuits, making it a suitable display component in such systems. Similar tubes include the GR10A and Z503M.
+The tube was specifically intended for use in Dekatron-based counting circuits where it would have been a visually compatible display component. Similar tubes include the GR10A and Z503M.
 
 ### Key Specifications
 

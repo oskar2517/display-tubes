@@ -1,5 +1,6 @@
 ---
 date: 2026-01-17
+lastmod: 2026-04-19
 title: Burroughs HB-105
 categories:
     - Other
@@ -8,12 +9,11 @@ tags:
     - top-view
 ---
 
-The HB-105 is a so-called Pixie tube manufactured by Burroughs. Unlike a Nixie tube, which forms numerals from a stack of digit-shaped cathodes, the Pixie tube uses a single anode plate perforated with digit-shaped holes, through which a neon discharge becomes visible. The tube's datasheet listed its various advantages which included the ability to display multiple digits simultaneously and its low operating current. Additionally, it was significantly cheaper than conventional Nixie tubes at the time. 
+The HB-105 is a so-called Pixie tube manufactured by Burroughs. Unlike a Nixie tube, which forms numerals from a stack of digit-shaped cathodes, the Pixie tube uses a single anode plate perforated with digit-shaped holes, through which a neon discharge can be seen. The tube's datasheet lists its various supposed advantages over Nixie tubes which included the ability to display multiple digits simultaneously and its low operating current. Additionally, it was significantly cheaper than conventional Nixie tubes at the time. 
 
 Despite these advantages, Pixie tubes never achieved widespread adoption. This was likely largely due to the extremely small size of the digits, which made them difficult to read compared even to the smallest Nixie tubes. Like some other early Nixie tubes sold by Burroughs, the HB-105 retained the naming convention of Haydu Brothers, the company who invented the original the Nixie tube, which was later acquired by Burroughs.
 
 A letter to the U.S. Atomic Energy Commission indicates that the tube contains a small amount of krypton-85, a radioactive gas. This approach was also used in some Nixie tubes to provide an internal source of ionization independent of ambient radiation, ensuring reliable ignition even in heavily shielded or completely dark environments. Given that krypton-85 has a half-life of only about 11 years, the vast majority of the gas has since long decayed.
-
 
 The outward appearance of the HB-105 is similar to that of the [Z550M/ZM1050](/other/valvo-z550m/); however, unlike those tubes, it cannot be driven directly by low-voltage control signals. Instead, it operates in the same manner as a conventional Nixie tube and therefore requires identical high-voltage driving circuitry.
 

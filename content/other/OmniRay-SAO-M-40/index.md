@@ -1,6 +1,6 @@
 ---
 date: 2024-11-16
-lastmod: 2025-01-11
+lastmod: 2025-04-19
 title: OmniRay SAO M 40
 categories:
     - other
@@ -12,7 +12,7 @@ The OmniRay SAO M 40 is a so-called Sphericular Optic Display. While similar in 
 
 In addition to displaying the ten digits, the unit is capable of showing a left decimal point. Interestingly, the light bulb for the decimal point is not connected to a solder pad.
 
-The device's PCB backplate is designed to be removable, allowing convenient access to the eleven socketed miniature light bulbs inside. The installed light bulbs, as indicated on the device's metal housing, are rated for 14 volts. OmniRay also manufactured at least one related model, the SD 12 W, which was rated for 28 volts. One of the pictures below also shows a version of the M 40 with a different, more modern PCB design.
+The device's PCB backplate is designed to be removable, allowing convenient access to the eleven socketed miniature light bulbs inside. The installed light bulbs, as indicated on the device's metal housing, are rated for 14 volts. OmniRay also sold at least one related model, the SD 12 W, which was rated for 28 volts. One of the pictures below also shows a version of the M 40 with a different, more modern PCB design.
 
 | Property          | Description    |
 |-------------------|----------------|
