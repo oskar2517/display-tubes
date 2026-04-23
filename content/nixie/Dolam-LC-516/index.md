@@ -1,6 +1,6 @@
 ---
 date: 2024-11-22
-lastmod: 2025-05-18
+lastmod: 2026-04-23
 title: Dolam LC-516
 categories:
     - nixie
@@ -9,9 +9,9 @@ tags:
     - top-view
 ---
 
-The LC-516, produced by Polish tube manufacturer Dolam (later known as Unitra Dolam), is pin-compatible with and visually similar to the Soviet [IN-1 Nixie](/nixie/anod-in-1/) tube. However, unlike the IN-1, an early model with a relatively short lifespan, the LC-516 is mercury-doped, significantly enhancing its durability and giving its glow a subtle bluish tint. The LC-516 features a slightly smaller glass envelope and digits compared to the IN-1; a comparison between the two is shown below. Additionally, Dolam manufactured a version without the phenolic base, designated as the LC-513.
+The LC-516, produced by Polish tube manufacturer Dolam (later known as Unitra Dolam), is pin-compatible with and visually similar to the Soviet [IN-1 Nixie](/nixie/anod-in-1/) tube. However, unlike the IN-1, an early model with a relatively short lifespan, the LC-516 contains small amounts of mercury, which significantly improves its longevity and gives its discharge a subtle bluish tint. The LC-516 features a slightly smaller glass envelope and digits compared to the IN-1; a comparison between the two is shown below. Notably, the LC-516 has a black base, which is also found in IN-1s intended for export. Dolam also manufactured a version without the phenolic base under the designation LC-513.
 
-As I am not aware of a datasheet specifically for this tube, I have provided a link to the IN-1's datasheet below. Since the tubes are compatible, the relevant specifications should be identical.
+As I am not aware of a datasheet specifically for this tube, I have provided a link to the IN-1's datasheet below. Since the tubes are compatible, the relevant specifications should be identical. The earliest samples of LC-516 I have seen were manufactured in 1971.
 
 **Update from 2025-05-18**
 
@@ -22,7 +22,7 @@ I was able to acquire a slightly different version of the LC-516, featuring a la
 | Property          | Description |
 |-------------------|-------------|
 | Manufacturer      | Dolam       |
-| Time period       | ?           |
+| Time period       | 1970s?      |
 | Digit height      | ~15mm       |
 | Envelope diameter | 27mm        |
 | Base diameter     | 35mm        |

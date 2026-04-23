@@ -1,6 +1,6 @@
 ---
 date: 2024-12-30
-lastmod: 2025-08-20
+lastmod: 2025-04-23
 title: Anod IN-1
 categories:
     - nixie
@@ -10,17 +10,17 @@ tags:
     - top-view
 ---
 
-The IN-1 ("NH-1") is the first generation of Nixie tube mass-produced in the Soviet Union by Anod. Like many other Soviet Nixie tubes, the IN-1 utilizes an inverted two to represent the number five, although at least some earlier models featured a proper five. This tube is notable for its large phenolic base, with each pin conveniently numbered. As is typical of early Nixie tube designs, the IN-1's gas mixture lacks mercury vapor, which results in reduced longevity. It is, however, pin-compatible with and visually very similar to the [Dolam LC-516](/nixie/dolam-lc-516/), which could be considered as a longer-lasting alternative for those who appreciate the IN-1's UFO-like design. Original U11 sockets are notoriously difficult to come by so building a device using either of them would likely require coming up with a custom made socket design.
+The IN-1 ("NH-1") is the first generation of Nixie tube mass-produced in the Soviet Union. Like some other Soviet Nixie tubes, the IN-1 utilizes an inverted two to represent the number five, although at least some earlier models featured a proper five. This tube is notable for its large phenolic base, with each pin conveniently numbered. As is typical of early Nixie tube designs, the IN-1's gas mixture lacks mercury vapor, which results in a relatively poor lifespan. It is, however, pin-compatible with and visually very similar to the Polish [Dolam LC-516](/nixie/dolam-lc-516/), which could be considered as a longer-lasting alternative for those who appreciate the IN-1's UFO-like design. Original U11 sockets are notoriously difficult to come by so building a device using either of them would likely require coming up with a custom made socket design.
 
 The unit shown below was manufactured in March 1992, around the time of the Soviet Union's collapse, which likely makes it part of one of the final production batches. This suggests that the IN-1 had a production run spanning almost 30 years, although earlier units exhibit noticeably shoddier construction.
 
 **Update from 2025-05-18**
 
-I recently acquired two IN-1 tubes that feature an uncommon black base instead of the typical brown. Additionally, it features the old Anod logo. Interestingly, one of them also displays a unusually wide "4" numeral. A document included with the tubes states, they were intended for export. Perhaps the black base is supposed to mimic that of the [LC-516](/nixie/dolam-lc-516/)? Photos are included below.
+I recently acquired two IN-1 tubes that feature an uncommon black base instead of the typical brown one. Additionally, they feature the old Anod logo. Interestingly, one of them also displays a unusually wide "4" numeral. A piece of paper included with the tubes states, they were intended for export. The same black base is also found on the Polish [LC-516](/nixie/dolam-lc-516/). Photos are included below.
 
 **Update from 2025-08-20**
 
-Two more unusual IN-1s have joined my collection. The first is another black-base example, this one produced in 1965, placing it near the start of the IN-1’s manufacturing run. Unlike the tubes shown earlier on this page, it was made at the Melz plant near Moscow and features the same unusually wide “4” seen in the other black-base IN-1. The second tube, dated 1971, stands out because it uses a proper “5” rather than the peculiar upside-down “2” typically found on IN-1s as well as a wide "4". This shows that the use of an inverted “2” in place of a proper “5” was not a later cost-cutting decision, but rather an oddity that persisted into the later years of production.
+Two more unusual IN-1s have joined my collection. The first is another black-base example, this one produced in 1965, placing it near the start of the IN-1's manufacturing run. Unlike the tubes shown earlier on this page, it was made at the Melz plant near Moscow and features the same unusually wide “4” seen in the other black-base IN-1. The second tube, dated 1971, stands out because it uses a proper “5” rather than the peculiar upside-down “2” typically found on IN-1s as well as a wide "4". This shows that the use of an inverted “2” in place of a proper “5” was not a later cost-cutting decision, but rather an oddity that persisted into the later years of production.
 
 ### Key Specifications
 
