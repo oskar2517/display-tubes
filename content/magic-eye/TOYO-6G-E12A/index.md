@@ -8,7 +8,7 @@ tags:
     - top-view
 ---
 
-The 6G-E12A is peculiar magic eye tube manufactured by the Japanese company TOYO. Unlike most top-viewing magic eyes tubes, such as the common 6E5, which feature circular screens, the 6G-E12A's screen is rectangular. It is the successor to the 6G-E12 tube, which features a similar rectangular screen design but has a different display characteristic.
+The 6G-E12A is peculiar magic eye tube manufactured by the Japanese company TOYO. Unlike most top-viewing magic eyes tubes, such as the common [6E5](/magic-eye/ken-rad-6e5/), which feature circular screens, the 6G-E12A's screen is rectangular. It is the successor to the 6G-E12 tube, which features a similar rectangular screen design but has a different display characteristic.
 
 The 6G-E12A is a so-called double indicator tube, meaning it has two independently controlled shadow angles. This allows it to visualize two signals simultanously which made it particularly suitable for FM stereo indication. For simplicity, I connected both channels together in the video shown below.
 
