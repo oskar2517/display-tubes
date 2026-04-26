@@ -1,4 +1,5 @@
 Nixies:
+- GN-6A
 - 1x 6844A
 - 2x 7977/B-4032
 - 1x 8422 (B-5991)
@@ -7,7 +8,7 @@ Nixies:
 - 2x B-5441
 - 1x B-5441A
 - 1x B-5750
-- 1x B-5971
+- 2x B-5971
 - 1x B-6037
 - 2x B-7971
 - 1x B5018
@@ -32,16 +33,17 @@ Nixies:
 - 2x GN-1
 - 1x GN-2
 - 4x GN-4
-- 3x GN-4A
+- 7x GN-4A
 - 2x GN-5A
 - 1x GR-111
 - 1x GR-115
 - 1x GR-211/CD94
 - 1x GR10G
 - 2x GR10H
+- 1x GS-4A
 - 14x IN-1 (3x black base, 5x proper "five")
 - 10x IN-12
-- 3x IN-14
+- 5x IN-14
 - 2x IN-16 (1970s digits)
 - 2x IN-17
 - 5x IN-17 (red)
@@ -95,6 +97,7 @@ Nixies:
 - 2x ZM1032
 - 3x ZM1040
 - 2x ZM1042
+- 3x ZM1080
 - 1x ZM1083
 - 1x ZM1100
 - 2x ZM1120
