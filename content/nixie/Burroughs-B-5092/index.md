@@ -10,7 +10,7 @@ tags:
 
 The Burroughs B-5092 is a medium-sized Nixie tube that shares pin compatibility with other common top-view types such as the ZM1020, Z560M, and GN-4. Unlike these, however, it features a taller, more slender glass envelope. Its most distinctive element is the unusual anode cage, which leaves the cathode stack clearly visible from the side.
 
-Another detail that can be seen from the side is the so-called “giver pill,” a tiny glass bead that originally held mercury vapor. After the tube was sealed, the pill was heated by running current through the wire it is wrapped in, causing the bead to rupture and release the mercury inside. The presence of mercury helps suppress sputtering, significantly extending the tube’s service life. This long-life characteristic made the B-5092 especially popular for Nixie clocks, though today the tube has become quite rare.
+Another detail that can be seen from the side is the so-called “giver pill,” a tiny glass bead that originally held mercury vapor. After the tube was sealed, the pill was heated by running current through the wire it is wrapped in, causing the bead to rupture and release the mercury inside. The presence of mercury helps suppress sputtering, significantly extending the tube's service life. This long-life characteristic made the B-5092 especially popular for Nixie clocks, though today the tube has become quite rare.
 
 ### Key Specifications
 

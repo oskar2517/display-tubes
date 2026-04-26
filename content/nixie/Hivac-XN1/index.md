@@ -8,7 +8,7 @@ tags:
     - side-view
 ---
 
-The XN1 is an early Nixie tube produced by Hivac in Great Britain and Lorenz in Germany. The earliest documentation referencing this tube I could find is dated September 9, 1961, shortly after the invention of Nixie tubes. This particular unit features an evaporative getter at the top, giving it a distinctive appearance typically associated with vacuum tubes (often seen in VFDs). However, versions with a getter located behind the anode cage were also manufactured. The tube’s anode cage is notably restrictive, limiting visibility to mostly straight-on angles. Unlike many other tubes of similar size, the XN1 does not include any decimal points.
+The XN1 is an early Nixie tube produced by Hivac in Great Britain and Lorenz in Germany. The earliest documentation referencing this tube I could find is dated September 9, 1961, shortly after the invention of Nixie tubes. This particular unit features an evaporative getter at the top, giving it a distinctive appearance typically associated with vacuum tubes (often seen in VFDs). However, versions with a getter located behind the anode cage were also manufactured. The tube's anode cage is notably restrictive, limiting visibility to mostly straight-on angles. Unlike many other tubes of similar size, the XN1 does not include any decimal points.
 
 ### Key Specifications
 
