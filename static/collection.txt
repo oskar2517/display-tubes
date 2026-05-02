@@ -10,7 +10,7 @@ Nixies:
 - 1x B-5750
 - 2x B-5971
 - 1x B-6037
-- 2x B-7971
+- 3x B-7971
 - 1x B5018
 - 1x B560M
 - 1x CD11
@@ -34,6 +34,7 @@ Nixies:
 - 1x GN-2
 - 4x GN-4
 - 7x GN-4A
+- 1x GN-4D
 - 2x GN-5A
 - 1x GR-111
 - 1x GR-115
@@ -90,12 +91,12 @@ Nixies:
 - 7x ZM1000
 - 2x ZM1000R
 - 1x ZM1001
-- 2x ZM1001R
+- 3x ZM1001R
 - 1x ZM1003
 - 1x ZM1008
-- 7x ZM1020
+- 8x ZM1020
 - 2x ZM1032
-- 3x ZM1040
+- 4x ZM1040
 - 2x ZM1042
 - 3x ZM1080
 - 1x ZM1083
@@ -134,6 +135,7 @@ Nomotrons:
 - 2x G10/241E
 
 Numitrons:
+- 1x DA1300
 - 1x DA1310
 - 10x DR2010 (2x convex top, 8x flat top)
 - 1x DTF104B
@@ -152,8 +154,11 @@ VFDs:
 - 5x DG10S
 - 1x DG10SI
 - 1x DG12B
+- 1x DG19E
 - 3x DG8F
 - 1x DP81A
+- 1x DP84A
+- 1x DP95A4
 - 2x DT-1704B (Digivac)
 - 3x DT-1704C
 - 2x DT-1719B
@@ -190,7 +195,7 @@ Magic Eyes:
 - 1x 6U5/6G5
 - 1x 6U5G
 - 2x CV394
-- 1x DM71
+- 2x DM71
 - 3x EAM86
 - 1x EM1
 - 3x EM71
@@ -199,7 +204,8 @@ Magic Eyes:
 - 1x EM81
 - 8x EM83
 - 3x EM84
-- 2x EM87
+- 1x EM85
+- 4x EM87
 - 2x PM84
 - 2x UM11
 - 4x UM80
@@ -229,6 +235,7 @@ Other:
 - 3x Z565M
 - 1x Z700U
 - 1x ZM1050
+- 1x medium-size neon indicator
 
 Devices:
 - 1x Contex D11
