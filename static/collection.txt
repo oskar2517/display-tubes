@@ -54,7 +54,7 @@ Nixies:
 - 3x IN-8 (fine grid)
 - 8x LC-516
 - 1x LD-836
-- 6x LD8007
+- 4x LD8007
 - 2x MUD0 6F
 - 1x NL-5750CS
 - 1x NL-7153
@@ -85,7 +85,7 @@ Nixies:
 - 12x Z566M (one labelled ZM1040)
 - 2x Z567M
 - 6x Z570M
-- 8x Z5900M
+- 4x Z5900M
 - 5x Z8700M
 - 1x ZIN-70
 - 7x ZM1000
