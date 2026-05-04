@@ -72,7 +72,7 @@ Nixies:
 - 6x SZ-8
 - 1x TAF1317A
 - 1x Unknown like 6844A
-- 4x Unknown like ZM1020
+- 1x Unknown like ZM1020
 - 1x Unknown like ZM1180
 - 1x XN1
 - 1x XN10A
