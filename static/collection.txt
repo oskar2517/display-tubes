@@ -85,7 +85,7 @@ Nixies:
 - 12x Z566M (one labelled ZM1040)
 - 2x Z567M
 - 6x Z570M
-- 4x Z5900M
+- 3x Z5900M
 - 5x Z8700M
 - 1x ZIN-70
 - 7x ZM1000
