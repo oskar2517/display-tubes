@@ -40,7 +40,8 @@ Nixies:
 - 1x GR-115
 - 1x GR-211/CD94
 - 1x GR10G
-- 2x GR10H
+- 3x GR10H
+- 6x GR10K (5 with red filter)
 - 1x GS-4A
 - 14x IN-1 (3x black base, 5x proper "five")
 - 10x IN-12
