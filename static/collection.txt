@@ -138,7 +138,7 @@ Nomotrons:
 Numitrons:
 - 1x DA1300
 - 1x DA1310
-- 10x DR2010 (2x convex top, 8x flat top)
+- 6x DR2010 (2x convex top, 4x flat top)
 - 1x DTF104B
 - 1x IV-13
 - 1x IV-16
@@ -226,7 +226,6 @@ Other:
 - 1x B9012
 - 1x Burroughs digit row counter
 - 15x E1T
-- 1x Flat Chinese CRT
 - 1x HB-105
 - ~100x IN-3
 - 2x Impulsuntersetzer C01 Display Module
