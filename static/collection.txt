@@ -205,6 +205,7 @@ Magic Eyes:
 - 1x EM1
 - 2x EM11
 - 5x EM34
+- 1x EM4 (yellow)
 - 5x EM71
 - 2x EM72
 - 2x EM80
