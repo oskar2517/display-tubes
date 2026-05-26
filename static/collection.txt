@@ -34,7 +34,7 @@ Nixies:
 - 4x GN-4
 - 7x GN-4A
 - 1x GN-4D
-- 2x GN-5A
+- 10x GN-5A
 - 1x GN-6A
 - 1x GR-111
 - 1x GR-115
