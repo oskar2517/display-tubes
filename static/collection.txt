@@ -201,9 +201,9 @@ Magic Eyes:
 - 2x CV394
 - 2x DM71
 - 3x EAM86
-- 8x EFM11
+- 6x EFM11
 - 1x EM1
-- 2x EM11
+- 3x EM11
 - 5x EM34
 - 1x EM4 (yellow)
 - 5x EM71
