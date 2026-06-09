@@ -16,7 +16,7 @@ Nixies:
 - 1x CD26
 - 1x CD28
 - 1x CD61
-- 2x CD66A
+- 3x CD66A
 - 1x CD71LA
 - 4x CD78
 - 4x CD80P
@@ -32,7 +32,7 @@ Nixies:
 - 2x GN-1
 - 1x GN-2
 - 4x GN-4
-- 7x GN-4A
+- 8x GN-4A
 - 1x GN-4D
 - 10x GN-5A
 - 1x GN-6A
@@ -51,7 +51,7 @@ Nixies:
 - 5x IN-17 (red)
 - 5x IN-18
 - 1x IN-19A
-- 2x IN-4
+- 3x IN-4
 - 3x IN-8 (fine grid)
 - 8x LC-516
 - 1x LD-836
@@ -89,7 +89,7 @@ Nixies:
 - 3x Z5900M
 - 5x Z8700M
 - 1x ZIN-70
-- 7x ZM1000
+- 8x ZM1000
 - 2x ZM1000R
 - 1x ZM1001
 - 3x ZM1001R
@@ -105,6 +105,7 @@ Nixies:
 - 2x ZM1120
 - 2x ZM1175
 - 1x ZM1180
+- 1x ZM1182
 - 2x ZM1200
 - 6x ZM1210
 - 4x ZM1242
