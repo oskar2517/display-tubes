@@ -1,10 +1,11 @@
 ---
 date: 2026-01-05
+lastmod: 2026-06-10
 title: Sylvania 8894
 categories:
     - vfd
 tags:
-    - Reflector
+    - Sylvania
     - side-view
 ---
 
