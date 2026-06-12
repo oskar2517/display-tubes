@@ -159,7 +159,6 @@ VFDs:
 - 1x DG19E
 - 3x DG8F
 - 1x DP81A
-- 1x DP84A
 - 1x DP95A4
 - 2x DT-1704B (Digivac)
 - 3x DT-1704C
