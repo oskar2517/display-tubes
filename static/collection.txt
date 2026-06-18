@@ -98,7 +98,7 @@ Nixies:
 - 8x ZM1020
 - 2x ZM1032
 - 4x ZM1040
-- 2x ZM1042
+- 3x ZM1042
 - 3x ZM1080
 - 1x ZM1083
 - 1x ZM1100
@@ -253,3 +253,4 @@ Devices:
 - 1x Royal RC 121K (Panaplex version)
 - 1x Sharp Compet 23
 - 1x Sharp ELSI-160
+- 1x Walther ETR 2
