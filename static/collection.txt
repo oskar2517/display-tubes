@@ -12,6 +12,7 @@ Nixies:
 - 3x B-7971
 - 1x B5018
 - 1x B560M
+- 6x B570M
 - 1x CD11
 - 1x CD26
 - 1x CD28
@@ -80,7 +81,7 @@ Nixies:
 - 6x XN12A
 - 1x XN23
 - 4x XN3
-- 1x Z510M
+- 2x Z510M
 - 3x Z521M (one prototype)
 - 3x Z560M
 - 12x Z566M (one labelled ZM1040)
