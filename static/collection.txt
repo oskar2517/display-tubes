@@ -85,6 +85,7 @@ Nixies:
 - 3x Z521M (one prototype)
 - 3x Z560M
 - 12x Z566M (one labelled ZM1040)
+- 3x Z5660M
 - 2x Z567M
 - 6x Z570M
 - 3x Z5900M
