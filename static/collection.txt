@@ -229,6 +229,7 @@ Other:
 - 1x B9012
 - 1x Burroughs digit row counter
 - 15x E1T
+- 1x E1-10 (or El-10) United Computer Incandescant 7 Segment
 - 1x HB-105
 - ~100x IN-3
 - 2x Impulsuntersetzer C01 Display Module
