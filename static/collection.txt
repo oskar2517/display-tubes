@@ -211,7 +211,7 @@ Magic Eyes:
 - 1x EM4 (yellow)
 - 5x EM71
 - 2x EM72
-- 2x EM80
+- 3x EM80
 - 1x EM800
 - 1x EM81
 - 8x EM83
@@ -235,6 +235,7 @@ Other:
 - ~100x IN-3
 - 2x Impulsuntersetzer C01 Display Module
 - 1x KR33-01
+- 3x MG-17G
 - 6x MG-19B
 - 1x MS-6A (Mosaic Indicator)
 - 1x Nimo
