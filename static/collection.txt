@@ -243,6 +243,7 @@ Other:
 - 1x Photo Emission Tube (Projection Display)
 - 1x S10S1 (E1T)
 - 7x Telephone Line Busy Indicators
+- 1x Timeon Nixie Clock
 - 4x Unknown LED Bubble Display
 - 1x XC18
 - 2x Z550M
