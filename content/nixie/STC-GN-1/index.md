@@ -15,7 +15,7 @@ The tube's age is reflected in its design and construction. Unlike virtually all
 
 It appears the GN-1 was also made, or at least marketed, by the German manufacturer Lorenz. However, I have yet to come across a unit explicitly branded by them. In addition, there was a varitation of the GN-1 which omitted the anode grid entirely, as is depicted in the STC datasheet linked below. This is a feature only seen in a handful of other Nixie tubes, such as the [GR10K](/nixie/etl-gr10k/). 
 
-While unfortunately missing from my tube, the base of the tube and the side of its glass envelope were originally covered with black shrink wrap, which would have the depicted its model name and the manufacturer's logo. Moreover, my unit exhibits clear signs of cathode poisoning, which manifests itself in certain digits no longer lighting up completely. 
+While unfortunately missing from my tube, the base of the tube and the side of its glass envelope were originally covered with black shrink wrap, which would have depicted its model name and the manufacturer's logo. Moreover, my unit exhibits clear signs of cathode poisoning, which manifests itself in certain digits no longer lighting up completely. 
 
 The GN-1 is interchangeable with various later manufacturings, including the [GN-2](/nixie/stc-gn-2/) and [GN-5A](/nixie/stc-gn-5a/). 
 
