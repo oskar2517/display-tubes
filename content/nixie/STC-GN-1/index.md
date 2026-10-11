@@ -1,6 +1,6 @@
 ---
 date: 2024-11-16
-lastmod: 2024-12-02
+lastmod: 2026-10-11
 title: STC GN-1
 categories:
     - nixie
@@ -9,9 +9,16 @@ tags:
     - top-view
 ---
 
-The GN-1, manufactured by STC and sold under the name 'Nodistron', was among the earliest commercially available Nixie tubes. The oldest documentation I could locate dates back to December 1959 (referenced below). The tube's design reflects its age, with the digits being formed from wire rather than stamped from sheet metal like in most later Nixies. The GN-1 emits a distinctly orange glow, indicative of a mercury-free design, which likely results in a shorter lifespan compared to later models. Unlike more modern Nixie tubes, the GN-1 includes two evaporative getters, clearly visible on the left and right sides of the glass envelope. Additionally, its numerals are not mounted on a metal pin insulated by spacers but are instead secured between two mica plates and connected to the tube's pins via thick wires. Interestingly, according to the datasheet, the tube has two anodes for use with direct and alternating currrent respectively.
+The GN-1 (also known as G10/201E) was among the earliest commercially available Nixie tubes. It was manufactured by the British company STC and sold under their brand name "Nodistron." The oldest piece of documentation on the tube I could find is the original STC datasheet linked below, which is dated 1959. This places the tube towards the very beginning of Nixie tube manufacturing.
 
-The tube originally came with a black shrink wrap that contained the manufacturer's logo and the model description. A version without an anode grid was also available.
+The tube's age is reflected in its design and construction. Unlike virtually all Nixie tubes manufactured later, the digits on the GN-1, which are also quite large for a top viewing tube, are not stamped from sheet metal but are formed from pieces of wire that have been bent into the shape of digits. Furthermore, they are not arranged on a rod and separated from one another by insulators, but are mounted directly between two mica shields enclosing the anode cage at the top and bottom. The discharge surrounding them when active exhibits the characteristic orange glow typically associated with mercury-free neon fillings, which greatly limited the effective lifespan of early Nixie tubes. Other interesting features include the use of braided cables, which connects two of the tube's cathodes to their respective pins, and the two evaporative getters clearly visible on the left and right sides of the glass envelope. Finally, the tube's rugged base is partly made of sheet metal, which, while not unusual for early vacuum tubes, is very rare in Nixie tubes.
+
+It appears the GN-1 was also made, or at least marketed, by the German manufacturer Lorenz. However, I have yet to come across a unit explicitly branded by them. In addition, there was a varitation of the GN-1 which omitted the anode grid entirely, as is depicted in the STC datasheet linked below. This is a feature only seen in a handful of other Nixie tubes, such as the [GR10K](/nixie/etl-gr10k/). 
+
+While unfortunately missing from my tube, the base of the tube and the side of its glass envelope were originally covered with black shrink wrap, which would have the depicted its model name and the manufacturer's logo. Moreover, my unit exhibits clear signs of cathode poisoning, which manifests itself in certain digits no longer lighting up completely. 
+
+The GN-1 is interchangeable with various later manufacturings, including the [GN-2](/nixie/stc-gn-2/) and [GN-5A](/nixie/stc-gn-5a/). 
+
 
 ### Key Specifications
 
