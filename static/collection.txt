@@ -259,4 +259,5 @@ Devices:
 - 1x Royal RC 121K (Panaplex version)
 - 1x Sharp Compet 23
 - 1x Sharp ELSI-160
-- 1x Walther ETR 2
+- 1x Timeon Nixie Clock
+- 2x Walther ETR 2
