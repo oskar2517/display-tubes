@@ -47,7 +47,7 @@ Nixies:
 - 14x IN-1 (3x black base, 5x proper "five")
 - 10x IN-12
 - 5x IN-14
-- 2x IN-16 (1970s digits)
+- 10x IN-16 (2x 1970s digits)
 - 2x IN-17
 - 5x IN-17 (red)
 - 5x IN-18
