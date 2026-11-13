@@ -1,6 +1,6 @@
 ---
 date: 2024-11-19
-lastmod: 2026-04-18
+lastmod: 2026-11-13
 title: STC G10/241E
 hasSecondFeature: false
 categories:
@@ -10,7 +10,9 @@ tags:
     - top-view
 ---
 
-The G10/241E is a neon-filled Nomotron made by the British manufacturer STC and capable of speeds of up to 20,000 counts/second. It operates in a unidirectional, single-pulse mode, advancing the discharge by one position with each pulse and featuring ten stable positions. Unlike conventional decadic counting tubes (Dekatrons), its guiding electrodes are concealed behind a metal shell. Only the ten stable cathodes are visible through circular openings, each marked with its corresponding value on a transparent mica shield.
+The G10/241E is a neon-filled decadic Nomotron counting tube made by the British manufacturer STC. It is capable of speeds of up to 20,000 counts/second and operates in a unidirectional, single-pulse manner, which means it is capable of counting in one direction only. 
+
+Nomotrons differ from regular Dekatrons in that their guide cathodes are hidden behind a shield restricting visibility to the ten stable positions, which are individually numbered to improve their readability.
 
 The tube features a specialized socket design based on the B12A socket, incorporating an additional central pin that connects to the tube's anode.
 
