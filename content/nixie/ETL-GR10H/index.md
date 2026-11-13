@@ -1,6 +1,6 @@
 ---
 date: 2024-11-19
-lastmod: 2025-01-18
+lastmod: 2026-11-13
 title: ETL GR10H
 categories:
     - nixie
@@ -9,16 +9,17 @@ tags:
     - top-view
 ---
 
-The GR10H is an early Nixie tube produced by ETL, featuring digits visible through a small viewing window, with the majority of its envelope coated in black paint, likely intended to enhance contrast and minimize light bleed from adjacent tubes. Shown at the end of this page is a transparent GR10H revealing that, like in the [STC GN-1](/nixie/stc-gn-1/), the digits are connected to the tube's pins via thick wires and an evaporative getter was used.
+The GR10H is an early Nixie tube manufactured by ETL in Great Britain and sold under the brand name 'Digitron'. The tube has an unusual design restricting visibility of the digits to a rectangular cutout in the anode cage. Additionally, the glass envelope of some units was covered in black paint, which was likely intended to enhance contrast and minimize light bleed from adjacent tubes. The GR10H's digits have an unusually slender appearance with the '0' standing out in particular.
 
-Unfortunately, this particular unit shows significant wear and requires increased current to maintain a stable discharge.
+Also shown at the bottom of this page is an uncoated GR10H revealing the tube's inner construction. Similar to some other early Nixie models, the GR10H uses evaporative getters, which appear as shiny silver spots inside the glass envelope. Furthermore, the tube's digits are connected to its pins with thick insulated wires, a characteristic shared with other early models such as the [GN-1](/nixie/stc-gn-1/).
+
 
 ### Key Specifications
 
 | Property          | Description |
 |-------------------|-------------|
 | Manufacturer      | ETL         |
-| Time period       | Early 1960s |
+| Time period       | ?           |
 | Digit height      | 19mm        |
 | Envelope diameter | 33mm        |
 | Socket            | B17A        |
