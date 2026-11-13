@@ -1,6 +1,6 @@
 ---
 date: 2024-11-21
-lastmod: 2024-11-25
+lastmod: 2026-11-13
 title: National Union GI-10
 categories:
     - nixie
@@ -9,11 +9,13 @@ tags:
     - top-view
 ---
 
-The National Union GI-10 is likely the first Nixie tube ever produced, belonging to National Union's Inditron series of display tubes. Patented applied for in 1954 (and granted in 1956), it predates the original "NIXI" tube developed by Haydu Brothers and later Burroughs by at least a few months. Similar to other early Nixie tubes, such as the [STC GN-1](/nixie/stc-gn-1/), its digits are not stamped from sheet metal but are crafted from wire. These digits are connected to the tube's 10 pins via long rods covered in an insulating layer of ceramic that also serve to hold them in place. In contrast to more modern Nixie tubes, where the digits are arranged to minimize obstruction of each other, the digits in the GI-10 are organized in a straightforward, sequential manner. The zero digit is positioned at the very front, while the one is located at the farthest point in the stack. Unlike most later Nixie designs, the GI-10 lacks a dedicated anode; instead, activating a specific digit requires all other electrodes to be held at anode potential, which complicates the driving circuitry and makes it difficult to achieve uniform brightness across all digits. The tube uses a standard Noval 9-pin socket with an additional central pin.
+The GI-10, developed by National Union, is likely the first Nixie ever produced. Even predating the term 'Nixie' itself by at least a few months, it instead belonged to National Union's 'Inditron' line of display tubes. National Union applied the tube for patent in 1954, which was granted two years later in 1956.
 
-The development of more sophisticated Nixie tubes rendered the GI-10 obsolete in a short time. No commercial device using the tubes is known to me. According to its box, my tube was packaged in March 1961, suggesting it was likely among the last of its kind to be produced.
+The tube's age is evident in its eclectic, almost prototype-like appearance. Similar to some other early Nixie tubes, such as the [STC GN-1](/nixie/stc-gn-1/), its digits are not stamped from sheet metal but are instead bent from individual pieces of wire. These digits are connected to the tube's 10 pins with long rods covered in an insulating layer of ceramic that also serve to hold them in place. Unlike more modern Nixies tubes, which generally arranged the digits in order to minimize obstruction of each other, the digits in the GI-10 are organized in a straightforward sequential manner starting with zero in the front followed by digits nine to one in descending order. Another unusual property of the GI-10 is the omission of a dedicated anode. Consequently, to select a specific digit requires all other electrodes tro be held at anode potential, which complicates the driving circuitry and may also lead inconsistent illumination across all digits. The tube uses a standard Noval 9-pin socket with an additional central pin.
 
-A lot more information about the design choices behind the GI-10 can be found in the US patent linked below.
+The development of more sophisticated Nixie tubes rendered the GI-10 obsolete shortly after its release. Not a single commercial device using the tubes is known to me. An old pamphlet linked below advertises a range of other display tubes also manufactured by National Union of which the only one actually known to exist is the larger [GI-21](/nixie/nu-gi-21/). According to its box, my tube was packaged in March 1961, suggesting it was likely among the last of its kind to be produced.
+
+Much more information about the design choices behind the GI-10 can be found in the US patent linked below.
 
 ### Key Specifications
 
