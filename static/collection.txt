@@ -1,19 +1,22 @@
 Nixies:
 - 1x 6844A
-- 2x 7977/B-4032
+- 3x 7977/B-4032
 - 1x 8422 (B-5991)
-- 2x 8423 (B-6091)
+- 8x 8423 (B-6091)
 - 3x B-5092
 - 2x B-5441
 - 1x B-5441A
 - 1x B-5750
 - 2x B-5971
+- 2x B-6034
 - 1x B-6037
+- 2x B-7153
 - 3x B-7971
 - 1x B5018
 - 1x B560M
 - 6x B570M
 - 1x CD11
+- 1x CD14
 - 1x CD26
 - 1x CD28
 - 1x CD61
@@ -40,10 +43,12 @@ Nixies:
 - 1x GR-111
 - 1x GR-115
 - 1x GR-211/CD94
+- 1x GR-875
 - 1x GR10G
 - 3x GR10H
 - 7x GR10K (5 with red filter)
 - 1x GS-4A
+- 3x HB-106
 - 14x IN-1 (3x black base, 5x proper "five")
 - 10x IN-12
 - 5x IN-14
@@ -53,12 +58,13 @@ Nixies:
 - 5x IN-18
 - 1x IN-19A
 - 3x IN-4
-- 3x IN-8 (fine grid)
+- 4x IN-8 (3x fine grid)
 - 8x LC-516
-- 1x LD-836
+- 13x LD-836
 - 4x LD8007
 - 2x MUD0 6F
 - 1x NL-5750CS
+- 4x NL-5992
 - 1x NL-7153
 - 1x NL1246
 - 1x NL5025
@@ -84,8 +90,8 @@ Nixies:
 - 2x Z510M
 - 3x Z521M (one prototype)
 - 3x Z560M
-- 12x Z566M (one labelled ZM1040)
 - 3x Z5660M
+- 12x Z566M (one labelled ZM1040)
 - 2x Z567M
 - 1x Z568M
 - 6x Z570M
@@ -125,6 +131,7 @@ Dekatrons:
 - 2x A101
 - 1x DK12
 - 1x DK24
+- 3x EZ10A
 - 1x EZ10B
 - 1x GC10B/S
 - 1x GC12/4B
@@ -183,7 +190,7 @@ VFDs:
 - 1x Unknown 12 digit VFD
 - 1x Unknown VFD similar to IV-18
 - 7x Y1938
-- 2x Y1939
+- 3x Y1939
 - 1x Y4075
 
 Magic Eyes:
@@ -229,8 +236,8 @@ Other:
 - 1x 220V00-123-A-327 (IEE, One Plane Readout, Codes)
 - 1x B9012
 - 1x Burroughs digit row counter
-- 15x E1T
 - 1x E1-10 (or El-10) United Computer Incandescant 7 Segment
+- 15x E1T
 - 1x HB-105
 - ~100x IN-3
 - 2x Impulsuntersetzer C01 Display Module
@@ -238,19 +245,19 @@ Other:
 - 3x MG-17G
 - 6x MG-19B
 - 1x MS-6A (Mosaic Indicator)
+- 3x Misc. neon bulbs
 - 1x Nimo
 - 6x OmniRay SAO M 40
 - 1x Photo Emission Tube (Projection Display)
 - 1x S10S1 (E1T)
 - 7x Telephone Line Busy Indicators
-- 1x Timeon Nixie Clock
 - 4x Unknown LED Bubble Display
+- 1x Unknown Soviet LCD
 - 1x XC18
 - 2x Z550M
 - 3x Z565M
 - 1x Z700U
 - 1x ZM1050
-- 1x medium-size neon indicator
 
 Devices:
 - 1x Contex D11
