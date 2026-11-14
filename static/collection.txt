@@ -136,9 +136,11 @@ Dekatrons:
 - 1x GC10B/S
 - 1x GC12/4B
 - 1x GCA10G
+- 1x GSA10G
 - 1x GSA10G (Development Sample)
 - 2x OG-3
 - 3x OG-4
+- 1x Z303C
 - 1x Z502S
 - 4x ZM1070
 
