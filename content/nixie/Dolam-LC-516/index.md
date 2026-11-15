@@ -1,6 +1,6 @@
 ---
 date: 2024-11-22
-lastmod: 2026-04-23
+lastmod: 2026-11-15
 title: Dolam LC-516
 categories:
     - nixie
@@ -9,13 +9,13 @@ tags:
     - top-view
 ---
 
-The LC-516, produced by Polish tube manufacturer Dolam (later known as Unitra Dolam), is pin-compatible with and visually similar to the Soviet [IN-1 Nixie](/nixie/anod-in-1/) tube. However, unlike the IN-1, an early model with a relatively short lifespan, the LC-516 contains small amounts of mercury, which significantly improves its longevity and gives its discharge a subtle bluish tint. The LC-516 features a slightly smaller glass envelope and digits compared to the IN-1; a comparison between the two is shown below. Notably, the LC-516 has a black base, which is also found in IN-1s intended for export. Dolam also manufactured a version without the phenolic base under the designation LC-513.
+The LC-516 is a peculiar Nixie tube made by the Polish manufacturer Dolam. In actuality, it is simply an LC-513, which has been mounted on a base that is identical to that of the Soviet [IN-1](/nixie/anod-in-1/). This results in a tube that is electrically and structurally interchangeable with the IN-1 while generally providing a significantly higher operational lifespan. This is likely in large part due to the inclusion of mercury vapor in the tube's neon filling, which greatly reduces sputtering and is absent from many earlier models, including the IN-1. However, since the LC-513 is a tube of the common 13-pin top-view variety, its digits are only 15mm tall, which makes them somewhat smaller than the IN-1s 18mm digits. Furthermore, the digit's have a different design including a proper five in place of the upside down '2' used in most IN-1s. The LC-516's phenolic base, which appears almost comically large in comparison to its glass envelope, is black, matching the base of IN-1s intended for export.
 
-As I am not aware of a datasheet specifically for this tube, I have provided a link to the IN-1's datasheet below. Since the tubes are compatible, the relevant specifications should be identical. The earliest samples of LC-516 I have seen were manufactured in 1971.
+As I am unaware of a datasheet specifically for this tube, I have provided a links for both the IN-1's and LC-513's datasheets below.
 
 **Update from 2025-05-18**
 
-I was able to acquire a slightly different version of the LC-516, featuring a larger glass envelope and digit sizes comparable to the IN-1. This variant appears to lack mercury vapor and has a slightly different digit arrangement. I suspect it may be an earlier revision of the model. Photos are provided below.
+I was able to acquire a slightly different version of the LC-516, which has a larger glass envelope and digit sizes comparable to the IN-1. This variant appears to lack mercury vapor and has a slightly different digit arrangement. I suspect it may be an earlier revision of the model. Photos are provided below.
 
 ### Key Specifications
 
@@ -29,6 +29,8 @@ I was able to acquire a slightly different version of the LC-516, featuring a la
 | Socket            | U11         |
 
 ### References
+
+- [LC-513 datasheet](https://www.nixies.us/wp-content/uploads/2021/08/LC-513.pdf) ([Archive](https://web.archive.org/web/20240422042818/https://www.nixies.us/wp-content/uploads/2021/08/LC-513.pdf))
 
 - [IN-1 datasheet](https://www.tube-tester.com/sites/nixie/dat_arch/IN-1.pdf) ([Archive](https://web.archive.org/web/20240424052339/https://www.tube-tester.com/sites/nixie/dat_arch/IN-1.pdf))
 
