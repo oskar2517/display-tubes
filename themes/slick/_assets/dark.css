@@ -23,6 +23,10 @@ body[theme="dark"] {
         &:visited {
             color: #9569b1;
         }
+
+        &:hover {
+            color: #6bc0c5;
+        }
     }
 
     .button-theme-switcher {
