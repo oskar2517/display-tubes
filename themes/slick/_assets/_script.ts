@@ -1,6 +1,9 @@
 // apply theme
 if (localStorage.getItem("theme")) {
+    const buttonThemeSwitcherIcon = document.querySelector("#buttonThemeSwitcher .icon") as HTMLImageElement;
+
     document.body.setAttribute("theme", localStorage.getItem("theme")!!);
+    buttonThemeSwitcherIcon.src = "/assets/icons/icon-sun.svg";
 } 
 
 function setElementClass(
