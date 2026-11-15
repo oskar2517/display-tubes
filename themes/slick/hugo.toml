@@ -1,0 +1,19 @@
+[module]
+  # Declaring any mount drops all of Hugo's default theme mounts,
+  # so the standard theme directories are listed explicitly.
+  [[module.mounts]]
+    source = "archetypes"
+    target = "archetypes"
+  [[module.mounts]]
+    source = "assets"
+    target = "assets"
+  [[module.mounts]]
+    source = "layouts"
+    target = "layouts"
+  [[module.mounts]]
+    source = "static"
+    target = "static"
+  # Serve the icon sources directly at /assets/icons/ (no build copy needed).
+  [[module.mounts]]
+    source = "_assets/icons"
+    target = "static/assets/icons"

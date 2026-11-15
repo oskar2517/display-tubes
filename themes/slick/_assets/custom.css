@@ -264,6 +264,30 @@ h1, h2, h3, h4, h5, h6, .post-title {
 
 code .ln { margin-right: .5em; }
 
+.navigation-header .pure-menu {
+    display: flex;
+    justify-content: space-between;
+}
+
+.button-theme-switcher {
+    margin: 10px 20px;
+    display: flex;
+    column-gap: 7px;
+    font-size: 16px;
+    color: black;
+    align-items: center;
+    border: 1px solid #4d4d4c;
+    background-color: transparent;
+}
+
+.button-theme-switcher:hover {
+    background-color: #efefef;
+}
+
+.button-theme-switcher .icon {
+    height: 20px;
+}
+
 /* media *********************************************************************/
 
 @media screen and (min-width: 48em) {

@@ -1,3 +1,8 @@
+// apply theme
+if (localStorage.getItem("theme")) {
+    document.body.setAttribute("theme", localStorage.getItem("theme")!!);
+} 
+
 function setElementClass(
   selector: string,
   value: string,
@@ -55,6 +60,21 @@ document.addEventListener("DOMContentLoaded", (): void => {
 });
 
 window.addEventListener("load", () => {
+    const buttonThemeSwitcher = document.querySelector("#buttonThemeSwitcher") as HTMLButtonElement;
+    const buttonThemeSwitcherIcon = buttonThemeSwitcher.querySelector(".icon") as HTMLImageElement;
+
+    buttonThemeSwitcher.addEventListener("click", () => {
+        if (document.body.hasAttribute("theme")) {
+            document.body.removeAttribute("theme");
+            localStorage.removeItem("theme");
+            buttonThemeSwitcherIcon.src = "/assets/icons/icon-moon.svg";
+        } else {
+            document.body.setAttribute("theme", "dark");
+            localStorage.setItem("theme", "dark");
+            buttonThemeSwitcherIcon.src = "/assets/icons/icon-sun.svg";
+        }
+    });
+
     setupFeatureImageSwappers();
 
     const inputSearch = document.querySelector("#inputSearch") as HTMLInputElement;
