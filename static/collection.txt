@@ -77,6 +77,7 @@ Nixies:
 - 1x NL816
 - 1x NL841
 - 1x R|Z568M
+- 1x SIMULATEDO Tube
 - 6x SZ-8
 - 1x TAF1317A
 - 1x Unknown like 6844A
@@ -104,6 +105,7 @@ Nixies:
 - 3x ZM1001R
 - 1x ZM1003
 - 1x ZM1008
+- 1x ZM1009
 - 8x ZM1020
 - 2x ZM1032
 - 4x ZM1040
@@ -136,7 +138,7 @@ Dekatrons:
 - 1x GC10B/S
 - 1x GC12/4B
 - 1x GCA10G
-- 1x GSA10G
+- 1x GS10G
 - 1x GSA10G (Development Sample)
 - 2x OG-3
 - 3x OG-4
